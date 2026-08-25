@@ -1,0 +1,3763 @@
+{
+  "updated": "2026-08-25",
+  "curated": [
+    {
+      "name": "乃木坂46",
+      "faction": "坂道",
+      "agency": "乃木坂46合同会社",
+      "project": "坂道シリーズ",
+      "label": "Sony Music系",
+      "parent": "Sony Group系",
+      "venue": "スタジアム/ドーム級",
+      "tier": "SSS",
+      "trend": 63,
+      "power": 98,
+      "status": "stable",
+      "note": "国内最大級の基礎体力。ブランド・ライブ・メディア総合力が強い。",
+      "events": [
+        "全国アリーナツアー",
+        "明治神宮野球場4days"
+      ],
+      "id": "g0135",
+      "category": "Idol",
+      "official_url": "https://www.nogizaka46.com/",
+      "x_url": "",
+      "youtube_url": "",
+      "tiktok_url": ""
+    },
+    {
+      "name": "櫻坂46",
+      "faction": "坂道",
+      "agency": "Seed & Flower",
+      "project": "坂道シリーズ",
+      "label": "Sony Music系",
+      "parent": "Sony Group系",
+      "venue": "国立競技場級",
+      "tier": "SSS",
+      "trend": 82,
+      "power": 96,
+      "status": "up",
+      "note": "2026年は大型ライブ攻勢が目立つ坂道の急先鋒。",
+      "events": [
+        "MUFGスタジアム2days",
+        "全国アリーナツアー"
+      ],
+      "id": "g0136",
+      "category": "Idol",
+      "official_url": "https://sakurazaka46.com/",
+      "x_url": "",
+      "youtube_url": "",
+      "tiktok_url": ""
+    },
+    {
+      "name": "日向坂46",
+      "faction": "坂道",
+      "agency": "Seed & Flower",
+      "project": "坂道シリーズ",
+      "label": "Sony Music系",
+      "parent": "Sony Group系",
+      "venue": "スタジアム/アリーナ級",
+      "tier": "SS",
+      "trend": 55,
+      "power": 88,
+      "status": "stable",
+      "note": "大型会場を継続できる全国級ブランド。",
+      "events": [
+        "横浜スタジアム",
+        "アリーナツアー"
+      ],
+      "id": "g0137",
+      "category": "Idol",
+      "official_url": "https://www.hinatazaka46.com/",
+      "x_url": "",
+      "youtube_url": "",
+      "tiktok_url": ""
+    },
+    {
+      "name": "=LOVE",
+      "faction": "イコノイジョイ",
+      "agency": "代々木アニメーション学院",
+      "project": "イコノイジョイ",
+      "label": "Sony Music系",
+      "parent": "YOANI / Sony",
+      "venue": "国立競技場級",
+      "tier": "SSS",
+      "trend": 94,
+      "power": 94,
+      "status": "up",
+      "note": "坂道外から最上位階級へ。2026年最重要の上昇勢力。",
+      "events": [
+        "国立競技場2days"
+      ],
+      "id": "g0138",
+      "category": "Idol",
+      "official_url": "https://equal-love.jp/",
+      "x_url": "",
+      "youtube_url": "",
+      "tiktok_url": ""
+    },
+    {
+      "name": "≠ME",
+      "faction": "イコノイジョイ",
+      "agency": "代々木アニメーション学院",
+      "project": "イコノイジョイ",
+      "label": "Sony Music系",
+      "parent": "YOANI / Sony",
+      "venue": "アリーナ級",
+      "tier": "SS",
+      "trend": 79,
+      "power": 78,
+      "status": "up",
+      "note": "独自ファンダムが確立した第二の柱。",
+      "events": [
+        "全国ツアー"
+      ],
+      "id": "g0139",
+      "category": "Idol",
+      "official_url": "https://not-equal-me.jp/",
+      "x_url": "",
+      "youtube_url": "",
+      "tiktok_url": ""
+    },
+    {
+      "name": "≒JOY",
+      "faction": "イコノイジョイ",
+      "agency": "代々木アニメーション学院",
+      "project": "イコノイジョイ",
+      "label": "Sony Music系",
+      "parent": "YOANI / Sony",
+      "venue": "大型アリーナ到達前夜",
+      "tier": "S",
+      "trend": 91,
+      "power": 68,
+      "status": "up",
+      "note": "若手の中でも成長角度が大きい。",
+      "events": [
+        "TOYOTA ARENA TOKYO予定"
+      ],
+      "id": "g0140",
+      "category": "Idol",
+      "official_url": "https://nearly-equal-joy.jp/",
+      "x_url": "",
+      "youtube_url": "",
+      "tiktok_url": ""
+    },
+    {
+      "name": "FRUITS ZIPPER",
+      "faction": "KAWAII LAB.",
+      "agency": "ASOBISYSTEM",
+      "project": "KAWAII LAB.",
+      "label": "KAWAII LAB./関連レーベル",
+      "parent": "ASOBISYSTEM",
+      "venue": "アリーナ級",
+      "tier": "SSS",
+      "trend": 86,
+      "power": 93,
+      "status": "up",
+      "note": "SNS・広告・ファッションまで横断する現代型アイドルIP。",
+      "events": [
+        "大型アリーナ公演"
+      ],
+      "id": "g0141",
+      "category": "Idol",
+      "official_url": "https://fruitszipper.asobisystem.com/",
+      "x_url": "",
+      "youtube_url": "",
+      "tiktok_url": ""
+    },
+    {
+      "name": "CANDY TUNE",
+      "faction": "KAWAII LAB.",
+      "agency": "ASOBISYSTEM",
+      "project": "KAWAII LAB.",
+      "label": "KAWAII LAB./関連レーベル",
+      "parent": "ASOBISYSTEM",
+      "venue": "Kアリーナ級",
+      "tier": "SS",
+      "trend": 97,
+      "power": 82,
+      "status": "up",
+      "note": "2026年最大級の上昇株。",
+      "events": [
+        "Kアリーナ横浜"
+      ],
+      "id": "g0142",
+      "category": "Idol",
+      "official_url": "https://candytune.asobisystem.com/",
+      "x_url": "",
+      "youtube_url": "",
+      "tiktok_url": ""
+    },
+    {
+      "name": "CUTIE STREET",
+      "faction": "KAWAII LAB.",
+      "agency": "ASOBISYSTEM",
+      "project": "KAWAII LAB.",
+      "label": "KAWAII LAB./関連レーベル",
+      "parent": "ASOBISYSTEM",
+      "venue": "Kアリーナ級",
+      "tier": "SS",
+      "trend": 98,
+      "power": 83,
+      "status": "up",
+      "note": "楽曲バズから大型会場へ急加速。",
+      "events": [
+        "Kアリーナ横浜",
+        "アリーナツアー"
+      ],
+      "id": "g0143",
+      "category": "Idol",
+      "official_url": "https://cutiestreet.asobisystem.com/",
+      "x_url": "",
+      "youtube_url": "",
+      "tiktok_url": ""
+    },
+    {
+      "name": "SWEET STEADY",
+      "faction": "KAWAII LAB.",
+      "agency": "ASOBISYSTEM",
+      "project": "KAWAII LAB.",
+      "label": "KAWAII LAB./関連レーベル",
+      "parent": "ASOBISYSTEM",
+      "venue": "ホール〜アリーナ成長期",
+      "tier": "S",
+      "trend": 88,
+      "power": 64,
+      "status": "up",
+      "note": "上位3組に続く育成成功候補。",
+      "events": [
+        "大型合同イベント"
+      ],
+      "id": "g0144",
+      "category": "Idol",
+      "official_url": "",
+      "x_url": "",
+      "youtube_url": "",
+      "tiktok_url": ""
+    },
+    {
+      "name": "MORE STAR",
+      "faction": "KAWAII LAB.",
+      "agency": "ASOBISYSTEM",
+      "project": "KAWAII LAB.",
+      "label": "KAWAII LAB./関連レーベル",
+      "parent": "ASOBISYSTEM",
+      "venue": "新人",
+      "tier": "A",
+      "trend": 99,
+      "power": 38,
+      "status": "up",
+      "note": "2026年新人株。今後の伸びを定点観測。",
+      "events": [
+        "2025年末デビュー"
+      ],
+      "id": "g0115",
+      "category": "Idol",
+      "official_url": "",
+      "x_url": "",
+      "youtube_url": "",
+      "tiktok_url": ""
+    },
+    {
+      "name": "iLiFE!",
+      "faction": "HEROINES",
+      "agency": "imaginate",
+      "project": "HEROINES",
+      "label": "独立/関連",
+      "parent": "imaginate",
+      "venue": "Kアリーナ級",
+      "tier": "SSS",
+      "trend": 99,
+      "power": 91,
+      "status": "up",
+      "note": "ライブアイドルの天井を押し上げた象徴的存在。",
+      "events": [
+        "日本武道館完売",
+        "Kアリーナ完売"
+      ],
+      "id": "g0130",
+      "category": "Idol",
+      "official_url": "",
+      "x_url": "",
+      "youtube_url": "",
+      "tiktok_url": ""
+    },
+    {
+      "name": "のんふぃく！",
+      "faction": "HEROINES",
+      "agency": "imaginate",
+      "project": "HEROINES",
+      "label": "独立/関連",
+      "parent": "imaginate",
+      "venue": "大型ライブハウス〜ホール",
+      "tier": "S",
+      "trend": 78,
+      "power": 65,
+      "status": "up",
+      "note": "HEROINES第二勢力の中核。",
+      "events": [
+        "大型ライブハウス"
+      ],
+      "id": "g0082",
+      "category": "Idol",
+      "official_url": "",
+      "x_url": "",
+      "youtube_url": "",
+      "tiktok_url": ""
+    },
+    {
+      "name": "夜光性アミューズ",
+      "faction": "HEROINES",
+      "agency": "imaginate",
+      "project": "HEROINES",
+      "label": "独立/関連",
+      "parent": "imaginate",
+      "venue": "豊洲PIT級",
+      "tier": "A",
+      "trend": 72,
+      "power": 57,
+      "status": "up",
+      "note": "現場人気の厚い中核グループ。",
+      "events": [
+        "豊洲PIT"
+      ],
+      "id": "g0116",
+      "category": "Idol",
+      "official_url": "",
+      "x_url": "",
+      "youtube_url": "",
+      "tiktok_url": ""
+    },
+    {
+      "name": "テンシンランマン",
+      "faction": "HEROINES",
+      "agency": "imaginate",
+      "project": "HEROINES",
+      "label": "独立/関連",
+      "parent": "imaginate",
+      "venue": "新人〜中規模",
+      "tier": "B",
+      "trend": 96,
+      "power": 32,
+      "status": "up",
+      "note": "TIF系指標でも目立つ新人監視株。",
+      "events": [
+        "TIFメイン争奪上位"
+      ],
+      "id": "g0073",
+      "category": "Idol",
+      "official_url": "",
+      "x_url": "",
+      "youtube_url": "",
+      "tiktok_url": ""
+    },
+    {
+      "name": "超ときめき♡宣伝部",
+      "faction": "STAR PLANET",
+      "agency": "スターダストプロモーション",
+      "project": "STAR PLANET",
+      "label": "avex trax",
+      "parent": "スターダスト / avex",
+      "venue": "SSA/武道館級",
+      "tier": "SSS",
+      "trend": 92,
+      "power": 88,
+      "status": "up",
+      "note": "王道アイドル文化とTikTokバズが融合。",
+      "events": [
+        "SSA",
+        "日本武道館"
+      ],
+      "id": "g0147",
+      "category": "Idol",
+      "official_url": "https://toki-sen.com/",
+      "x_url": "",
+      "youtube_url": "",
+      "tiktok_url": ""
+    },
+    {
+      "name": "ももいろクローバーZ",
+      "faction": "STAR PLANET",
+      "agency": "スターダストプロモーション",
+      "project": "STAR PLANET",
+      "label": "EVIL LINE / King系",
+      "parent": "スターダスト",
+      "venue": "ドーム/スタジアム経験",
+      "tier": "SS",
+      "trend": 42,
+      "power": 90,
+      "status": "stable",
+      "note": "成長率よりブランド資産で見る殿堂級。",
+      "events": [
+        "大型会場多数"
+      ],
+      "id": "g0145",
+      "category": "Idol",
+      "official_url": "https://www.momoclo.net/",
+      "x_url": "",
+      "youtube_url": "",
+      "tiktok_url": ""
+    },
+    {
+      "name": "私立恵比寿中学",
+      "faction": "STAR PLANET",
+      "agency": "スターダストプロモーション",
+      "project": "STAR PLANET",
+      "label": "Sony Music系",
+      "parent": "スターダスト / Sony",
+      "venue": "アリーナ〜ホール級",
+      "tier": "S",
+      "trend": 48,
+      "power": 73,
+      "status": "stable",
+      "note": "長期ブランド型の強豪。",
+      "events": [
+        "全国ツアー"
+      ],
+      "id": "g0146",
+      "category": "Idol",
+      "official_url": "https://www.shiritsuebichu.jp/",
+      "x_url": "",
+      "youtube_url": "",
+      "tiktok_url": ""
+    },
+    {
+      "name": "いぎなり東北産",
+      "faction": "STAR PLANET",
+      "agency": "スターダストプロモーション",
+      "project": "STAR PLANET",
+      "label": "関連レーベル",
+      "parent": "スターダスト",
+      "venue": "武道館経験/Zepp",
+      "tier": "S",
+      "trend": 81,
+      "power": 69,
+      "status": "up",
+      "note": "武道館後の定着フェーズ。次のヒットが鍵。",
+      "events": [
+        "日本武道館",
+        "Zeppツアー"
+      ],
+      "id": "g0148",
+      "category": "Idol",
+      "official_url": "",
+      "x_url": "",
+      "youtube_url": "",
+      "tiktok_url": ""
+    },
+    {
+      "name": "モーニング娘。'26",
+      "faction": "Hello! Project",
+      "agency": "アップフロント",
+      "project": "Hello! Project",
+      "label": "zetima/UP-FRONT系",
+      "parent": "UP-FRONT GROUP",
+      "venue": "武道館級",
+      "tier": "S",
+      "trend": 45,
+      "power": 77,
+      "status": "stable",
+      "note": "育成・加入・卒業モデルの象徴。",
+      "events": [
+        "日本武道館級"
+      ],
+      "id": "g0149",
+      "category": "Idol",
+      "official_url": "https://www.helloproject.com/morningmusume/",
+      "x_url": "",
+      "youtube_url": "",
+      "tiktok_url": ""
+    },
+    {
+      "name": "アンジュルム",
+      "faction": "Hello! Project",
+      "agency": "アップフロント",
+      "project": "Hello! Project",
+      "label": "hachama/UP-FRONT系",
+      "parent": "UP-FRONT GROUP",
+      "venue": "武道館級",
+      "tier": "S",
+      "trend": 57,
+      "power": 72,
+      "status": "stable",
+      "note": "ライブ評価の高いハロプロ主力。",
+      "events": [
+        "武道館級"
+      ],
+      "id": "g0150",
+      "category": "Idol",
+      "official_url": "https://www.helloproject.com/angerme/",
+      "x_url": "",
+      "youtube_url": "",
+      "tiktok_url": ""
+    },
+    {
+      "name": "Juice=Juice",
+      "faction": "Hello! Project",
+      "agency": "アップフロント",
+      "project": "Hello! Project",
+      "label": "hachama/UP-FRONT系",
+      "parent": "UP-FRONT GROUP",
+      "venue": "武道館級",
+      "tier": "S",
+      "trend": 58,
+      "power": 71,
+      "status": "stable",
+      "note": "歌唱力とライブ力に強み。",
+      "events": [
+        "武道館級"
+      ],
+      "id": "g0151",
+      "category": "Idol",
+      "official_url": "https://www.helloproject.com/juicejuice/",
+      "x_url": "",
+      "youtube_url": "",
+      "tiktok_url": ""
+    },
+    {
+      "name": "高嶺のなでしこ",
+      "faction": "TWIN PLANET",
+      "agency": "TWIN PLANET",
+      "project": "HoneyWorks連携",
+      "label": "Victor/関連",
+      "parent": "TWIN PLANET",
+      "venue": "ホール〜大型会場成長期",
+      "tier": "S",
+      "trend": 89,
+      "power": 67,
+      "status": "up",
+      "note": "楽曲×SNS×王道ビジュアルで上昇。",
+      "events": [
+        "全国ツアー"
+      ],
+      "id": "g0067",
+      "category": "Idol",
+      "official_url": "https://takanenonadeshiko.jp/",
+      "x_url": "",
+      "youtube_url": "",
+      "tiktok_url": ""
+    },
+    {
+      "name": "可憐なアイボリー",
+      "faction": "TWIN PLANET",
+      "agency": "TWIN PLANET",
+      "project": "HoneyWorks連携",
+      "label": "関連レーベル",
+      "parent": "TWIN PLANET",
+      "venue": "中〜大型ホール成長期",
+      "tier": "A",
+      "trend": 90,
+      "power": 53,
+      "status": "up",
+      "note": "2026年要注目の成長株。",
+      "events": [
+        "TIF PR大使話題"
+      ],
+      "id": "g0033",
+      "category": "Idol",
+      "official_url": "https://karennaivory.jp/",
+      "x_url": "",
+      "youtube_url": "",
+      "tiktok_url": ""
+    },
+    {
+      "name": "AKB48",
+      "faction": "48 GROUP",
+      "agency": "DH",
+      "project": "48 GROUP",
+      "label": "EMI Records/Universal系",
+      "parent": "DH / Universal",
+      "venue": "武道館〜アリーナ級",
+      "tier": "SS",
+      "trend": 61,
+      "power": 79,
+      "status": "stable",
+      "note": "劇場インフラと全国認知を持つ再構築期の巨大IP。",
+      "events": [
+        "劇場公演",
+        "大型コンサート"
+      ],
+      "id": "g0156",
+      "category": "Idol",
+      "official_url": "https://www.akb48.co.jp/",
+      "x_url": "",
+      "youtube_url": "",
+      "tiktok_url": ""
+    },
+    {
+      "name": "僕が見たかった青空",
+      "faction": "avex",
+      "agency": "僕青運営",
+      "project": "乃木坂46公式ライバル",
+      "label": "avex trax",
+      "parent": "avex",
+      "venue": "ホール〜成長期",
+      "tier": "S",
+      "trend": 67,
+      "power": 58,
+      "status": "up",
+      "note": "秋元康系×avexの重要カード。",
+      "events": [
+        "全国ライブ"
+      ],
+      "id": "g0163",
+      "category": "Idol",
+      "official_url": "",
+      "x_url": "",
+      "youtube_url": "",
+      "tiktok_url": ""
+    },
+    {
+      "name": "SUPER☆GiRLS",
+      "faction": "avex",
+      "agency": "avex management",
+      "project": "iDOL Street",
+      "label": "avex",
+      "parent": "avex",
+      "venue": "ホール/ライブハウス",
+      "tier": "A",
+      "trend": 42,
+      "power": 50,
+      "status": "stable",
+      "note": "avex直系アイドルの本流。",
+      "events": [
+        "周年ライブ"
+      ],
+      "id": "g0162",
+      "category": "Idol",
+      "official_url": "https://supergirls.jp/",
+      "x_url": "",
+      "youtube_url": "",
+      "tiktok_url": ""
+    },
+    {
+      "name": "わーすた",
+      "faction": "avex",
+      "agency": "avex management",
+      "project": "iDOL Street",
+      "label": "avex",
+      "parent": "avex",
+      "venue": "ホール/ライブハウス",
+      "tier": "A",
+      "trend": 46,
+      "power": 52,
+      "status": "stable",
+      "note": "海外展開実績もあるavex直系。",
+      "events": [
+        "全国/海外イベント"
+      ],
+      "id": "g0127",
+      "category": "Idol",
+      "official_url": "https://wa-suta.world/",
+      "x_url": "",
+      "youtube_url": "",
+      "tiktok_url": ""
+    },
+    {
+      "name": "ASP",
+      "faction": "WACK",
+      "agency": "WACK",
+      "project": "WACK",
+      "label": "avex系/関連",
+      "parent": "WACK",
+      "venue": "Zepp〜ホール",
+      "tier": "A",
+      "trend": 54,
+      "power": 49,
+      "status": "stable",
+      "note": "WACK再編後の中核候補。",
+      "events": [
+        "全国ツアー"
+      ],
+      "id": "g0169",
+      "category": "Idol",
+      "official_url": "",
+      "x_url": "",
+      "youtube_url": "",
+      "tiktok_url": ""
+    },
+    {
+      "name": "ME:I",
+      "faction": "LAPONE GIRLS",
+      "agency": "LAPONE GIRLS",
+      "project": "PRODUCE 101 JAPAN THE GIRLS",
+      "label": "LAPONE/関連",
+      "parent": "CJ ENM × 吉本興業系",
+      "venue": "アリーナ級",
+      "tier": "SS",
+      "trend": 74,
+      "power": 83,
+      "status": "up",
+      "note": "K-POP型市場との橋渡しをする巨大ガールズグループ。",
+      "events": [
+        "アリーナ公演"
+      ],
+      "id": "g0167",
+      "category": "Idol",
+      "official_url": "https://me-i.jp/",
+      "x_url": "",
+      "youtube_url": "",
+      "tiktok_url": ""
+    },
+    {
+      "name": "IS:SUE",
+      "faction": "LAPONE GIRLS",
+      "agency": "LAPONE GIRLS",
+      "project": "LAPONE GIRLS",
+      "label": "LAPONE/関連",
+      "parent": "CJ ENM × 吉本興業系",
+      "venue": "ホール〜アリーナ成長期",
+      "tier": "S",
+      "trend": 76,
+      "power": 62,
+      "status": "up",
+      "note": "ME:Iに続く第二ライン。",
+      "events": [
+        "大型イベント"
+      ],
+      "id": "g0168",
+      "category": "Idol",
+      "official_url": "https://is-sue.jp/",
+      "x_url": "",
+      "youtube_url": "",
+      "tiktok_url": ""
+    },
+    {
+      "name": "HANA",
+      "faction": "BMSG/B-RAVE",
+      "agency": "B-RAVE/BMSG系",
+      "project": "No No Girls",
+      "label": "NO LABEL MUSIC / Sony Music Labels",
+      "parent": "BMSG系 / Sony",
+      "venue": "武道館/大阪城ホール級",
+      "tier": "SSS",
+      "trend": 100,
+      "power": 89,
+      "status": "up",
+      "note": "2026年最速クラスで大型会場へ到達した新勢力。",
+      "events": [
+        "大阪城ホール2days",
+        "日本武道館3days"
+      ],
+      "id": "g0166",
+      "category": "Idol",
+      "official_url": "",
+      "x_url": "",
+      "youtube_url": "",
+      "tiktok_url": ""
+    },
+    {
+      "name": "Appare!",
+      "faction": "独立/その他",
+      "agency": "Appare!運営",
+      "project": "独立系",
+      "label": "独立/関連",
+      "parent": "-",
+      "venue": "代々木第二級",
+      "tier": "A",
+      "trend": 70,
+      "power": 57,
+      "status": "up",
+      "note": "ライブアイドル界の名門。",
+      "events": [
+        "代々木第二体育館"
+      ],
+      "id": "g0013",
+      "category": "Idol",
+      "official_url": "https://appare-official.jp/",
+      "x_url": "",
+      "youtube_url": "",
+      "tiktok_url": ""
+    },
+    {
+      "name": "JamsCollection",
+      "faction": "独立/その他",
+      "agency": "RIZE PRODUCTION系",
+      "project": "独立系",
+      "label": "独立/関連",
+      "parent": "-",
+      "venue": "ホール〜Zepp級",
+      "tier": "A",
+      "trend": 73,
+      "power": 55,
+      "status": "up",
+      "note": "中堅ライブアイドルの有力株。",
+      "events": [
+        "大型ワンマン"
+      ],
+      "id": "g0055",
+      "category": "Idol",
+      "official_url": "https://jamscollection.jp/",
+      "x_url": "",
+      "youtube_url": "",
+      "tiktok_url": ""
+    },
+    {
+      "name": "yosugala",
+      "faction": "独立/その他",
+      "agency": "we-B studios系",
+      "project": "独立系",
+      "label": "独立/関連",
+      "parent": "-",
+      "venue": "大型ライブハウス〜ホール",
+      "tier": "A",
+      "trend": 84,
+      "power": 56,
+      "status": "up",
+      "note": "音楽性と現場評価で上昇。",
+      "events": [
+        "大型ワンマン"
+      ],
+      "id": "g0176",
+      "category": "Idol",
+      "official_url": "",
+      "x_url": "",
+      "youtube_url": "",
+      "tiktok_url": ""
+    },
+    {
+      "name": "Peel the Apple",
+      "faction": "独立/その他",
+      "agency": "プラチナム系",
+      "project": "独立系",
+      "label": "関連",
+      "parent": "プラチナム",
+      "venue": "ホール〜大型ライブハウス",
+      "tier": "A",
+      "trend": 65,
+      "power": 53,
+      "status": "stable",
+      "note": "安定した現場人気。",
+      "events": [
+        "周年ワンマン"
+      ],
+      "id": "g0090",
+      "category": "Idol",
+      "official_url": "https://peeltheapple.jp/",
+      "x_url": "",
+      "youtube_url": "",
+      "tiktok_url": ""
+    },
+    {
+      "name": "ファントムシータ",
+      "faction": "独立/その他",
+      "agency": "Cloud Nine系",
+      "project": "Adoプロデュース",
+      "label": "関連",
+      "parent": "Cloud Nine",
+      "venue": "ホール〜成長期",
+      "tier": "A",
+      "trend": 88,
+      "power": 52,
+      "status": "up",
+      "note": "コンセプトとプロデュース力で伸長。",
+      "events": [
+        "国内外イベント"
+      ],
+      "id": "g0093",
+      "category": "Idol",
+      "official_url": "",
+      "x_url": "",
+      "youtube_url": "",
+      "tiktok_url": ""
+    },
+    {
+      "name": "つばきファクトリー",
+      "faction": "Hello! Project",
+      "agency": "アップフロント",
+      "project": "Hello! Project",
+      "label": "zetima/UP-FRONT系",
+      "parent": "UP-FRONT GROUP",
+      "venue": "ホール〜武道館級",
+      "tier": "A",
+      "trend": 54,
+      "power": 62,
+      "status": "stable",
+      "note": "ハロプロ中核。長期育成型の安定勢力。",
+      "events": [
+        "全国ツアー"
+      ],
+      "id": "g0152",
+      "category": "Idol",
+      "official_url": "",
+      "x_url": "",
+      "youtube_url": "",
+      "tiktok_url": ""
+    },
+    {
+      "name": "BEYOOOOONDS",
+      "faction": "Hello! Project",
+      "agency": "アップフロント",
+      "project": "Hello! Project",
+      "label": "zetima/UP-FRONT系",
+      "parent": "UP-FRONT GROUP",
+      "venue": "ホール級",
+      "tier": "A",
+      "trend": 58,
+      "power": 61,
+      "status": "stable",
+      "note": "楽曲・演劇性に独自色を持つハロプロ勢。",
+      "events": [
+        "全国ツアー"
+      ],
+      "id": "g0153",
+      "category": "Idol",
+      "official_url": "",
+      "x_url": "",
+      "youtube_url": "",
+      "tiktok_url": ""
+    },
+    {
+      "name": "OCHA NORMA",
+      "faction": "Hello! Project",
+      "agency": "アップフロント",
+      "project": "Hello! Project",
+      "label": "zetima/UP-FRONT系",
+      "parent": "UP-FRONT GROUP",
+      "venue": "ホール成長期",
+      "tier": "A",
+      "trend": 67,
+      "power": 56,
+      "status": "up",
+      "note": "若手ハロプロの成長ライン。",
+      "events": [
+        "全国ツアー"
+      ],
+      "id": "g0154",
+      "category": "Idol",
+      "official_url": "",
+      "x_url": "",
+      "youtube_url": "",
+      "tiktok_url": ""
+    },
+    {
+      "name": "ロージークロニクル",
+      "faction": "Hello! Project",
+      "agency": "アップフロント",
+      "project": "Hello! Project",
+      "label": "UP-FRONT系",
+      "parent": "UP-FRONT GROUP",
+      "venue": "新人〜ホール成長期",
+      "tier": "B",
+      "trend": 83,
+      "power": 41,
+      "status": "up",
+      "note": "ハロプロ新世代。育成フェーズを定点観測。",
+      "events": [
+        "新世代グループ"
+      ],
+      "id": "g0155",
+      "category": "Idol",
+      "official_url": "",
+      "x_url": "",
+      "youtube_url": "",
+      "tiktok_url": ""
+    },
+    {
+      "name": "ばってん少女隊",
+      "faction": "STAR PLANET",
+      "agency": "スターダストプロモーション",
+      "project": "STAR PLANET",
+      "label": "関連レーベル",
+      "parent": "スターダスト",
+      "venue": "ホール〜Zepp級",
+      "tier": "A",
+      "trend": 60,
+      "power": 57,
+      "status": "stable",
+      "note": "地方発×音楽性で独自ポジションを築く。",
+      "events": [
+        "全国ライブ"
+      ],
+      "id": "g0083",
+      "category": "Idol",
+      "official_url": "",
+      "x_url": "",
+      "youtube_url": "",
+      "tiktok_url": ""
+    },
+    {
+      "name": "SKE48",
+      "faction": "48 GROUP",
+      "agency": "ゼスト",
+      "project": "48 GROUP",
+      "label": "avex trax",
+      "parent": "KeyHolder系 / avex",
+      "venue": "ホール〜アリーナ級",
+      "tier": "A",
+      "trend": 50,
+      "power": 62,
+      "status": "stable",
+      "note": "東海圏に強固な基盤を持つ48グループ。",
+      "events": [
+        "劇場公演"
+      ],
+      "id": "g0157",
+      "category": "Idol",
+      "official_url": "https://ske48.co.jp/",
+      "x_url": "",
+      "youtube_url": "",
+      "tiktok_url": ""
+    },
+    {
+      "name": "NMB48",
+      "faction": "48 GROUP",
+      "agency": "Showtitle",
+      "project": "48 GROUP",
+      "label": "Universal/関連",
+      "parent": "吉本興業系",
+      "venue": "ホール〜アリーナ級",
+      "tier": "A",
+      "trend": 51,
+      "power": 61,
+      "status": "stable",
+      "note": "関西拠点の48グループ。",
+      "events": [
+        "劇場公演"
+      ],
+      "id": "g0158",
+      "category": "Idol",
+      "official_url": "https://www.nmb48.com/",
+      "x_url": "",
+      "youtube_url": "",
+      "tiktok_url": ""
+    },
+    {
+      "name": "HKT48",
+      "faction": "48 GROUP",
+      "agency": "Mercury",
+      "project": "48 GROUP",
+      "label": "Universal/関連",
+      "parent": "Mercury",
+      "venue": "ホール級",
+      "tier": "A",
+      "trend": 48,
+      "power": 57,
+      "status": "stable",
+      "note": "福岡拠点の48グループ。",
+      "events": [
+        "劇場公演"
+      ],
+      "id": "g0159",
+      "category": "Idol",
+      "official_url": "https://www.hkt48.jp/",
+      "x_url": "",
+      "youtube_url": "",
+      "tiktok_url": ""
+    },
+    {
+      "name": "NGT48",
+      "faction": "48 GROUP",
+      "agency": "Flora",
+      "project": "48 GROUP",
+      "label": "Universal/関連",
+      "parent": "Flora",
+      "venue": "ホール級",
+      "tier": "B",
+      "trend": 45,
+      "power": 49,
+      "status": "stable",
+      "note": "新潟拠点の48グループ。",
+      "events": [
+        "劇場公演"
+      ],
+      "id": "g0160",
+      "category": "Idol",
+      "official_url": "",
+      "x_url": "",
+      "youtube_url": "",
+      "tiktok_url": ""
+    },
+    {
+      "name": "STU48",
+      "faction": "48 GROUP",
+      "agency": "STU",
+      "project": "48 GROUP",
+      "label": "King Records系",
+      "parent": "STU",
+      "venue": "ホール級",
+      "tier": "A",
+      "trend": 55,
+      "power": 55,
+      "status": "stable",
+      "note": "瀬戸内エリアを基盤とする48グループ。",
+      "events": [
+        "全国/瀬戸内公演"
+      ],
+      "id": "g0161",
+      "category": "Idol",
+      "official_url": "https://www.stu48.com/",
+      "x_url": "",
+      "youtube_url": "",
+      "tiktok_url": ""
+    },
+    {
+      "name": "22/7",
+      "faction": "Sony/その他",
+      "agency": "Sony Music系",
+      "project": "22/7",
+      "label": "Sony Music Labels",
+      "parent": "Sony Group",
+      "venue": "ホール級",
+      "tier": "A",
+      "trend": 47,
+      "power": 54,
+      "status": "stable",
+      "note": "声優×アイドル×二次元IPの独自ポジション。",
+      "events": [
+        "周年ライブ"
+      ],
+      "id": "g0164",
+      "category": "Idol",
+      "official_url": "https://nanabunnonijyuuni.com/",
+      "x_url": "",
+      "youtube_url": "",
+      "tiktok_url": ""
+    },
+    {
+      "name": "NiziU",
+      "faction": "Sony/その他",
+      "agency": "JYP Entertainment Japan",
+      "project": "Nizi Project",
+      "label": "Sony Music Labels",
+      "parent": "JYP × Sony",
+      "venue": "ドーム/アリーナ級",
+      "tier": "SS",
+      "trend": 58,
+      "power": 84,
+      "status": "stable",
+      "note": "JYP×Sonyの大型ガールズグループ。",
+      "events": [
+        "全国大型公演"
+      ],
+      "id": "g0165",
+      "category": "Idol",
+      "official_url": "https://niziu.com/",
+      "x_url": "",
+      "youtube_url": "",
+      "tiktok_url": ""
+    },
+    {
+      "name": "i☆Ris",
+      "faction": "avex",
+      "agency": "81プロデュース等",
+      "project": "声優アイドル",
+      "label": "avex pictures",
+      "parent": "avex",
+      "venue": "アリーナ〜ホール級",
+      "tier": "A",
+      "trend": 49,
+      "power": 60,
+      "status": "stable",
+      "note": "声優アイドルの長期成功例。",
+      "events": [
+        "周年ライブ"
+      ],
+      "id": "g0132",
+      "category": "Idol",
+      "official_url": "",
+      "x_url": "",
+      "youtube_url": "",
+      "tiktok_url": ""
+    },
+    {
+      "name": "Rain Tree",
+      "faction": "秋元康系/その他",
+      "agency": "関連運営",
+      "project": "秋元康プロデュース",
+      "label": "King/関連",
+      "parent": "-",
+      "venue": "新人〜成長期",
+      "tier": "B",
+      "trend": 81,
+      "power": 38,
+      "status": "up",
+      "note": "秋元康系の新興ライン。",
+      "events": [
+        "2026大型フェス出演"
+      ],
+      "id": "g0126",
+      "category": "Idol",
+      "official_url": "",
+      "x_url": "",
+      "youtube_url": "",
+      "tiktok_url": ""
+    },
+    {
+      "name": "WHITE SCORPION",
+      "faction": "秋元康系/その他",
+      "agency": "関連運営",
+      "project": "秋元康プロデュース",
+      "label": "King/関連",
+      "parent": "-",
+      "venue": "ライブハウス〜ホール成長期",
+      "tier": "A",
+      "trend": 72,
+      "power": 49,
+      "status": "up",
+      "note": "デジタル発の秋元康プロジェクト。",
+      "events": [
+        "大型アイドルフェス出演"
+      ],
+      "id": "g0173",
+      "category": "Idol",
+      "official_url": "https://whitescorpion.jp/",
+      "x_url": "",
+      "youtube_url": "",
+      "tiktok_url": ""
+    },
+    {
+      "name": "ラフ×ラフ",
+      "faction": "独立/その他",
+      "agency": "ALWAYS",
+      "project": "佐久間宣行プロデュース",
+      "label": "独立/関連",
+      "parent": "-",
+      "venue": "ホール成長期",
+      "tier": "A",
+      "trend": 76,
+      "power": 51,
+      "status": "up",
+      "note": "企画力とバラエティ性で存在感を拡大。",
+      "events": [
+        "大型アイドルフェス出演"
+      ],
+      "id": "g0118",
+      "category": "Idol",
+      "official_url": "",
+      "x_url": "",
+      "youtube_url": "",
+      "tiktok_url": ""
+    },
+    {
+      "name": "きゅるりんってしてみて",
+      "faction": "独立/その他",
+      "agency": "関連運営",
+      "project": "独立系",
+      "label": "関連",
+      "parent": "-",
+      "venue": "ホール〜Zepp成長期",
+      "tier": "A",
+      "trend": 85,
+      "power": 58,
+      "status": "up",
+      "note": "ビジュアル・SNS・現場の複合で上昇。",
+      "events": [
+        "大型ワンマン"
+      ],
+      "id": "g0042",
+      "category": "Idol",
+      "official_url": "",
+      "x_url": "",
+      "youtube_url": "",
+      "tiktok_url": ""
+    },
+    {
+      "name": "#ババババンビ",
+      "faction": "独立/その他",
+      "agency": "ゼロイチファミリア",
+      "project": "#HASHTAG RECORD",
+      "label": "関連",
+      "parent": "01familia",
+      "venue": "武道館経験級",
+      "tier": "A",
+      "trend": 58,
+      "power": 61,
+      "status": "stable",
+      "note": "グラビア×アイドル文脈を横断。",
+      "events": [
+        "日本武道館経験"
+      ],
+      "id": "g0174",
+      "category": "Idol",
+      "official_url": "",
+      "x_url": "",
+      "youtube_url": "",
+      "tiktok_url": ""
+    },
+    {
+      "name": "#Mooove!",
+      "faction": "独立/その他",
+      "agency": "ゼロイチファミリア",
+      "project": "#HASHTAG RECORD",
+      "label": "関連",
+      "parent": "01familia",
+      "venue": "ホール成長期",
+      "tier": "A",
+      "trend": 82,
+      "power": 50,
+      "status": "up",
+      "note": "ゼロイチ系の若手成長株。",
+      "events": [
+        "大型フェス出演"
+      ],
+      "id": "g0112",
+      "category": "Idol",
+      "official_url": "",
+      "x_url": "",
+      "youtube_url": "",
+      "tiktok_url": ""
+    },
+    {
+      "name": "Task have Fun",
+      "faction": "独立/その他",
+      "agency": "ヴェルヴェットマネージメント系",
+      "project": "独立系",
+      "label": "関連",
+      "parent": "-",
+      "venue": "ホール級",
+      "tier": "A",
+      "trend": 52,
+      "power": 55,
+      "status": "stable",
+      "note": "長期安定型のライブアイドル。",
+      "events": [
+        "大型フェス常連"
+      ],
+      "id": "g0068",
+      "category": "Idol",
+      "official_url": "",
+      "x_url": "",
+      "youtube_url": "",
+      "tiktok_url": ""
+    },
+    {
+      "name": "FES☆TIVE",
+      "faction": "独立/その他",
+      "agency": "RIZE PRODUCTION",
+      "project": "独立系",
+      "label": "徳間/関連",
+      "parent": "-",
+      "venue": "Zepp〜ホール級",
+      "tier": "A",
+      "trend": 57,
+      "power": 56,
+      "status": "stable",
+      "note": "フェス適性と海外展開に強い。",
+      "events": [
+        "大型フェス常連"
+      ],
+      "id": "g0095",
+      "category": "Idol",
+      "official_url": "",
+      "x_url": "",
+      "youtube_url": "",
+      "tiktok_url": ""
+    },
+    {
+      "name": "NEO JAPONISM",
+      "faction": "独立/その他",
+      "agency": "関連運営",
+      "project": "独立系",
+      "label": "独立/関連",
+      "parent": "-",
+      "venue": "Zepp〜ホール級",
+      "tier": "A",
+      "trend": 61,
+      "power": 57,
+      "status": "stable",
+      "note": "ロック系ライブアイドルの有力勢力。",
+      "events": [
+        "大型ワンマン"
+      ],
+      "id": "g0175",
+      "category": "Idol",
+      "official_url": "",
+      "x_url": "",
+      "youtube_url": "",
+      "tiktok_url": ""
+    },
+    {
+      "name": "Devil ANTHEM.",
+      "faction": "独立/その他",
+      "agency": "関連運営",
+      "project": "独立系",
+      "label": "Victor/関連",
+      "parent": "-",
+      "venue": "Zepp〜ホール級",
+      "tier": "A",
+      "trend": 62,
+      "power": 55,
+      "status": "stable",
+      "note": "長期成長を続けるライブアイドル。",
+      "events": [
+        "大型ワンマン"
+      ],
+      "id": "g0071",
+      "category": "Idol",
+      "official_url": "",
+      "x_url": "",
+      "youtube_url": "",
+      "tiktok_url": ""
+    },
+    {
+      "name": "かすみ草とステラ",
+      "faction": "独立/その他",
+      "agency": "関連運営",
+      "project": "独立系",
+      "label": "関連",
+      "parent": "-",
+      "venue": "ホール成長期",
+      "tier": "A",
+      "trend": 80,
+      "power": 50,
+      "status": "up",
+      "note": "青春・物語性を軸に上昇する注目株。",
+      "events": [
+        "大型フェス出演"
+      ],
+      "id": "g0031",
+      "category": "Idol",
+      "official_url": "",
+      "x_url": "",
+      "youtube_url": "",
+      "tiktok_url": ""
+    },
+    {
+      "name": "CYNHN",
+      "faction": "独立/その他",
+      "agency": "ディアステージ",
+      "project": "DEARSTAGE",
+      "label": "I BLUE",
+      "parent": "モエ・ジャパン系",
+      "venue": "ライブハウス〜ホール",
+      "tier": "A",
+      "trend": 60,
+      "power": 49,
+      "status": "stable",
+      "note": "音楽性評価の高いボーカルグループ。",
+      "events": [
+        "大型フェス出演"
+      ],
+      "id": "g0062",
+      "category": "Idol",
+      "official_url": "",
+      "x_url": "",
+      "youtube_url": "",
+      "tiktok_url": ""
+    },
+    {
+      "name": "虹のコンキスタドール",
+      "faction": "独立/その他",
+      "agency": "ディアステージ",
+      "project": "DEARSTAGE",
+      "label": "King/関連",
+      "parent": "モエ・ジャパン系",
+      "venue": "ホール〜Zepp級",
+      "tier": "A",
+      "trend": 56,
+      "power": 56,
+      "status": "stable",
+      "note": "長期ブランド型の王道ライブアイドル。",
+      "events": [
+        "大型フェス常連"
+      ],
+      "id": "g0080",
+      "category": "Idol",
+      "official_url": "",
+      "x_url": "",
+      "youtube_url": "",
+      "tiktok_url": ""
+    }
+  ],
+  "directory": [
+    {
+      "name": "ai*ai",
+      "faction": "独立/その他",
+      "scored": false,
+      "id": "g0001",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "iON!",
+      "faction": "HEROINES",
+      "scored": false,
+      "id": "g0002",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "ideal peco",
+      "faction": "独立/その他",
+      "scored": false,
+      "id": "g0003",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "アイドルカレッジ",
+      "faction": "独立/その他",
+      "scored": false,
+      "id": "g0004",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "I MY ME MINE",
+      "faction": "独立/その他",
+      "scored": false,
+      "id": "g0005",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "I'mew（あいみゅう）",
+      "faction": "独立/その他",
+      "scored": false,
+      "id": "g0006",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "あかぎ団",
+      "faction": "独立/その他",
+      "scored": false,
+      "id": "g0007",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "アキシブproject",
+      "faction": "独立/その他",
+      "scored": false,
+      "id": "g0008",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "As a Cutie Pomeranian",
+      "faction": "独立/その他",
+      "scored": false,
+      "id": "g0009",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "AsIs",
+      "faction": "独立/その他",
+      "scored": false,
+      "id": "g0010",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "AZの理由",
+      "faction": "独立/その他",
+      "scored": false,
+      "id": "g0011",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "AdamLilith",
+      "faction": "HEROINES",
+      "scored": false,
+      "id": "g0012",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "Appare!",
+      "faction": "独立/その他",
+      "scored": true,
+      "id": "g0013",
+      "category": "Idol",
+      "status": "up",
+      "agency": "Appare!運営",
+      "project": "独立系",
+      "label": "独立/関連",
+      "parent": "-",
+      "venue": "代々木第二級",
+      "tier": "A",
+      "trend": 70,
+      "power": 57,
+      "note": "ライブアイドル界の名門。",
+      "events": [
+        "代々木第二体育館"
+      ],
+      "official_url": "https://appare-official.jp/"
+    },
+    {
+      "name": "アップアップガールズ（仮）",
+      "faction": "独立/その他",
+      "scored": false,
+      "id": "g0014",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "アップアップガールズ（2）",
+      "faction": "独立/その他",
+      "scored": false,
+      "id": "g0015",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "アップアップガールズ（プロレス）",
+      "faction": "独立/その他",
+      "scored": false,
+      "id": "g0016",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "AVAM",
+      "faction": "独立/その他",
+      "scored": false,
+      "id": "g0017",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "あまいものつめあわせ",
+      "faction": "独立/その他",
+      "scored": false,
+      "id": "g0018",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "alma",
+      "faction": "独立/その他",
+      "scored": false,
+      "id": "g0019",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "THE ENCORE",
+      "faction": "独立/その他",
+      "scored": false,
+      "id": "g0020",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "unFinale Tokyo",
+      "faction": "独立/その他",
+      "scored": false,
+      "id": "g0021",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "INUWASI",
+      "faction": "独立/その他",
+      "scored": false,
+      "id": "g0022",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "Ill",
+      "faction": "HEROINES",
+      "scored": false,
+      "id": "g0023",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "ウイバナ Webana.",
+      "faction": "独立/その他",
+      "scored": false,
+      "id": "g0024",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "泡沫パーティーズ",
+      "faction": "独立/その他",
+      "scored": false,
+      "id": "g0025",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "UtaGe!",
+      "faction": "独立/その他",
+      "scored": false,
+      "id": "g0026",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "airattic",
+      "faction": "独立/その他",
+      "scored": false,
+      "id": "g0027",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "OS☆U",
+      "faction": "独立/その他",
+      "scored": false,
+      "id": "g0028",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "開歌-かいか-",
+      "faction": "独立/その他",
+      "scored": false,
+      "id": "g0029",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "会心ノ一撃",
+      "faction": "独立/その他",
+      "scored": false,
+      "id": "g0030",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "かすみ草とステラ",
+      "faction": "独立/その他",
+      "scored": true,
+      "id": "g0031",
+      "category": "Idol",
+      "status": "up",
+      "agency": "関連運営",
+      "project": "独立系",
+      "label": "関連",
+      "parent": "-",
+      "venue": "ホール成長期",
+      "tier": "A",
+      "trend": 80,
+      "power": 50,
+      "note": "青春・物語性を軸に上昇する注目株。",
+      "events": [
+        "大型フェス出演"
+      ],
+      "official_url": ""
+    },
+    {
+      "name": "カラフルスクリーム",
+      "faction": "独立/その他",
+      "scored": false,
+      "id": "g0032",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "可憐なアイボリー",
+      "faction": "TWIN PLANET",
+      "scored": true,
+      "id": "g0033",
+      "category": "Idol",
+      "status": "up",
+      "agency": "TWIN PLANET",
+      "project": "HoneyWorks連携",
+      "label": "関連レーベル",
+      "parent": "TWIN PLANET",
+      "venue": "中〜大型ホール成長期",
+      "tier": "A",
+      "trend": 90,
+      "power": 53,
+      "note": "2026年要注目の成長株。",
+      "events": [
+        "TIF PR大使話題"
+      ],
+      "official_url": "https://karennaivory.jp/"
+    },
+    {
+      "name": "KAWAII LAB. SOUTH",
+      "faction": "KAWAII LAB.",
+      "scored": false,
+      "id": "g0034",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "KAWAII LAB. MATES",
+      "faction": "KAWAII LAB.",
+      "scored": false,
+      "id": "g0035",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "キミイロプロジェクト",
+      "faction": "独立/その他",
+      "scored": false,
+      "id": "g0036",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "kimikara（きみから)",
+      "faction": "独立/その他",
+      "scored": false,
+      "id": "g0037",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "君と見るそら",
+      "faction": "独立/その他",
+      "scored": false,
+      "id": "g0038",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "君に、胸キュン。",
+      "faction": "独立/その他",
+      "scored": false,
+      "id": "g0039",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "GANGDEMIC",
+      "faction": "独立/その他",
+      "scored": false,
+      "id": "g0040",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "きゅ～くる",
+      "faction": "独立/その他",
+      "scored": false,
+      "id": "g0041",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "きゅるりんってしてみて",
+      "faction": "独立/その他",
+      "scored": true,
+      "id": "g0042",
+      "category": "Idol",
+      "status": "up",
+      "agency": "関連運営",
+      "project": "独立系",
+      "label": "関連",
+      "parent": "-",
+      "venue": "ホール〜Zepp成長期",
+      "tier": "A",
+      "trend": 85,
+      "power": 58,
+      "note": "ビジュアル・SNS・現場の複合で上昇。",
+      "events": [
+        "大型ワンマン"
+      ],
+      "official_url": ""
+    },
+    {
+      "name": "クマリデパート",
+      "faction": "独立/その他",
+      "scored": false,
+      "id": "g0043",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "Gran☆Ciel",
+      "faction": "独立/その他",
+      "scored": false,
+      "id": "g0044",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "KRD8",
+      "faction": "独立/その他",
+      "scored": false,
+      "id": "g0045",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "月刊PAM",
+      "faction": "独立/その他",
+      "scored": false,
+      "id": "g0046",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "CAL&RES",
+      "faction": "HEROINES",
+      "scored": false,
+      "id": "g0047",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "SAI²Rium",
+      "faction": "独立/その他",
+      "scored": false,
+      "id": "g0048",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "SAKURADOLL",
+      "faction": "独立/その他",
+      "scored": false,
+      "id": "g0049",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "さよならステイチューン",
+      "faction": "独立/その他",
+      "scored": false,
+      "id": "g0050",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "zanka",
+      "faction": "独立/その他",
+      "scored": false,
+      "id": "g0051",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "CiON",
+      "faction": "独立/その他",
+      "scored": false,
+      "id": "g0052",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "Shibu3 project",
+      "faction": "独立/その他",
+      "scored": false,
+      "id": "g0053",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "JAPANARIZM",
+      "faction": "独立/その他",
+      "scored": false,
+      "id": "g0054",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "JamsCollection",
+      "faction": "独立/その他",
+      "scored": true,
+      "id": "g0055",
+      "category": "Idol",
+      "status": "up",
+      "agency": "RIZE PRODUCTION系",
+      "project": "独立系",
+      "label": "独立/関連",
+      "parent": "-",
+      "venue": "ホール〜Zepp級",
+      "tier": "A",
+      "trend": 73,
+      "power": 55,
+      "note": "中堅ライブアイドルの有力株。",
+      "events": [
+        "大型ワンマン"
+      ],
+      "official_url": "https://jamscollection.jp/"
+    },
+    {
+      "name": "シャルロット",
+      "faction": "独立/その他",
+      "scored": false,
+      "id": "g0056",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "終末のアンセム",
+      "faction": "独立/その他",
+      "scored": false,
+      "id": "g0057",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "シュレーディンガーの犬",
+      "faction": "独立/その他",
+      "scored": false,
+      "id": "g0058",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "純情のアフィリア",
+      "faction": "独立/その他",
+      "scored": false,
+      "id": "g0059",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "シンデレラ宣言！",
+      "faction": "独立/その他",
+      "scored": false,
+      "id": "g0060",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "Sweet Alley",
+      "faction": "独立/その他",
+      "scored": false,
+      "id": "g0061",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "CYNHN",
+      "faction": "独立/その他",
+      "scored": true,
+      "id": "g0062",
+      "category": "Idol",
+      "status": "stable",
+      "agency": "ディアステージ",
+      "project": "DEARSTAGE",
+      "label": "I BLUE",
+      "parent": "モエ・ジャパン系",
+      "venue": "ライブハウス〜ホール",
+      "tier": "A",
+      "trend": 60,
+      "power": 49,
+      "note": "音楽性評価の高いボーカルグループ。",
+      "events": [
+        "大型フェス出演"
+      ],
+      "official_url": ""
+    },
+    {
+      "name": "透色ドロップ",
+      "faction": "独立/その他",
+      "scored": false,
+      "id": "g0063",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "ZUTTOMOTTO",
+      "faction": "HEROINES",
+      "scored": false,
+      "id": "g0064",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "STAiNY",
+      "faction": "独立/その他",
+      "scored": false,
+      "id": "g0065",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "SOMOSOMO",
+      "faction": "独立/その他",
+      "scored": false,
+      "id": "g0066",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "高嶺のなでしこ",
+      "faction": "TWIN PLANET",
+      "scored": true,
+      "id": "g0067",
+      "category": "Idol",
+      "status": "up",
+      "agency": "TWIN PLANET",
+      "project": "HoneyWorks連携",
+      "label": "Victor/関連",
+      "parent": "TWIN PLANET",
+      "venue": "ホール〜大型会場成長期",
+      "tier": "S",
+      "trend": 89,
+      "power": 67,
+      "note": "楽曲×SNS×王道ビジュアルで上昇。",
+      "events": [
+        "全国ツアー"
+      ],
+      "official_url": "https://takanenonadeshiko.jp/"
+    },
+    {
+      "name": "Task have Fun",
+      "faction": "独立/その他",
+      "scored": true,
+      "id": "g0068",
+      "category": "Idol",
+      "status": "stable",
+      "agency": "ヴェルヴェットマネージメント系",
+      "project": "独立系",
+      "label": "関連",
+      "parent": "-",
+      "venue": "ホール級",
+      "tier": "A",
+      "trend": 52,
+      "power": 55,
+      "note": "長期安定型のライブアイドル。",
+      "events": [
+        "大型フェス常連"
+      ],
+      "official_url": ""
+    },
+    {
+      "name": "強がりセンセーション",
+      "faction": "独立/その他",
+      "scored": false,
+      "id": "g0069",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "手羽先センセーション",
+      "faction": "独立/その他",
+      "scored": false,
+      "id": "g0070",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "Devil ANTHEM.",
+      "faction": "独立/その他",
+      "scored": true,
+      "id": "g0071",
+      "category": "Idol",
+      "status": "stable",
+      "agency": "関連運営",
+      "project": "独立系",
+      "label": "Victor/関連",
+      "parent": "-",
+      "venue": "Zepp〜ホール級",
+      "tier": "A",
+      "trend": 62,
+      "power": 55,
+      "note": "長期成長を続けるライブアイドル。",
+      "events": [
+        "大型ワンマン"
+      ],
+      "official_url": ""
+    },
+    {
+      "name": "テラテラ",
+      "faction": "独立/その他",
+      "scored": false,
+      "id": "g0072",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "テンシンランマン",
+      "faction": "HEROINES",
+      "scored": true,
+      "id": "g0073",
+      "category": "Idol",
+      "status": "up",
+      "agency": "imaginate",
+      "project": "HEROINES",
+      "label": "独立/関連",
+      "parent": "imaginate",
+      "venue": "新人〜中規模",
+      "tier": "B",
+      "trend": 96,
+      "power": 32,
+      "note": "TIF系指標でも目立つ新人監視株。",
+      "events": [
+        "TIFメイン争奪上位"
+      ],
+      "official_url": ""
+    },
+    {
+      "name": "TENRIN",
+      "faction": "HEROINES",
+      "scored": false,
+      "id": "g0074",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "DREAMING MONSTER",
+      "faction": "独立/その他",
+      "scored": false,
+      "id": "g0075",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "ドレスコード",
+      "faction": "HEROINES",
+      "scored": false,
+      "id": "g0076",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "ナナコロビヤオキ",
+      "faction": "HEROINES",
+      "scored": false,
+      "id": "g0077",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "なみだ色の消しごむ",
+      "faction": "独立/その他",
+      "scored": false,
+      "id": "g0078",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "虹色の飛行少女",
+      "faction": "独立/その他",
+      "scored": false,
+      "id": "g0079",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "虹のコンキスタドール",
+      "faction": "独立/その他",
+      "scored": true,
+      "id": "g0080",
+      "category": "Idol",
+      "status": "stable",
+      "agency": "ディアステージ",
+      "project": "DEARSTAGE",
+      "label": "King/関連",
+      "parent": "モエ・ジャパン系",
+      "venue": "ホール〜Zepp級",
+      "tier": "A",
+      "trend": 56,
+      "power": 56,
+      "note": "長期ブランド型の王道ライブアイドル。",
+      "events": [
+        "大型フェス常連"
+      ],
+      "official_url": ""
+    },
+    {
+      "name": "NUANCE",
+      "faction": "独立/その他",
+      "scored": false,
+      "id": "g0081",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "のんふぃく！",
+      "faction": "HEROINES",
+      "scored": true,
+      "id": "g0082",
+      "category": "Idol",
+      "status": "up",
+      "agency": "imaginate",
+      "project": "HEROINES",
+      "label": "独立/関連",
+      "parent": "imaginate",
+      "venue": "大型ライブハウス〜ホール",
+      "tier": "S",
+      "trend": 78,
+      "power": 65,
+      "note": "HEROINES第二勢力の中核。",
+      "events": [
+        "大型ライブハウス"
+      ],
+      "official_url": ""
+    },
+    {
+      "name": "ばってん少女隊",
+      "faction": "STAR PLANET",
+      "scored": true,
+      "id": "g0083",
+      "category": "Idol",
+      "status": "stable",
+      "agency": "スターダストプロモーション",
+      "project": "STAR PLANET",
+      "label": "関連レーベル",
+      "parent": "スターダスト",
+      "venue": "ホール〜Zepp級",
+      "tier": "A",
+      "trend": 60,
+      "power": 57,
+      "note": "地方発×音楽性で独自ポジションを築く。",
+      "events": [
+        "全国ライブ"
+      ],
+      "official_url": ""
+    },
+    {
+      "name": "ハニースパイスRe.",
+      "faction": "独立/その他",
+      "scored": false,
+      "id": "g0084",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "Bunny La Crew",
+      "faction": "独立/その他",
+      "scored": false,
+      "id": "g0085",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "パラディーク",
+      "faction": "HEROINES",
+      "scored": false,
+      "id": "g0086",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "Palette Parade",
+      "faction": "独立/その他",
+      "scored": false,
+      "id": "g0087",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "HelloYouth",
+      "faction": "独立/その他",
+      "scored": false,
+      "id": "g0088",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "バンドじゃないもん！MAXX NAKAYOSHI",
+      "faction": "独立/その他",
+      "scored": false,
+      "id": "g0089",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "Peel the Apple",
+      "faction": "独立/その他",
+      "scored": true,
+      "id": "g0090",
+      "category": "Idol",
+      "status": "stable",
+      "agency": "プラチナム系",
+      "project": "独立系",
+      "label": "関連",
+      "parent": "プラチナム",
+      "venue": "ホール〜大型ライブハウス",
+      "tier": "A",
+      "trend": 65,
+      "power": 53,
+      "note": "安定した現場人気。",
+      "events": [
+        "周年ワンマン"
+      ],
+      "official_url": "https://peeltheapple.jp/"
+    },
+    {
+      "name": "PinkySpice",
+      "faction": "独立/その他",
+      "scored": false,
+      "id": "g0091",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "fav me",
+      "faction": "独立/その他",
+      "scored": false,
+      "id": "g0092",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "ファントムシータ",
+      "faction": "独立/その他",
+      "scored": true,
+      "id": "g0093",
+      "category": "Idol",
+      "status": "up",
+      "agency": "Cloud Nine系",
+      "project": "Adoプロデュース",
+      "label": "関連",
+      "parent": "Cloud Nine",
+      "venue": "ホール〜成長期",
+      "tier": "A",
+      "trend": 88,
+      "power": 52,
+      "note": "コンセプトとプロデュース力で伸長。",
+      "events": [
+        "国内外イベント"
+      ],
+      "official_url": ""
+    },
+    {
+      "name": "fishbowl",
+      "faction": "独立/その他",
+      "scored": false,
+      "id": "g0094",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "FES☆TIVE",
+      "faction": "独立/その他",
+      "scored": true,
+      "id": "g0095",
+      "category": "Idol",
+      "status": "stable",
+      "agency": "RIZE PRODUCTION",
+      "project": "独立系",
+      "label": "徳間/関連",
+      "parent": "-",
+      "venue": "Zepp〜ホール級",
+      "tier": "A",
+      "trend": 57,
+      "power": 56,
+      "note": "フェス適性と海外展開に強い。",
+      "events": [
+        "大型フェス常連"
+      ],
+      "official_url": ""
+    },
+    {
+      "name": "フューチャーサイダー",
+      "faction": "独立/その他",
+      "scored": false,
+      "id": "g0096",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "BLUEGOATS",
+      "faction": "独立/その他",
+      "scored": false,
+      "id": "g0097",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "フルコース",
+      "faction": "HEROINES",
+      "scored": false,
+      "id": "g0098",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "Hey!Mommy!",
+      "faction": "独立/その他",
+      "scored": false,
+      "id": "g0099",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "Bety",
+      "faction": "独立/その他",
+      "scored": false,
+      "id": "g0100",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "BELLRING少女ハート",
+      "faction": "独立/その他",
+      "scored": false,
+      "id": "g0101",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "BOCCHI。",
+      "faction": "独立/その他",
+      "scored": false,
+      "id": "g0102",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "ポラライト",
+      "faction": "独立/その他",
+      "scored": false,
+      "id": "g0103",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "ポンコツコンポ",
+      "faction": "独立/その他",
+      "scored": false,
+      "id": "g0104",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "MyDearDarlin'",
+      "faction": "独立/その他",
+      "scored": false,
+      "id": "g0105",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "MyDresscode",
+      "faction": "独立/その他",
+      "scored": false,
+      "id": "g0106",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "マジカル・パンチライン",
+      "faction": "独立/その他",
+      "scored": false,
+      "id": "g0107",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "Ma’Scar’Piece",
+      "faction": "独立/その他",
+      "scored": false,
+      "id": "g0108",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "まねきケチャ",
+      "faction": "独立/その他",
+      "scored": false,
+      "id": "g0109",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "ミームトーキョー",
+      "faction": "独立/その他",
+      "scored": false,
+      "id": "g0110",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "MISS MERCY",
+      "faction": "独立/その他",
+      "scored": false,
+      "id": "g0111",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "#Mooove!",
+      "faction": "独立/その他",
+      "scored": true,
+      "id": "g0112",
+      "category": "Idol",
+      "status": "up",
+      "agency": "ゼロイチファミリア",
+      "project": "#HASHTAG RECORD",
+      "label": "関連",
+      "parent": "01familia",
+      "venue": "ホール成長期",
+      "tier": "A",
+      "trend": 82,
+      "power": 50,
+      "note": "ゼロイチ系の若手成長株。",
+      "events": [
+        "大型フェス出演"
+      ],
+      "official_url": ""
+    },
+    {
+      "name": "メイビーME",
+      "faction": "独立/その他",
+      "scored": false,
+      "id": "g0113",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "MEGAFON",
+      "faction": "HEROINES",
+      "scored": false,
+      "id": "g0114",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "MORE STAR",
+      "faction": "KAWAII LAB.",
+      "scored": true,
+      "id": "g0115",
+      "category": "Idol",
+      "status": "up",
+      "agency": "ASOBISYSTEM",
+      "project": "KAWAII LAB.",
+      "label": "KAWAII LAB./関連レーベル",
+      "parent": "ASOBISYSTEM",
+      "venue": "新人",
+      "tier": "A",
+      "trend": 99,
+      "power": 38,
+      "note": "2026年新人株。今後の伸びを定点観測。",
+      "events": [
+        "2025年末デビュー"
+      ],
+      "official_url": ""
+    },
+    {
+      "name": "夜光性アミューズ",
+      "faction": "HEROINES",
+      "scored": true,
+      "id": "g0116",
+      "category": "Idol",
+      "status": "up",
+      "agency": "imaginate",
+      "project": "HEROINES",
+      "label": "独立/関連",
+      "parent": "imaginate",
+      "venue": "豊洲PIT級",
+      "tier": "A",
+      "trend": 72,
+      "power": 57,
+      "note": "現場人気の厚い中核グループ。",
+      "events": [
+        "豊洲PIT"
+      ],
+      "official_url": ""
+    },
+    {
+      "name": "ラストシーン",
+      "faction": "HEROINES",
+      "scored": false,
+      "id": "g0117",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "ラフ×ラフ",
+      "faction": "独立/その他",
+      "scored": true,
+      "id": "g0118",
+      "category": "Idol",
+      "status": "up",
+      "agency": "ALWAYS",
+      "project": "佐久間宣行プロデュース",
+      "label": "独立/関連",
+      "parent": "-",
+      "venue": "ホール成長期",
+      "tier": "A",
+      "trend": 76,
+      "power": 51,
+      "note": "企画力とバラエティ性で存在感を拡大。",
+      "events": [
+        "大型アイドルフェス出演"
+      ],
+      "official_url": ""
+    },
+    {
+      "name": "愛乙女★DOLL",
+      "faction": "独立/その他",
+      "scored": false,
+      "id": "g0119",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "LinQ",
+      "faction": "独立/その他",
+      "scored": false,
+      "id": "g0120",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "LINKL PLANET",
+      "faction": "独立/その他",
+      "scored": false,
+      "id": "g0121",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "RiNCENT♯",
+      "faction": "独立/その他",
+      "scored": false,
+      "id": "g0122",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "ルージュブック",
+      "faction": "独立/その他",
+      "scored": false,
+      "id": "g0123",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "Luce Twinkle Wink☆",
+      "faction": "独立/その他",
+      "scored": false,
+      "id": "g0124",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "ルルネージュ",
+      "faction": "独立/その他",
+      "scored": false,
+      "id": "g0125",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "Rain Tree",
+      "faction": "秋元康系/その他",
+      "scored": true,
+      "id": "g0126",
+      "category": "Idol",
+      "status": "up",
+      "agency": "関連運営",
+      "project": "秋元康プロデュース",
+      "label": "King/関連",
+      "parent": "-",
+      "venue": "新人〜成長期",
+      "tier": "B",
+      "trend": 81,
+      "power": 38,
+      "note": "秋元康系の新興ライン。",
+      "events": [
+        "2026大型フェス出演"
+      ],
+      "official_url": ""
+    },
+    {
+      "name": "わーすた",
+      "faction": "avex",
+      "scored": true,
+      "id": "g0127",
+      "category": "Idol",
+      "status": "stable",
+      "agency": "avex management",
+      "project": "iDOL Street",
+      "label": "avex",
+      "parent": "avex",
+      "venue": "ホール/ライブハウス",
+      "tier": "A",
+      "trend": 46,
+      "power": 52,
+      "note": "海外展開実績もあるavex直系。",
+      "events": [
+        "全国/海外イベント"
+      ],
+      "official_url": "https://wa-suta.world/"
+    },
+    {
+      "name": "ワガママなラストノート",
+      "faction": "独立/その他",
+      "scored": false,
+      "id": "g0128",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "@onefive",
+      "faction": "独立/その他",
+      "scored": false,
+      "id": "g0129",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "iLiFE!",
+      "faction": "HEROINES",
+      "scored": true,
+      "id": "g0130",
+      "category": "Idol",
+      "status": "up",
+      "agency": "imaginate",
+      "project": "HEROINES",
+      "label": "独立/関連",
+      "parent": "imaginate",
+      "venue": "Kアリーナ級",
+      "tier": "SSS",
+      "trend": 99,
+      "power": 91,
+      "note": "ライブアイドルの天井を押し上げた象徴的存在。",
+      "events": [
+        "日本武道館完売",
+        "Kアリーナ完売"
+      ],
+      "official_url": ""
+    },
+    {
+      "name": "i-COL",
+      "faction": "独立/その他",
+      "scored": false,
+      "id": "g0131",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "i☆Ris",
+      "faction": "avex",
+      "scored": true,
+      "id": "g0132",
+      "category": "Idol",
+      "status": "stable",
+      "agency": "81プロデュース等",
+      "project": "声優アイドル",
+      "label": "avex pictures",
+      "parent": "avex",
+      "venue": "アリーナ〜ホール級",
+      "tier": "A",
+      "trend": 49,
+      "power": 60,
+      "note": "声優アイドルの長期成功例。",
+      "events": [
+        "周年ライブ"
+      ],
+      "official_url": ""
+    },
+    {
+      "name": "AOAO",
+      "faction": "独立/その他",
+      "scored": false,
+      "id": "g0133",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "AOSTARIA",
+      "faction": "独立/その他",
+      "scored": false,
+      "id": "g0134",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "乃木坂46",
+      "faction": "坂道",
+      "scored": true,
+      "id": "g0135",
+      "category": "Idol",
+      "status": "stable",
+      "agency": "乃木坂46合同会社",
+      "project": "坂道シリーズ",
+      "label": "Sony Music系",
+      "parent": "Sony Group系",
+      "venue": "スタジアム/ドーム級",
+      "tier": "SSS",
+      "trend": 63,
+      "power": 98,
+      "note": "国内最大級の基礎体力。ブランド・ライブ・メディア総合力が強い。",
+      "events": [
+        "全国アリーナツアー",
+        "明治神宮野球場4days"
+      ],
+      "official_url": "https://www.nogizaka46.com/"
+    },
+    {
+      "name": "櫻坂46",
+      "faction": "坂道",
+      "scored": true,
+      "id": "g0136",
+      "category": "Idol",
+      "status": "up",
+      "agency": "Seed & Flower",
+      "project": "坂道シリーズ",
+      "label": "Sony Music系",
+      "parent": "Sony Group系",
+      "venue": "国立競技場級",
+      "tier": "SSS",
+      "trend": 82,
+      "power": 96,
+      "note": "2026年は大型ライブ攻勢が目立つ坂道の急先鋒。",
+      "events": [
+        "MUFGスタジアム2days",
+        "全国アリーナツアー"
+      ],
+      "official_url": "https://sakurazaka46.com/"
+    },
+    {
+      "name": "日向坂46",
+      "faction": "坂道",
+      "scored": true,
+      "id": "g0137",
+      "category": "Idol",
+      "status": "stable",
+      "agency": "Seed & Flower",
+      "project": "坂道シリーズ",
+      "label": "Sony Music系",
+      "parent": "Sony Group系",
+      "venue": "スタジアム/アリーナ級",
+      "tier": "SS",
+      "trend": 55,
+      "power": 88,
+      "note": "大型会場を継続できる全国級ブランド。",
+      "events": [
+        "横浜スタジアム",
+        "アリーナツアー"
+      ],
+      "official_url": "https://www.hinatazaka46.com/"
+    },
+    {
+      "name": "=LOVE",
+      "faction": "イコノイジョイ",
+      "scored": true,
+      "id": "g0138",
+      "category": "Idol",
+      "status": "up",
+      "agency": "代々木アニメーション学院",
+      "project": "イコノイジョイ",
+      "label": "Sony Music系",
+      "parent": "YOANI / Sony",
+      "venue": "国立競技場級",
+      "tier": "SSS",
+      "trend": 94,
+      "power": 94,
+      "note": "坂道外から最上位階級へ。2026年最重要の上昇勢力。",
+      "events": [
+        "国立競技場2days"
+      ],
+      "official_url": "https://equal-love.jp/"
+    },
+    {
+      "name": "≠ME",
+      "faction": "イコノイジョイ",
+      "scored": true,
+      "id": "g0139",
+      "category": "Idol",
+      "status": "up",
+      "agency": "代々木アニメーション学院",
+      "project": "イコノイジョイ",
+      "label": "Sony Music系",
+      "parent": "YOANI / Sony",
+      "venue": "アリーナ級",
+      "tier": "SS",
+      "trend": 79,
+      "power": 78,
+      "note": "独自ファンダムが確立した第二の柱。",
+      "events": [
+        "全国ツアー"
+      ],
+      "official_url": "https://not-equal-me.jp/"
+    },
+    {
+      "name": "≒JOY",
+      "faction": "イコノイジョイ",
+      "scored": true,
+      "id": "g0140",
+      "category": "Idol",
+      "status": "up",
+      "agency": "代々木アニメーション学院",
+      "project": "イコノイジョイ",
+      "label": "Sony Music系",
+      "parent": "YOANI / Sony",
+      "venue": "大型アリーナ到達前夜",
+      "tier": "S",
+      "trend": 91,
+      "power": 68,
+      "note": "若手の中でも成長角度が大きい。",
+      "events": [
+        "TOYOTA ARENA TOKYO予定"
+      ],
+      "official_url": "https://nearly-equal-joy.jp/"
+    },
+    {
+      "name": "FRUITS ZIPPER",
+      "faction": "KAWAII LAB.",
+      "scored": true,
+      "id": "g0141",
+      "category": "Idol",
+      "status": "up",
+      "agency": "ASOBISYSTEM",
+      "project": "KAWAII LAB.",
+      "label": "KAWAII LAB./関連レーベル",
+      "parent": "ASOBISYSTEM",
+      "venue": "アリーナ級",
+      "tier": "SSS",
+      "trend": 86,
+      "power": 93,
+      "note": "SNS・広告・ファッションまで横断する現代型アイドルIP。",
+      "events": [
+        "大型アリーナ公演"
+      ],
+      "official_url": "https://fruitszipper.asobisystem.com/"
+    },
+    {
+      "name": "CANDY TUNE",
+      "faction": "KAWAII LAB.",
+      "scored": true,
+      "id": "g0142",
+      "category": "Idol",
+      "status": "up",
+      "agency": "ASOBISYSTEM",
+      "project": "KAWAII LAB.",
+      "label": "KAWAII LAB./関連レーベル",
+      "parent": "ASOBISYSTEM",
+      "venue": "Kアリーナ級",
+      "tier": "SS",
+      "trend": 97,
+      "power": 82,
+      "note": "2026年最大級の上昇株。",
+      "events": [
+        "Kアリーナ横浜"
+      ],
+      "official_url": "https://candytune.asobisystem.com/"
+    },
+    {
+      "name": "CUTIE STREET",
+      "faction": "KAWAII LAB.",
+      "scored": true,
+      "id": "g0143",
+      "category": "Idol",
+      "status": "up",
+      "agency": "ASOBISYSTEM",
+      "project": "KAWAII LAB.",
+      "label": "KAWAII LAB./関連レーベル",
+      "parent": "ASOBISYSTEM",
+      "venue": "Kアリーナ級",
+      "tier": "SS",
+      "trend": 98,
+      "power": 83,
+      "note": "楽曲バズから大型会場へ急加速。",
+      "events": [
+        "Kアリーナ横浜",
+        "アリーナツアー"
+      ],
+      "official_url": "https://cutiestreet.asobisystem.com/"
+    },
+    {
+      "name": "SWEET STEADY",
+      "faction": "KAWAII LAB.",
+      "scored": true,
+      "id": "g0144",
+      "category": "Idol",
+      "status": "up",
+      "agency": "ASOBISYSTEM",
+      "project": "KAWAII LAB.",
+      "label": "KAWAII LAB./関連レーベル",
+      "parent": "ASOBISYSTEM",
+      "venue": "ホール〜アリーナ成長期",
+      "tier": "S",
+      "trend": 88,
+      "power": 64,
+      "note": "上位3組に続く育成成功候補。",
+      "events": [
+        "大型合同イベント"
+      ],
+      "official_url": ""
+    },
+    {
+      "name": "ももいろクローバーZ",
+      "faction": "STAR PLANET",
+      "scored": true,
+      "id": "g0145",
+      "category": "Idol",
+      "status": "stable",
+      "agency": "スターダストプロモーション",
+      "project": "STAR PLANET",
+      "label": "EVIL LINE / King系",
+      "parent": "スターダスト",
+      "venue": "ドーム/スタジアム経験",
+      "tier": "SS",
+      "trend": 42,
+      "power": 90,
+      "note": "成長率よりブランド資産で見る殿堂級。",
+      "events": [
+        "大型会場多数"
+      ],
+      "official_url": "https://www.momoclo.net/"
+    },
+    {
+      "name": "私立恵比寿中学",
+      "faction": "STAR PLANET",
+      "scored": true,
+      "id": "g0146",
+      "category": "Idol",
+      "status": "stable",
+      "agency": "スターダストプロモーション",
+      "project": "STAR PLANET",
+      "label": "Sony Music系",
+      "parent": "スターダスト / Sony",
+      "venue": "アリーナ〜ホール級",
+      "tier": "S",
+      "trend": 48,
+      "power": 73,
+      "note": "長期ブランド型の強豪。",
+      "events": [
+        "全国ツアー"
+      ],
+      "official_url": "https://www.shiritsuebichu.jp/"
+    },
+    {
+      "name": "超ときめき♡宣伝部",
+      "faction": "STAR PLANET",
+      "scored": true,
+      "id": "g0147",
+      "category": "Idol",
+      "status": "up",
+      "agency": "スターダストプロモーション",
+      "project": "STAR PLANET",
+      "label": "avex trax",
+      "parent": "スターダスト / avex",
+      "venue": "SSA/武道館級",
+      "tier": "SSS",
+      "trend": 92,
+      "power": 88,
+      "note": "王道アイドル文化とTikTokバズが融合。",
+      "events": [
+        "SSA",
+        "日本武道館"
+      ],
+      "official_url": "https://toki-sen.com/"
+    },
+    {
+      "name": "いぎなり東北産",
+      "faction": "STAR PLANET",
+      "scored": true,
+      "id": "g0148",
+      "category": "Idol",
+      "status": "up",
+      "agency": "スターダストプロモーション",
+      "project": "STAR PLANET",
+      "label": "関連レーベル",
+      "parent": "スターダスト",
+      "venue": "武道館経験/Zepp",
+      "tier": "S",
+      "trend": 81,
+      "power": 69,
+      "note": "武道館後の定着フェーズ。次のヒットが鍵。",
+      "events": [
+        "日本武道館",
+        "Zeppツアー"
+      ],
+      "official_url": ""
+    },
+    {
+      "name": "モーニング娘。'26",
+      "faction": "Hello! Project",
+      "scored": true,
+      "id": "g0149",
+      "category": "Idol",
+      "status": "stable",
+      "agency": "アップフロント",
+      "project": "Hello! Project",
+      "label": "zetima/UP-FRONT系",
+      "parent": "UP-FRONT GROUP",
+      "venue": "武道館級",
+      "tier": "S",
+      "trend": 45,
+      "power": 77,
+      "note": "育成・加入・卒業モデルの象徴。",
+      "events": [
+        "日本武道館級"
+      ],
+      "official_url": "https://www.helloproject.com/morningmusume/"
+    },
+    {
+      "name": "アンジュルム",
+      "faction": "Hello! Project",
+      "scored": true,
+      "id": "g0150",
+      "category": "Idol",
+      "status": "stable",
+      "agency": "アップフロント",
+      "project": "Hello! Project",
+      "label": "hachama/UP-FRONT系",
+      "parent": "UP-FRONT GROUP",
+      "venue": "武道館級",
+      "tier": "S",
+      "trend": 57,
+      "power": 72,
+      "note": "ライブ評価の高いハロプロ主力。",
+      "events": [
+        "武道館級"
+      ],
+      "official_url": "https://www.helloproject.com/angerme/"
+    },
+    {
+      "name": "Juice=Juice",
+      "faction": "Hello! Project",
+      "scored": true,
+      "id": "g0151",
+      "category": "Idol",
+      "status": "stable",
+      "agency": "アップフロント",
+      "project": "Hello! Project",
+      "label": "hachama/UP-FRONT系",
+      "parent": "UP-FRONT GROUP",
+      "venue": "武道館級",
+      "tier": "S",
+      "trend": 58,
+      "power": 71,
+      "note": "歌唱力とライブ力に強み。",
+      "events": [
+        "武道館級"
+      ],
+      "official_url": "https://www.helloproject.com/juicejuice/"
+    },
+    {
+      "name": "つばきファクトリー",
+      "faction": "Hello! Project",
+      "scored": true,
+      "id": "g0152",
+      "category": "Idol",
+      "status": "stable",
+      "agency": "アップフロント",
+      "project": "Hello! Project",
+      "label": "zetima/UP-FRONT系",
+      "parent": "UP-FRONT GROUP",
+      "venue": "ホール〜武道館級",
+      "tier": "A",
+      "trend": 54,
+      "power": 62,
+      "note": "ハロプロ中核。長期育成型の安定勢力。",
+      "events": [
+        "全国ツアー"
+      ],
+      "official_url": ""
+    },
+    {
+      "name": "BEYOOOOONDS",
+      "faction": "Hello! Project",
+      "scored": true,
+      "id": "g0153",
+      "category": "Idol",
+      "status": "stable",
+      "agency": "アップフロント",
+      "project": "Hello! Project",
+      "label": "zetima/UP-FRONT系",
+      "parent": "UP-FRONT GROUP",
+      "venue": "ホール級",
+      "tier": "A",
+      "trend": 58,
+      "power": 61,
+      "note": "楽曲・演劇性に独自色を持つハロプロ勢。",
+      "events": [
+        "全国ツアー"
+      ],
+      "official_url": ""
+    },
+    {
+      "name": "OCHA NORMA",
+      "faction": "Hello! Project",
+      "scored": true,
+      "id": "g0154",
+      "category": "Idol",
+      "status": "up",
+      "agency": "アップフロント",
+      "project": "Hello! Project",
+      "label": "zetima/UP-FRONT系",
+      "parent": "UP-FRONT GROUP",
+      "venue": "ホール成長期",
+      "tier": "A",
+      "trend": 67,
+      "power": 56,
+      "note": "若手ハロプロの成長ライン。",
+      "events": [
+        "全国ツアー"
+      ],
+      "official_url": ""
+    },
+    {
+      "name": "ロージークロニクル",
+      "faction": "Hello! Project",
+      "scored": true,
+      "id": "g0155",
+      "category": "Idol",
+      "status": "up",
+      "agency": "アップフロント",
+      "project": "Hello! Project",
+      "label": "UP-FRONT系",
+      "parent": "UP-FRONT GROUP",
+      "venue": "新人〜ホール成長期",
+      "tier": "B",
+      "trend": 83,
+      "power": 41,
+      "note": "ハロプロ新世代。育成フェーズを定点観測。",
+      "events": [
+        "新世代グループ"
+      ],
+      "official_url": ""
+    },
+    {
+      "name": "AKB48",
+      "faction": "48 GROUP",
+      "scored": true,
+      "id": "g0156",
+      "category": "Idol",
+      "status": "stable",
+      "agency": "DH",
+      "project": "48 GROUP",
+      "label": "EMI Records/Universal系",
+      "parent": "DH / Universal",
+      "venue": "武道館〜アリーナ級",
+      "tier": "SS",
+      "trend": 61,
+      "power": 79,
+      "note": "劇場インフラと全国認知を持つ再構築期の巨大IP。",
+      "events": [
+        "劇場公演",
+        "大型コンサート"
+      ],
+      "official_url": "https://www.akb48.co.jp/"
+    },
+    {
+      "name": "SKE48",
+      "faction": "48 GROUP",
+      "scored": true,
+      "id": "g0157",
+      "category": "Idol",
+      "status": "stable",
+      "agency": "ゼスト",
+      "project": "48 GROUP",
+      "label": "avex trax",
+      "parent": "KeyHolder系 / avex",
+      "venue": "ホール〜アリーナ級",
+      "tier": "A",
+      "trend": 50,
+      "power": 62,
+      "note": "東海圏に強固な基盤を持つ48グループ。",
+      "events": [
+        "劇場公演"
+      ],
+      "official_url": "https://ske48.co.jp/"
+    },
+    {
+      "name": "NMB48",
+      "faction": "48 GROUP",
+      "scored": true,
+      "id": "g0158",
+      "category": "Idol",
+      "status": "stable",
+      "agency": "Showtitle",
+      "project": "48 GROUP",
+      "label": "Universal/関連",
+      "parent": "吉本興業系",
+      "venue": "ホール〜アリーナ級",
+      "tier": "A",
+      "trend": 51,
+      "power": 61,
+      "note": "関西拠点の48グループ。",
+      "events": [
+        "劇場公演"
+      ],
+      "official_url": "https://www.nmb48.com/"
+    },
+    {
+      "name": "HKT48",
+      "faction": "48 GROUP",
+      "scored": true,
+      "id": "g0159",
+      "category": "Idol",
+      "status": "stable",
+      "agency": "Mercury",
+      "project": "48 GROUP",
+      "label": "Universal/関連",
+      "parent": "Mercury",
+      "venue": "ホール級",
+      "tier": "A",
+      "trend": 48,
+      "power": 57,
+      "note": "福岡拠点の48グループ。",
+      "events": [
+        "劇場公演"
+      ],
+      "official_url": "https://www.hkt48.jp/"
+    },
+    {
+      "name": "NGT48",
+      "faction": "48 GROUP",
+      "scored": true,
+      "id": "g0160",
+      "category": "Idol",
+      "status": "stable",
+      "agency": "Flora",
+      "project": "48 GROUP",
+      "label": "Universal/関連",
+      "parent": "Flora",
+      "venue": "ホール級",
+      "tier": "B",
+      "trend": 45,
+      "power": 49,
+      "note": "新潟拠点の48グループ。",
+      "events": [
+        "劇場公演"
+      ],
+      "official_url": ""
+    },
+    {
+      "name": "STU48",
+      "faction": "48 GROUP",
+      "scored": true,
+      "id": "g0161",
+      "category": "Idol",
+      "status": "stable",
+      "agency": "STU",
+      "project": "48 GROUP",
+      "label": "King Records系",
+      "parent": "STU",
+      "venue": "ホール級",
+      "tier": "A",
+      "trend": 55,
+      "power": 55,
+      "note": "瀬戸内エリアを基盤とする48グループ。",
+      "events": [
+        "全国/瀬戸内公演"
+      ],
+      "official_url": "https://www.stu48.com/"
+    },
+    {
+      "name": "SUPER☆GiRLS",
+      "faction": "avex",
+      "scored": true,
+      "id": "g0162",
+      "category": "Idol",
+      "status": "stable",
+      "agency": "avex management",
+      "project": "iDOL Street",
+      "label": "avex",
+      "parent": "avex",
+      "venue": "ホール/ライブハウス",
+      "tier": "A",
+      "trend": 42,
+      "power": 50,
+      "note": "avex直系アイドルの本流。",
+      "events": [
+        "周年ライブ"
+      ],
+      "official_url": "https://supergirls.jp/"
+    },
+    {
+      "name": "僕が見たかった青空",
+      "faction": "avex",
+      "scored": true,
+      "id": "g0163",
+      "category": "Idol",
+      "status": "up",
+      "agency": "僕青運営",
+      "project": "乃木坂46公式ライバル",
+      "label": "avex trax",
+      "parent": "avex",
+      "venue": "ホール〜成長期",
+      "tier": "S",
+      "trend": 67,
+      "power": 58,
+      "note": "秋元康系×avexの重要カード。",
+      "events": [
+        "全国ライブ"
+      ],
+      "official_url": ""
+    },
+    {
+      "name": "22/7",
+      "faction": "Sony/その他",
+      "scored": true,
+      "id": "g0164",
+      "category": "Idol",
+      "status": "stable",
+      "agency": "Sony Music系",
+      "project": "22/7",
+      "label": "Sony Music Labels",
+      "parent": "Sony Group",
+      "venue": "ホール級",
+      "tier": "A",
+      "trend": 47,
+      "power": 54,
+      "note": "声優×アイドル×二次元IPの独自ポジション。",
+      "events": [
+        "周年ライブ"
+      ],
+      "official_url": "https://nanabunnonijyuuni.com/"
+    },
+    {
+      "name": "NiziU",
+      "faction": "Sony/その他",
+      "scored": true,
+      "id": "g0165",
+      "category": "Idol",
+      "status": "stable",
+      "agency": "JYP Entertainment Japan",
+      "project": "Nizi Project",
+      "label": "Sony Music Labels",
+      "parent": "JYP × Sony",
+      "venue": "ドーム/アリーナ級",
+      "tier": "SS",
+      "trend": 58,
+      "power": 84,
+      "note": "JYP×Sonyの大型ガールズグループ。",
+      "events": [
+        "全国大型公演"
+      ],
+      "official_url": "https://niziu.com/"
+    },
+    {
+      "name": "HANA",
+      "faction": "BMSG/B-RAVE",
+      "scored": true,
+      "id": "g0166",
+      "category": "Idol",
+      "status": "up",
+      "agency": "B-RAVE/BMSG系",
+      "project": "No No Girls",
+      "label": "NO LABEL MUSIC / Sony Music Labels",
+      "parent": "BMSG系 / Sony",
+      "venue": "武道館/大阪城ホール級",
+      "tier": "SSS",
+      "trend": 100,
+      "power": 89,
+      "note": "2026年最速クラスで大型会場へ到達した新勢力。",
+      "events": [
+        "大阪城ホール2days",
+        "日本武道館3days"
+      ],
+      "official_url": ""
+    },
+    {
+      "name": "ME:I",
+      "faction": "LAPONE GIRLS",
+      "scored": true,
+      "id": "g0167",
+      "category": "Idol",
+      "status": "up",
+      "agency": "LAPONE GIRLS",
+      "project": "PRODUCE 101 JAPAN THE GIRLS",
+      "label": "LAPONE/関連",
+      "parent": "CJ ENM × 吉本興業系",
+      "venue": "アリーナ級",
+      "tier": "SS",
+      "trend": 74,
+      "power": 83,
+      "note": "K-POP型市場との橋渡しをする巨大ガールズグループ。",
+      "events": [
+        "アリーナ公演"
+      ],
+      "official_url": "https://me-i.jp/"
+    },
+    {
+      "name": "IS:SUE",
+      "faction": "LAPONE GIRLS",
+      "scored": true,
+      "id": "g0168",
+      "category": "Idol",
+      "status": "up",
+      "agency": "LAPONE GIRLS",
+      "project": "LAPONE GIRLS",
+      "label": "LAPONE/関連",
+      "parent": "CJ ENM × 吉本興業系",
+      "venue": "ホール〜アリーナ成長期",
+      "tier": "S",
+      "trend": 76,
+      "power": 62,
+      "note": "ME:Iに続く第二ライン。",
+      "events": [
+        "大型イベント"
+      ],
+      "official_url": "https://is-sue.jp/"
+    },
+    {
+      "name": "ASP",
+      "faction": "WACK",
+      "scored": true,
+      "id": "g0169",
+      "category": "Idol",
+      "status": "stable",
+      "agency": "WACK",
+      "project": "WACK",
+      "label": "avex系/関連",
+      "parent": "WACK",
+      "venue": "Zepp〜ホール",
+      "tier": "A",
+      "trend": 54,
+      "power": 49,
+      "note": "WACK再編後の中核候補。",
+      "events": [
+        "全国ツアー"
+      ],
+      "official_url": ""
+    },
+    {
+      "name": "GANG PARADE",
+      "faction": "WACK",
+      "scored": false,
+      "id": "g0170",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "KiSS KiSS",
+      "faction": "WACK",
+      "scored": false,
+      "id": "g0171",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "豆柴の大群",
+      "faction": "WACK",
+      "scored": false,
+      "id": "g0172",
+      "category": "Idol",
+      "status": "active"
+    },
+    {
+      "name": "WHITE SCORPION",
+      "faction": "秋元康系/その他",
+      "scored": true,
+      "id": "g0173",
+      "category": "Idol",
+      "status": "up",
+      "agency": "関連運営",
+      "project": "秋元康プロデュース",
+      "label": "King/関連",
+      "parent": "-",
+      "venue": "ライブハウス〜ホール成長期",
+      "tier": "A",
+      "trend": 72,
+      "power": 49,
+      "note": "デジタル発の秋元康プロジェクト。",
+      "events": [
+        "大型アイドルフェス出演"
+      ],
+      "official_url": "https://whitescorpion.jp/"
+    },
+    {
+      "name": "#ババババンビ",
+      "faction": "独立/その他",
+      "scored": true,
+      "id": "g0174",
+      "category": "Idol",
+      "status": "stable",
+      "agency": "ゼロイチファミリア",
+      "project": "#HASHTAG RECORD",
+      "label": "関連",
+      "parent": "01familia",
+      "venue": "武道館経験級",
+      "tier": "A",
+      "trend": 58,
+      "power": 61,
+      "note": "グラビア×アイドル文脈を横断。",
+      "events": [
+        "日本武道館経験"
+      ],
+      "official_url": ""
+    },
+    {
+      "name": "NEO JAPONISM",
+      "faction": "独立/その他",
+      "scored": true,
+      "id": "g0175",
+      "category": "Idol",
+      "status": "stable",
+      "agency": "関連運営",
+      "project": "独立系",
+      "label": "独立/関連",
+      "parent": "-",
+      "venue": "Zepp〜ホール級",
+      "tier": "A",
+      "trend": 61,
+      "power": 57,
+      "note": "ロック系ライブアイドルの有力勢力。",
+      "events": [
+        "大型ワンマン"
+      ],
+      "official_url": ""
+    },
+    {
+      "name": "yosugala",
+      "faction": "独立/その他",
+      "scored": true,
+      "id": "g0176",
+      "category": "Idol",
+      "status": "up",
+      "agency": "we-B studios系",
+      "project": "独立系",
+      "label": "独立/関連",
+      "parent": "-",
+      "venue": "大型ライブハウス〜ホール",
+      "tier": "A",
+      "trend": 84,
+      "power": 56,
+      "note": "音楽性と現場評価で上昇。",
+      "events": [
+        "大型ワンマン"
+      ],
+      "official_url": ""
+    }
+  ],
+  "factions": {
+    "坂道": {
+      "color": "#5B6CFF",
+      "desc": "Sony Music系の最大級王道IP"
+    },
+    "イコノイジョイ": {
+      "color": "#FF5EA8",
+      "desc": "指原莉乃 × YOANI × Sony Music"
+    },
+    "KAWAII LAB.": {
+      "color": "#FF9F43",
+      "desc": "ASOBISYSTEMのSNS時代型アイドルIP"
+    },
+    "HEROINES": {
+      "color": "#9B6CFF",
+      "desc": "imaginateの多グループ・リーグ型勢力"
+    },
+    "STAR PLANET": {
+      "color": "#FFD15C",
+      "desc": "スターダストの長期育成型アイドル群"
+    },
+    "Hello! Project": {
+      "color": "#42C9B5",
+      "desc": "UP-FRONTの育成・加入・卒業システム"
+    },
+    "TWIN PLANET": {
+      "color": "#6FB8FF",
+      "desc": "HoneyWorks連携を含む成長勢力"
+    },
+    "48 GROUP": {
+      "color": "#E46B78",
+      "desc": "劇場型巨大IPネットワーク"
+    },
+    "avex": {
+      "color": "#3FB6FF",
+      "desc": "自社マネジメント＋レーベル連合"
+    },
+    "Sony/その他": {
+      "color": "#7594FF",
+      "desc": "Sony系の独立プロジェクト/共同事業"
+    },
+    "WACK": {
+      "color": "#A2A2A8",
+      "desc": "カルチャー型アイドル運営、2026再編期"
+    },
+    "LAPONE GIRLS": {
+      "color": "#CB71FF",
+      "desc": "CJ ENM × 吉本系ガールズIP"
+    },
+    "BMSG/B-RAVE": {
+      "color": "#FF7171",
+      "desc": "HANAを中核とする新興大型勢力"
+    },
+    "秋元康系/その他": {
+      "color": "#B98AFF",
+      "desc": "坂道・48以外の秋元康系IP"
+    },
+    "独立/その他": {
+      "color": "#62C99C",
+      "desc": "独立・専門事務所・中堅ライブアイドル群"
+    }
+  }
+}
