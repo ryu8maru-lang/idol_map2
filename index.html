@@ -3,120 +3,49 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<meta name="theme-color" content="#eaf9ff">
+<meta name="theme-color" content="#eefbff">
+<meta name="description" content="日本女性アイドル300組をPower・Growth・Tier・勢力で可視化するIDOLMAP">
 <title>IDOL MAP 2026</title>
 <link rel="stylesheet" href="./styles.css">
 </head>
 <body>
-<header>
-  <div class="wrap top">
-    <div class="brand">
-      <div class="logo">IM</div>
-      <div><b>IDOL MAP</b><small>JAPANESE GIRL IDOL DATABASE 2026</small></div>
-    </div>
-    <div class="nav">
-      <button id="listTab" class="active">全アイドル</button>
-      <button id="mapTab">勢力図</button>
-      <button id="rankingTab">ランキング</button>
-    </div>
-  </div>
-</header>
-
+<header><div class="wrap topbar">
+<a class="brand" href="#" data-tab-link="discover"><div class="logo">IM</div><div><b>IDOL MAP</b><small>JAPANESE GIRL IDOL DATABASE 2026</small></div></a>
+<nav class="nav"><button class="navBtn active" data-tab="discover">DISCOVER</button><button class="navBtn" data-tab="map">勢力図</button><button class="navBtn" data-tab="ranking">ランキング</button><button class="navBtn" data-tab="database">DATABASE</button></nav>
+</div></header>
 <main class="wrap">
 <section class="hero">
-  <div class="card heroMain">
-    <div class="eyebrow">IDOL INDUSTRY DATABASE</div>
-    <h1>令和アイドル戦国時代<br><span class="accent">1枚の地図に。</span></h1>
-    <p>300組の女性アイドルを、事務所・プロジェクト・レーベル・ライブ規模・勢い・公式SNSまで横断。気になるグループをタップすれば、その場で詳細が開きます。</p>
-    <div class="stats">
-      <div class="stat"><b id="totalGroups">-</b><small>GROUPS</small></div>
-      <div class="stat"><b id="scoredGroups">-</b><small>SCORED</small></div>
-      <div class="stat"><b id="factionCount">-</b><small>ECOSYSTEMS</small></div>
-      <div class="stat"><b>100</b><small>HQ CORE</small></div>
-    </div>
-  </div>
-  <div class="card heroSide">
-    <div class="kicker"><span class="dotpulse"></span> DATABASE MODE</div>
-    <h2>「知りたい」が<br>1タップでつながる。</h2>
-    <p>一覧 → 詳細 → 公式サイト。Power / Growth / Tierだけでなく、所属、レーベル、現役メンバー、公式SNSまで同じIDに集約。</p>
-    <div class="miniInfo">
-      <span>DATA AS OF</span><b id="asOf">2026-08-26</b>
-    </div>
-  </div>
+<div class="heroMain card"><span class="eyebrow">IDOL INDUSTRY DATABASE</span><h1>令和アイドル戦国時代<br><span>1枚の地図に。</span></h1><p>300組の女性アイドルを、事務所・プロジェクト・レーベル・ライブ規模・勢い・公式SNSまで横断。気になるグループをタップすれば、その場で詳細が開きます。</p>
+<div class="stats"><div class="stat"><b id="statGroups">-</b><small>GROUPS</small></div><div class="stat"><b id="statScored">-</b><small>SCORED</small></div><div class="stat"><b id="statFactions">-</b><small>ECOSYSTEMS</small></div><div class="stat hqStat"><b id="statHQ">100</b><small>HQ CORE</small></div></div></div>
+<div class="heroSide card"><div class="mode"><span></span> DATABASE MODE</div><h2>「知りたい」が<br>1タップでつながる。</h2><p>一覧 → 詳細 → 公式サイト。Power / Growth / Tierだけでなく、所属、レーベル、現役メンバー、公式SNSまで同じIDに集約。</p><div class="asof"><small>DATA AS OF</small><b id="asOf">2026-08-26</b></div></div>
 </section>
-
-<section class="toolbar card">
-  <div class="searchRow">
-    <input id="search" type="search" placeholder="アイドル名 / 事務所 / プロジェクトを検索">
-    <select id="sort">
-      <option value="power">POWER順</option>
-      <option value="growth">GROWTH順</option>
-      <option value="tier">TIER順</option>
-      <option value="name">名前順</option>
-    </select>
-    <button id="resetBtn" class="ghost">リセット</button>
-  </div>
-  <div class="filterBlock">
-    <small>TIER</small>
-    <div id="tierFilters" class="chips"></div>
-  </div>
-  <div class="filterBlock">
-    <small>勢力 / ECOSYSTEM</small>
-    <div id="factionFilters" class="chips chipsScroll"></div>
-  </div>
+<section id="discoverView" class="view">
+<div class="sectionHead"><div><small>IDOLMAP PICKS</small><h2>おすすめMV 10選</h2><p>今の女性アイドルシーンを知るために、まず観てほしい10本。</p></div></div>
+<div id="mvGrid" class="mvGrid"></div>
+<div class="sectionHead scoreHead"><div><small>SCORING METHOD</small><h2>IDOLMAP SCORE</h2><p>数字の意味を、できるだけ透明に。</p></div></div>
+<div class="scoreExplain">
+<article class="scoreCard power"><span>POWER</span><h3>現在の総合勢力</h3><p>ライブ規模・動員、一般認知、SNS規模、メディア露出、セールス、所属・運営・レーベル、継続実績を総合評価。</p></article>
+<article class="scoreCard growth"><span>GROWTH</span><h3>直近1〜2年の伸び</h3><p>会場規模の拡大、SNS成長、楽曲ヒット、メディア露出増、メジャー進出、新体制、フェス出演増加などを評価。</p></article>
+<article class="scoreCard tier"><span>TIER</span><h3>編集階層</h3><p>Powerを主軸に、Growth・ブランド・継続性・直近の実績を加味したIDOLMAP独自の編集評価です。</p></article>
+</div><p class="scoreNote">※ IDOLMAP独自の編集指標であり、公式ランキングではありません。</p>
 </section>
-
-<section id="listWrap">
-  <div class="sectionTitle"><div><small>ALL IDOLS</small><h2>全アイドル</h2></div><b id="listCount">- groups</b></div>
-  <div id="groupGrid" class="groupGrid"></div>
+<section id="mapView" class="view" hidden>
+<div class="sectionHead"><div><small>POWER × GROWTH</small><h2>勢力図</h2><p>色は勢力、位置は現在の強さと伸び。名前ラベル付きで見渡せます。</p></div></div>
+<div class="mapFilters card"><div class="mapFilterRow"><input id="mapSearch" type="search" placeholder="グループ名を検索"><select id="mapFaction"></select></div><div id="factionLegend" class="factionLegend"></div></div>
+<div class="mapShell card"><div class="axisY">POWER<br><small>現在の勢力</small></div><div class="mapPlot" id="mapPlot"><div class="quad q1">TOP POWER / STABLE</div><div class="quad q2">TOP POWER / RISING</div><div class="quad q3">NEXT / CORE</div><div class="quad q4">BREAKOUT ZONE</div><div class="midV"></div><div class="midH"></div><div id="mapPoints"></div></div><div class="axisX">GROWTH →</div></div>
 </section>
-
-<section id="mapWrap" hidden>
-  <div class="sectionTitle"><div><small>POWER × GROWTH</small><h2>勢力図</h2></div><div class="axisHint">← 成長安定　GROWTH　急成長 →</div></div>
-  <div class="mapShell card">
-    <div class="mapYAxis">POWER<br><span>現在の勢力</span></div>
-    <div class="mapPlot" id="mapPlot">
-      <div class="quad q1">TOP POWER<br>STABLE</div>
-      <div class="quad q2">TOP POWER<br>RISING</div>
-      <div class="quad q3">NEXT / CORE</div>
-      <div class="quad q4">BREAKOUT ZONE</div>
-      <div class="midV"></div><div class="midH"></div>
-      <div id="mapPoints"></div>
-    </div>
-    <div class="mapXAxis">GROWTH →</div>
-  </div>
-  <div class="mapLegend"><span>点をタップすると詳細</span><span class="hqLegend">HQ = 高精度100組</span></div>
+<section id="rankingView" class="view" hidden>
+<div class="sectionHead"><div><small>EDITORIAL RANKING</small><h2>ランキング</h2><p>長すぎない。いま見るべき上位だけ。</p></div></div>
+<div class="rankColumns"><div><div class="rankTitle"><span>POWER</span><h3>総合勢力 TOP20</h3></div><div class="card tableWrap"><table><thead><tr><th>#</th><th>GROUP</th><th>TIER</th><th>P</th><th>G</th></tr></thead><tbody id="powerRanking"></tbody></table></div></div>
+<div><div class="rankTitle"><span>GROWTH</span><h3>急成長 TOP20</h3></div><div class="card tableWrap"><table><thead><tr><th>#</th><th>GROUP</th><th>TIER</th><th>P</th><th>G</th></tr></thead><tbody id="growthRanking"></tbody></table></div></div></div>
+<div class="sectionHead youtubeHead"><div><small>YOUTUBE TREND</small><h2>急上昇アイドル楽曲</h2><p>まずは編集部手動更新。将来は自動取得へ。</p></div></div><div id="youtubeTrend" class="trendList"></div>
 </section>
-
-<section id="rankingWrap" hidden>
-  <div class="sectionTitle"><div><small>EDITORIAL RANKING</small><h2>ランキング</h2></div><span>現在のフィルター条件と連動</span></div>
-  <div class="rankTabs">
-    <button class="rankMode active" data-mode="power">POWER</button>
-    <button class="rankMode" data-mode="growth">GROWTH</button>
-  </div>
-  <div class="card tableWrap">
-    <table>
-      <thead><tr><th>#</th><th>GROUP</th><th>FACTION</th><th>TIER</th><th>POWER</th><th>GROWTH</th><th>LIVE</th></tr></thead>
-      <tbody id="rankingBody"></tbody>
-    </table>
-  </div>
-</section>
-
-<section class="method card">
-  <div><small>METHOD</small><h2>IDOL MAP 編集指標</h2></div>
-  <p><b>POWER</b> はライブ規模・動員、デジタル、メディア、セールス、IP/運営力、継続性を総合評価。<b>GROWTH</b> は直近の会場拡大、SNS・楽曲浸透、メディア伸長、プロジェクト拡張を評価します。</p>
+<section id="databaseView" class="view" hidden>
+<div class="sectionHead"><div><small>DATABASE</small><h2>全300組を検索</h2><p>TOPは発見、DATABASEは調査。役割を分けました。</p></div><b id="dbCount">- groups</b></div>
+<div class="toolbar card"><input id="dbSearch" type="search" placeholder="アイドル名 / 事務所 / プロジェクト / レーベルを検索"><select id="dbSort"><option value="power">POWER順</option><option value="growth">GROWTH順</option><option value="tier">TIER順</option><option value="name">名前順</option></select><div id="tierChips" class="chips"></div><div id="factionChips" class="chips chipsScroll"></div></div><div id="groupGrid" class="groupGrid"></div>
 </section>
 </main>
-
-<div id="drawer" class="drawer">
-  <div id="shade" class="shade"></div>
-  <aside class="drawerPanel">
-    <button id="drawerClose" class="drawerClose">×</button>
-    <div id="drawerContent"></div>
-  </aside>
-</div>
-
+<div id="drawer" class="drawer"><div id="shade" class="shade"></div><aside class="drawerPanel"><button id="drawerClose" class="drawerClose">×</button><div id="drawerContent"></div></aside></div>
 <footer><div class="wrap">IDOL MAP 2026 · 300 GROUPS / HQ100 · Editorial database</div></footer>
 <script src="./app.js"></script>
-</body>
-</html>
+</body></html>
