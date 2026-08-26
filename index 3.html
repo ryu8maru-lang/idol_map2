@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#eaf9ff">
+<title>IDOL MAP 2026</title>
+<link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+<header>
+  <div class="wrap top">
+    <div class="brand">
+      <div class="logo">IM</div>
+      <div><b>IDOL MAP</b><small>JAPANESE GIRL IDOL DATABASE 2026</small></div>
+    </div>
+    <div class="nav">
+      <button id="listTab" class="active">全アイドル</button>
+      <button id="mapTab">勢力図</button>
+      <button id="rankingTab">ランキング</button>
+    </div>
+  </div>
+</header>
+
+<main class="wrap">
+<section class="hero">
+  <div class="card heroMain">
+    <div class="eyebrow">IDOL INDUSTRY DATABASE</div>
+    <h1>令和アイドル戦国時代<br><span class="accent">1枚の地図に。</span></h1>
+    <p>300組の女性アイドルを、事務所・プロジェクト・レーベル・ライブ規模・勢い・公式SNSまで横断。気になるグループをタップすれば、その場で詳細が開きます。</p>
+    <div class="stats">
+      <div class="stat"><b id="totalGroups">-</b><small>GROUPS</small></div>
+      <div class="stat"><b id="scoredGroups">-</b><small>SCORED</small></div>
+      <div class="stat"><b id="factionCount">-</b><small>ECOSYSTEMS</small></div>
+      <div class="stat"><b>100</b><small>HQ CORE</small></div>
+    </div>
+  </div>
+  <div class="card heroSide">
+    <div class="kicker"><span class="dotpulse"></span> DATABASE MODE</div>
+    <h2>「知りたい」が<br>1タップでつながる。</h2>
+    <p>一覧 → 詳細 → 公式サイト。Power / Growth / Tierだけでなく、所属、レーベル、現役メンバー、公式SNSまで同じIDに集約。</p>
+    <div class="miniInfo">
+      <span>DATA AS OF</span><b id="asOf">2026-08-26</b>
+    </div>
+  </div>
+</section>
+
+<section class="toolbar card">
+  <div class="searchRow">
+    <input id="search" type="search" placeholder="アイドル名 / 事務所 / プロジェクトを検索">
+    <select id="sort">
+      <option value="power">POWER順</option>
+      <option value="growth">GROWTH順</option>
+      <option value="tier">TIER順</option>
+      <option value="name">名前順</option>
+    </select>
+    <button id="resetBtn" class="ghost">リセット</button>
+  </div>
+  <div class="filterBlock">
+    <small>TIER</small>
+    <div id="tierFilters" class="chips"></div>
+  </div>
+  <div class="filterBlock">
+    <small>勢力 / ECOSYSTEM</small>
+    <div id="factionFilters" class="chips chipsScroll"></div>
+  </div>
+</section>
+
+<section id="listWrap">
+  <div class="sectionTitle"><div><small>ALL IDOLS</small><h2>全アイドル</h2></div><b id="listCount">- groups</b></div>
+  <div id="groupGrid" class="groupGrid"></div>
+</section>
+
+<section id="mapWrap" hidden>
+  <div class="sectionTitle"><div><small>POWER × GROWTH</small><h2>勢力図</h2></div><div class="axisHint">← 成長安定　GROWTH　急成長 →</div></div>
+  <div class="mapShell card">
+    <div class="mapYAxis">POWER<br><span>現在の勢力</span></div>
+    <div class="mapPlot" id="mapPlot">
+      <div class="quad q1">TOP POWER<br>STABLE</div>
+      <div class="quad q2">TOP POWER<br>RISING</div>
+      <div class="quad q3">NEXT / CORE</div>
+      <div class="quad q4">BREAKOUT ZONE</div>
+      <div class="midV"></div><div class="midH"></div>
+      <div id="mapPoints"></div>
+    </div>
+    <div class="mapXAxis">GROWTH →</div>
+  </div>
+  <div class="mapLegend"><span>点をタップすると詳細</span><span class="hqLegend">HQ = 高精度100組</span></div>
+</section>
+
+<section id="rankingWrap" hidden>
+  <div class="sectionTitle"><div><small>EDITORIAL RANKING</small><h2>ランキング</h2></div><span>現在のフィルター条件と連動</span></div>
+  <div class="rankTabs">
+    <button class="rankMode active" data-mode="power">POWER</button>
+    <button class="rankMode" data-mode="growth">GROWTH</button>
+  </div>
+  <div class="card tableWrap">
+    <table>
+      <thead><tr><th>#</th><th>GROUP</th><th>FACTION</th><th>TIER</th><th>POWER</th><th>GROWTH</th><th>LIVE</th></tr></thead>
+      <tbody id="rankingBody"></tbody>
+    </table>
+  </div>
+</section>
+
+<section class="method card">
+  <div><small>METHOD</small><h2>IDOL MAP 編集指標</h2></div>
+  <p><b>POWER</b> はライブ規模・動員、デジタル、メディア、セールス、IP/運営力、継続性を総合評価。<b>GROWTH</b> は直近の会場拡大、SNS・楽曲浸透、メディア伸長、プロジェクト拡張を評価します。</p>
+</section>
+</main>
+
+<div id="drawer" class="drawer">
+  <div id="shade" class="shade"></div>
+  <aside class="drawerPanel">
+    <button id="drawerClose" class="drawerClose">×</button>
+    <div id="drawerContent"></div>
+  </aside>
+</div>
+
+<footer><div class="wrap">IDOL MAP 2026 · 300 GROUPS / HQ100 · Editorial database</div></footer>
+<script src="./app.js"></script>
+</body>
+</html>
