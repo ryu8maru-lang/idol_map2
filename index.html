@@ -15,9 +15,19 @@
 </div></header>
 <main class="wrap">
 <section class="hero">
-<div class="heroMain card"><span class="eyebrow">IDOL INDUSTRY DATABASE</span><h1>令和アイドル戦国時代<br><span>1枚の地図に。</span></h1><p>300組の女性アイドルを、事務所・プロジェクト・レーベル・ライブ規模・勢い・公式SNSまで横断。気になるグループをタップすれば、その場で詳細が開きます。</p>
+<div class="heroMain card"><span class="eyebrow">IDOL INDUSTRY DATABASE</span><h1 class="sengokuTitle">令和アイドル戦国時代<br><span>1枚の地図に。</span></h1><p>300組の女性アイドルを、事務所・プロジェクト・レーベル・ライブ規模・勢い・公式SNSまで横断。気になるグループをタップすれば、その場で詳細が開きます。</p>
 <div class="stats"><div class="stat"><b id="statGroups">-</b><small>GROUPS</small></div><div class="stat"><b id="statScored">-</b><small>SCORED</small></div><div class="stat"><b id="statFactions">-</b><small>ECOSYSTEMS</small></div><div class="stat hqStat"><b id="statHQ">100</b><small>HQ CORE</small></div></div></div>
 <div class="heroSide card"><div class="mode"><span></span> DATABASE MODE</div><h2>「知りたい」が<br>1タップでつながる。</h2><p>一覧 → 詳細 → 公式サイト。Power / Growth / Tierだけでなく、所属、レーベル、現役メンバー、公式SNSまで同じIDに集約。</p><div class="asof"><small>DATA AS OF</small><b id="asOf">2026-08-26</b></div></div>
+</section>
+<section id="quickSearchSection" class="quickSearch card">
+  <div class="quickSearchHead">
+    <div><small>IDOL SEARCH</small><h2>アイドル検索</h2><p>グループ名・事務所・プロジェクトからすぐ探せます。</p></div>
+    <button id="openDatabaseBtn" class="dbJump">全300組を見る →</button>
+  </div>
+  <div class="quickSearchBar">
+    <input id="quickSearch" type="search" placeholder="アイドル名 / 事務所 / プロジェクトを検索">
+  </div>
+  <div id="quickResults" class="quickResults"></div>
 </section>
 <section id="discoverView" class="view">
 <div class="sectionHead"><div><small>IDOLMAP PICKS</small><h2>おすすめMV 10選</h2><p>今の女性アイドルシーンを知るために、まず観てほしい10本。</p></div></div>
