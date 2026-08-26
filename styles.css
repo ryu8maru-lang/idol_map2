@@ -59,3 +59,10 @@ footer{padding:40px 0 65px;color:#8297a0;font-size:9px}
   .topToolbar .chips{grid-column:1/-1}
   .topSearchHead{align-items:flex-start}
 }
+
+/* ===== Ver 4.4 title font refinement ===== */
+.sengokuTitle{
+  font-family:"Noto Serif JP","Hiragino Mincho ProN","Yu Mincho",serif !important;
+  font-weight:900 !important;
+  letter-spacing:-.045em !important;
+}
