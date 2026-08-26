@@ -1,0 +1,4238 @@
+{
+  "as_of": "2026-08-26",
+  "groups": [
+    {
+      "id": "hq045",
+      "name": "FRUITS ZIPPER",
+      "faction": "KAWAII LAB.",
+      "debut_date": "2022-04-24",
+      "official_hp": "https://fruitszipper.asobisystem.com/",
+      "x": "https://x.com/FRUITS_ZIPPER",
+      "instagram": "https://www.instagram.com/fruits_zipper/",
+      "tiktok": "https://www.tiktok.com/@fruits_zipper",
+      "youtube": "https://www.youtube.com/@FRUITSZIPPER",
+      "agency": "ASOBISYSTEM",
+      "project": "KAWAII LAB.",
+      "label": "KAWAII LAB. / ASOBIMUSIC",
+      "live_scale": "2026年2月 東京ドーム単独公演。全国アリーナ級へ到達。",
+      "members": [
+        {
+          "name": "月足天音",
+          "status": "current"
+        },
+        {
+          "name": "鎮西寿々歌",
+          "status": "current"
+        },
+        {
+          "name": "櫻井優衣",
+          "status": "current"
+        },
+        {
+          "name": "仲川瑠夏",
+          "status": "current"
+        },
+        {
+          "name": "真中まな",
+          "status": "current"
+        },
+        {
+          "name": "松本かれん",
+          "status": "current"
+        },
+        {
+          "name": "早瀬ノエル",
+          "status": "current"
+        }
+      ],
+      "power": 97,
+      "growth": 99,
+      "tier": "SSS",
+      "tier_reason": "東京ドーム単独、楽曲の一般層浸透、SNS・セールス・KAWAII LAB.全体の牽引力を最上位評価。",
+      "verification_status": "verified",
+      "verification_note": "",
+      "sources": [
+        "https://fruitszipper.asobisystem.com/",
+        "https://kawaii-lab.jp/",
+        "https://asobisystem.com/talent/fruitszipper/"
+      ],
+      "last_verified": "2026-08-26",
+      "priority_enriched": true,
+      "score_status": "editorial_v1"
+    },
+    {
+      "id": "hq046",
+      "name": "CANDY TUNE",
+      "faction": "KAWAII LAB.",
+      "debut_date": "2023-03-14",
+      "official_hp": "https://candytune.asobisystem.com/",
+      "x": "https://x.com/CANDY_TUNE_",
+      "instagram": "https://www.instagram.com/candy_tune/",
+      "tiktok": "https://www.tiktok.com/@candy_tune",
+      "youtube": "https://www.youtube.com/@CANDYTUNE",
+      "agency": "ASOBISYSTEM",
+      "project": "KAWAII LAB.",
+      "label": "KAWAII LAB. / ASOBIMUSIC",
+      "live_scale": "2026年 日本武道館2days、GLION ARENA KOBE 2days級。",
+      "members": [
+        {
+          "name": "桐原美月",
+          "status": "current"
+        },
+        {
+          "name": "福山梨乃",
+          "status": "current"
+        },
+        {
+          "name": "小川奈々子",
+          "status": "current"
+        },
+        {
+          "name": "南なつ",
+          "status": "current"
+        },
+        {
+          "name": "立花琴未",
+          "status": "current"
+        },
+        {
+          "name": "宮野静",
+          "status": "current"
+        },
+        {
+          "name": "村川緋杏",
+          "status": "current"
+        }
+      ],
+      "power": 92,
+      "growth": 98,
+      "tier": "SS",
+      "tier_reason": "武道館2daysからアリーナへ拡大。SNS・楽曲浸透も急伸。",
+      "verification_status": "verified",
+      "verification_note": "",
+      "sources": [
+        "https://candytune.asobisystem.com/",
+        "https://kawaii-lab.jp/"
+      ],
+      "last_verified": "2026-08-26",
+      "priority_enriched": true,
+      "score_status": "editorial_v1"
+    },
+    {
+      "id": "hq047",
+      "name": "CUTIE STREET",
+      "faction": "KAWAII LAB.",
+      "debut_date": "2024-08-04",
+      "official_hp": "https://cutiestreet.asobisystem.com/",
+      "x": "https://x.com/CUTIE_STREET_",
+      "instagram": "https://www.instagram.com/cutie_street_/",
+      "tiktok": "https://www.tiktok.com/@cutie_street_",
+      "youtube": "https://www.youtube.com/@CUTIESTREET",
+      "agency": "ASOBISYSTEM",
+      "project": "KAWAII LAB.",
+      "label": "KAWAII LAB. / ASOBIMUSIC",
+      "live_scale": "2026-08-25〜26 日本武道館2days。9月横浜アリーナ公演を含むアリーナツアー。",
+      "members": [
+        {
+          "name": "古澤里紗",
+          "status": "current"
+        },
+        {
+          "name": "佐野愛花",
+          "status": "current"
+        },
+        {
+          "name": "板倉可奈",
+          "status": "current"
+        },
+        {
+          "name": "増田彩乃",
+          "status": "current"
+        },
+        {
+          "name": "川本笑瑠",
+          "status": "current"
+        },
+        {
+          "name": "梅田みゆ",
+          "status": "current"
+        },
+        {
+          "name": "真鍋凪咲",
+          "status": "current"
+        },
+        {
+          "name": "桜庭遥花",
+          "status": "current"
+        }
+      ],
+      "power": 91,
+      "growth": 99,
+      "tier": "SS",
+      "tier_reason": "デビュー2年で武道館2daysと横浜アリーナ級。現行女性アイドル屈指の成長速度。",
+      "verification_status": "verified",
+      "verification_note": "",
+      "sources": [
+        "https://cutiestreet.asobisystem.com/",
+        "https://kawaii-lab.jp/"
+      ],
+      "last_verified": "2026-08-26",
+      "priority_enriched": true,
+      "score_status": "editorial_v1"
+    },
+    {
+      "id": "hq048",
+      "name": "SWEET STEADY",
+      "faction": "KAWAII LAB.",
+      "debut_date": "2024-03-04",
+      "official_hp": "https://sweetsteady.asobisystem.com/",
+      "x": "https://x.com/SWEET_STEADY",
+      "instagram": "https://www.instagram.com/sweet_steady_/",
+      "tiktok": "https://www.tiktok.com/@sweet_steady",
+      "youtube": "https://www.youtube.com/@SWEETSTEADY",
+      "agency": "ASOBISYSTEM",
+      "project": "KAWAII LAB.",
+      "label": "KAWAII LAB. / ASOBIMUSIC",
+      "live_scale": "2026年4月 幕張メッセ国際展示場9・10ホール単独規模。",
+      "members": [
+        {
+          "name": "奥田彩友",
+          "status": "current"
+        },
+        {
+          "name": "音井結衣",
+          "status": "current"
+        },
+        {
+          "name": "栗田なつか",
+          "status": "current"
+        },
+        {
+          "name": "塩川莉世",
+          "status": "current"
+        },
+        {
+          "name": "庄司なぎさ",
+          "status": "current"
+        },
+        {
+          "name": "白石まゆみ",
+          "status": "current"
+        },
+        {
+          "name": "山内咲奈",
+          "status": "current"
+        }
+      ],
+      "power": 82,
+      "growth": 96,
+      "tier": "A+",
+      "tier_reason": "大型展示場公演まで拡大し、KAWAII LAB.第2波として強い成長。",
+      "verification_status": "verified",
+      "verification_note": "",
+      "sources": [
+        "https://sweetsteady.asobisystem.com/",
+        "https://kawaii-lab.jp/"
+      ],
+      "last_verified": "2026-08-26",
+      "priority_enriched": true,
+      "score_status": "editorial_v1"
+    },
+    {
+      "id": "hq049",
+      "name": "MORE STAR",
+      "faction": "KAWAII LAB.",
+      "debut_date": "2025-12-13",
+      "official_hp": "https://kawaii-lab.jp/",
+      "x": null,
+      "instagram": null,
+      "tiktok": null,
+      "youtube": null,
+      "agency": "ASOBISYSTEM",
+      "project": "KAWAII LAB.",
+      "label": "KAWAII LAB. / ASOBIMUSIC",
+      "live_scale": "KAWAII LAB.新世代グループ。2026年は大型フェス・合同公演中心に拡大中。",
+      "members": [
+        {
+          "name": "新井心菜",
+          "status": "current"
+        },
+        {
+          "name": "遠藤まりん",
+          "status": "current"
+        },
+        {
+          "name": "笹原なな花",
+          "status": "current"
+        },
+        {
+          "name": "鈴木花梨",
+          "status": "current"
+        },
+        {
+          "name": "高梨ゆな",
+          "status": "current"
+        },
+        {
+          "name": "中山こはく",
+          "status": "current"
+        },
+        {
+          "name": "萩田そら",
+          "status": "current"
+        },
+        {
+          "name": "森田あみ",
+          "status": "current"
+        },
+        {
+          "name": "山本るしあ",
+          "status": "current"
+        }
+      ],
+      "power": 70,
+      "growth": 99,
+      "tier": "A",
+      "tier_reason": "発足直後でPowerは発展途上だが、KAWAII LAB.の成長環境と初動を高評価。",
+      "verification_status": "verified_partial_socials",
+      "verification_note": "",
+      "sources": [
+        "https://kawaii-lab.jp/"
+      ],
+      "last_verified": "2026-08-26",
+      "priority_enriched": true,
+      "score_status": "editorial_v1"
+    },
+    {
+      "id": "hq050",
+      "name": "AKB48",
+      "faction": "48グループ",
+      "debut_date": "2005-12-08",
+      "official_hp": "https://www.akb48.co.jp/",
+      "x": "https://x.com/AKB48_staff",
+      "instagram": "https://www.instagram.com/akb48/",
+      "tiktok": "https://www.tiktok.com/@akb48_official_tiktok",
+      "youtube": "https://www.youtube.com/@AKB48",
+      "agency": "株式会社DH",
+      "project": "48グループ",
+      "label": "EMI Records / Universal Music Japan",
+      "live_scale": "東京ドーム・ドームツアー等の歴史的実績。2026年も全国規模で活動。",
+      "members": [
+        {
+          "name": "岩立沙穂",
+          "status": "current"
+        },
+        {
+          "name": "福岡聖菜",
+          "status": "current"
+        },
+        {
+          "name": "小栗有以",
+          "status": "current"
+        },
+        {
+          "name": "行天優莉奈",
+          "status": "current"
+        },
+        {
+          "name": "倉野尾成美",
+          "status": "current"
+        },
+        {
+          "name": "坂川陽香",
+          "status": "current"
+        },
+        {
+          "name": "下尾みう",
+          "status": "current"
+        },
+        {
+          "name": "髙橋彩音",
+          "status": "current"
+        },
+        {
+          "name": "徳永羚海",
+          "status": "current"
+        },
+        {
+          "name": "永野芹佳",
+          "status": "current"
+        },
+        {
+          "name": "橋本陽菜",
+          "status": "current"
+        },
+        {
+          "name": "千葉恵里",
+          "status": "current"
+        },
+        {
+          "name": "黒須遥香",
+          "status": "current"
+        },
+        {
+          "name": "長友彩海",
+          "status": "current"
+        },
+        {
+          "name": "武藤小麟",
+          "status": "current"
+        },
+        {
+          "name": "山内瑞葵",
+          "status": "current"
+        },
+        {
+          "name": "山根涼羽",
+          "status": "current"
+        },
+        {
+          "name": "太田有紀",
+          "status": "current"
+        },
+        {
+          "name": "佐藤綺星",
+          "status": "current"
+        },
+        {
+          "name": "橋本恵理子",
+          "status": "current"
+        },
+        {
+          "name": "畠山希美",
+          "status": "current"
+        },
+        {
+          "name": "平田侑希",
+          "status": "current"
+        },
+        {
+          "name": "布袋百椛",
+          "status": "current"
+        },
+        {
+          "name": "正鋳真優",
+          "status": "current"
+        },
+        {
+          "name": "水島美結",
+          "status": "current"
+        },
+        {
+          "name": "山﨑空",
+          "status": "current"
+        },
+        {
+          "name": "秋山由奈",
+          "status": "current"
+        },
+        {
+          "name": "新井彩永",
+          "status": "current"
+        },
+        {
+          "name": "工藤華純",
+          "status": "current"
+        },
+        {
+          "name": "久保姫菜乃",
+          "status": "current"
+        },
+        {
+          "name": "迫由芽実",
+          "status": "current"
+        },
+        {
+          "name": "成田香姫奈",
+          "status": "current"
+        },
+        {
+          "name": "八木愛月",
+          "status": "current"
+        },
+        {
+          "name": "山口結愛",
+          "status": "current"
+        },
+        {
+          "name": "伊藤百花",
+          "status": "current"
+        },
+        {
+          "name": "奥本カイリ",
+          "status": "current"
+        },
+        {
+          "name": "川村結衣",
+          "status": "current"
+        },
+        {
+          "name": "大賀彩姫",
+          "status": "current"
+        },
+        {
+          "name": "近藤沙樹",
+          "status": "current"
+        },
+        {
+          "name": "丸山ひなた",
+          "status": "current"
+        },
+        {
+          "name": "髙橋舞桜",
+          "status": "current"
+        },
+        {
+          "name": "田中沙友利",
+          "status": "current"
+        },
+        {
+          "name": "牧戸愛茉",
+          "status": "current"
+        },
+        {
+          "name": "森川優",
+          "status": "current"
+        },
+        {
+          "name": "渡邉葵心",
+          "status": "current"
+        }
+      ],
+      "power": 95,
+      "growth": 75,
+      "tier": "SSS",
+      "tier_reason": "国民的IP・歴史・メディア力は依然最上位。現在の会場成長率は新興勢より抑えめ。",
+      "verification_status": "verified",
+      "verification_note": "",
+      "sources": [
+        "https://www.akb48.co.jp/about/members/",
+        "https://www.akb48.co.jp/"
+      ],
+      "last_verified": "2026-08-26",
+      "priority_enriched": true,
+      "score_status": "editorial_v1"
+    },
+    {
+      "id": "hq051",
+      "name": "SKE48",
+      "faction": "48グループ",
+      "debut_date": "2008-10-05",
+      "official_hp": "https://ske48.co.jp/",
+      "x": "https://x.com/ske48official",
+      "instagram": "https://www.instagram.com/official_ske48/",
+      "tiktok": "https://www.tiktok.com/@ske48official",
+      "youtube": "https://www.youtube.com/@SKE48",
+      "agency": "株式会社ゼスト",
+      "project": "48グループ",
+      "label": "avex trax",
+      "live_scale": "名古屋を基盤にホール・アリーナ級公演を継続。",
+      "members": [
+        {
+          "name": "相川暖花",
+          "status": "current"
+        },
+        {
+          "name": "石黒友月",
+          "status": "current"
+        },
+        {
+          "name": "伊藤虹々美",
+          "status": "current"
+        },
+        {
+          "name": "入内嶋涼",
+          "status": "current"
+        },
+        {
+          "name": "熊崎晴香",
+          "status": "current"
+        },
+        {
+          "name": "倉島杏実",
+          "status": "current"
+        },
+        {
+          "name": "桒原椿",
+          "status": "current"
+        },
+        {
+          "name": "坂本真凛",
+          "status": "current"
+        },
+        {
+          "name": "杉本りいな",
+          "status": "current"
+        },
+        {
+          "name": "鈴木恋奈",
+          "status": "current"
+        },
+        {
+          "name": "野村実代",
+          "status": "current"
+        },
+        {
+          "name": "原優寧",
+          "status": "current"
+        },
+        {
+          "name": "松川みゆ",
+          "status": "current"
+        },
+        {
+          "name": "南澤恋々",
+          "status": "current"
+        },
+        {
+          "name": "山村さくら",
+          "status": "current"
+        },
+        {
+          "name": "荒野姫楓",
+          "status": "current"
+        },
+        {
+          "name": "池田楓",
+          "status": "current"
+        },
+        {
+          "name": "伊藤実希",
+          "status": "current"
+        },
+        {
+          "name": "井上瑠夏",
+          "status": "current"
+        },
+        {
+          "name": "奥野心羽",
+          "status": "current"
+        },
+        {
+          "name": "鎌田菜月",
+          "status": "current"
+        },
+        {
+          "name": "北川愛乃",
+          "status": "current"
+        },
+        {
+          "name": "雲井紗菜",
+          "status": "current"
+        },
+        {
+          "name": "倉本羽菜",
+          "status": "current"
+        },
+        {
+          "name": "近藤海琴",
+          "status": "current"
+        },
+        {
+          "name": "佐藤佳穂",
+          "status": "current"
+        },
+        {
+          "name": "篠原京香",
+          "status": "current"
+        },
+        {
+          "name": "松本慈子",
+          "status": "current"
+        },
+        {
+          "name": "青木莉樺",
+          "status": "current"
+        },
+        {
+          "name": "赤堀君江",
+          "status": "current"
+        },
+        {
+          "name": "浅井裕華",
+          "status": "current"
+        },
+        {
+          "name": "井田玲音名",
+          "status": "current"
+        },
+        {
+          "name": "太田彩夏",
+          "status": "current"
+        },
+        {
+          "name": "太田愛恵",
+          "status": "current"
+        },
+        {
+          "name": "大村杏",
+          "status": "current"
+        },
+        {
+          "name": "河村優愛",
+          "status": "current"
+        },
+        {
+          "name": "鈴木愛菜",
+          "status": "current"
+        },
+        {
+          "name": "中坂美祐",
+          "status": "current"
+        },
+        {
+          "name": "西井美桜",
+          "status": "current"
+        },
+        {
+          "name": "長谷川雅",
+          "status": "current"
+        },
+        {
+          "name": "森本くるみ",
+          "status": "current"
+        },
+        {
+          "name": "飯田ゆら",
+          "status": "current"
+        },
+        {
+          "name": "池田有沙",
+          "status": "current"
+        },
+        {
+          "name": "川村昇子",
+          "status": "current"
+        },
+        {
+          "name": "久保田怜",
+          "status": "current"
+        },
+        {
+          "name": "桜井愛莉咲",
+          "status": "current"
+        },
+        {
+          "name": "佐々木希美",
+          "status": "current"
+        },
+        {
+          "name": "高村紗弥",
+          "status": "current"
+        },
+        {
+          "name": "竹下茉莉花",
+          "status": "current"
+        },
+        {
+          "name": "立花菖",
+          "status": "current"
+        },
+        {
+          "name": "田村真悠",
+          "status": "current"
+        },
+        {
+          "name": "中尾楓華",
+          "status": "current"
+        },
+        {
+          "name": "聖遥花",
+          "status": "current"
+        },
+        {
+          "name": "宮本倫花",
+          "status": "current"
+        },
+        {
+          "name": "矢島凪",
+          "status": "current"
+        },
+        {
+          "name": "横井志穂",
+          "status": "current"
+        }
+      ],
+      "power": 88,
+      "growth": 72,
+      "tier": "S",
+      "tier_reason": "東海圏の強固な基盤、長期継続、CD・ライブ・地域IPを評価。",
+      "verification_status": "verified",
+      "verification_note": "",
+      "sources": [
+        "https://ske48.co.jp/feature/member",
+        "https://ske48.co.jp/"
+      ],
+      "last_verified": "2026-08-26",
+      "priority_enriched": true,
+      "score_status": "editorial_v1"
+    },
+    {
+      "id": "hq052",
+      "name": "NMB48",
+      "faction": "48グループ",
+      "debut_date": "2010-10-09",
+      "official_hp": "https://www.nmb48.com/",
+      "x": "https://x.com/nmb48_official",
+      "instagram": "https://www.instagram.com/nmb48_official/",
+      "tiktok": "https://www.tiktok.com/@nmb48_official",
+      "youtube": "https://www.youtube.com/@NMB48",
+      "agency": "株式会社Showtitle",
+      "project": "48グループ",
+      "label": "Universal Music Japan",
+      "live_scale": "大阪を基盤に劇場・ホール・大型会場公演を継続。",
+      "members": [
+        {
+          "name": "青原優花",
+          "status": "current"
+        },
+        {
+          "name": "池帆乃香",
+          "status": "current"
+        },
+        {
+          "name": "池田典愛",
+          "status": "current"
+        },
+        {
+          "name": "石山千尋",
+          "status": "current"
+        },
+        {
+          "name": "泉綾乃",
+          "status": "current"
+        },
+        {
+          "name": "板垣心和",
+          "status": "current"
+        },
+        {
+          "name": "内田愛彩",
+          "status": "current"
+        },
+        {
+          "name": "岡腰星来",
+          "status": "current"
+        },
+        {
+          "name": "衣笠彩実",
+          "status": "current"
+        },
+        {
+          "name": "木根彩呂花",
+          "status": "current"
+        },
+        {
+          "name": "黒島咲花",
+          "status": "current"
+        },
+        {
+          "name": "坂下真心",
+          "status": "current"
+        },
+        {
+          "name": "坂田心咲",
+          "status": "current"
+        },
+        {
+          "name": "桜田彩叶",
+          "status": "current"
+        },
+        {
+          "name": "塩月希依音",
+          "status": "current"
+        },
+        {
+          "name": "澁谷愛紗南",
+          "status": "current"
+        },
+        {
+          "name": "新澤菜央",
+          "status": "current"
+        },
+        {
+          "name": "高橋ことね",
+          "status": "current"
+        },
+        {
+          "name": "竹田京加",
+          "status": "current"
+        },
+        {
+          "name": "龍本弥生",
+          "status": "current"
+        },
+        {
+          "name": "田中美空",
+          "status": "current"
+        },
+        {
+          "name": "田中ミリア",
+          "status": "current"
+        },
+        {
+          "name": "中川朋香",
+          "status": "current"
+        },
+        {
+          "name": "西島梨央",
+          "status": "current"
+        },
+        {
+          "name": "西田帆花",
+          "status": "current"
+        },
+        {
+          "name": "芳賀礼",
+          "status": "current"
+        },
+        {
+          "name": "平山真衣",
+          "status": "current"
+        },
+        {
+          "name": "福野杏実",
+          "status": "current"
+        },
+        {
+          "name": "松岡さくら",
+          "status": "current"
+        },
+        {
+          "name": "松本海日菜",
+          "status": "current"
+        },
+        {
+          "name": "三鴨くるみ",
+          "status": "current"
+        },
+        {
+          "name": "宮崎紗衣",
+          "status": "current"
+        },
+        {
+          "name": "宮原心音",
+          "status": "current"
+        },
+        {
+          "name": "宮本杏海",
+          "status": "current"
+        },
+        {
+          "name": "山口美桜",
+          "status": "current"
+        },
+        {
+          "name": "村井悠莉",
+          "status": "current"
+        },
+        {
+          "name": "吉見純音",
+          "status": "current"
+        },
+        {
+          "name": "赤松昊",
+          "status": "current"
+        },
+        {
+          "name": "桜井ひまり",
+          "status": "current"
+        },
+        {
+          "name": "善家侑莉花",
+          "status": "current"
+        },
+        {
+          "name": "高橋樹奈",
+          "status": "current"
+        },
+        {
+          "name": "田中れい",
+          "status": "current"
+        },
+        {
+          "name": "谷口詩乃",
+          "status": "current"
+        },
+        {
+          "name": "西住美咲妃",
+          "status": "current"
+        },
+        {
+          "name": "福原琴美",
+          "status": "current"
+        },
+        {
+          "name": "藪内陽花",
+          "status": "current"
+        },
+        {
+          "name": "和田承子",
+          "status": "current"
+        }
+      ],
+      "power": 88,
+      "growth": 76,
+      "tier": "S",
+      "tier_reason": "関西での知名度・劇場文化・ライブ基盤が強く、世代交代も進行。",
+      "verification_status": "verified",
+      "verification_note": "",
+      "sources": [
+        "https://www.nmb48.com/member/",
+        "https://www.nmb48.com/"
+      ],
+      "last_verified": "2026-08-26",
+      "priority_enriched": true,
+      "score_status": "editorial_v1"
+    },
+    {
+      "id": "hq053",
+      "name": "HKT48",
+      "faction": "48グループ",
+      "debut_date": "2011-10-23",
+      "official_hp": "https://www.hkt48.jp/",
+      "x": "https://x.com/hkt48_official_",
+      "instagram": "https://www.instagram.com/official_hkt48/",
+      "tiktok": "https://www.tiktok.com/@hkt48_official",
+      "youtube": "https://www.youtube.com/@HKT48",
+      "agency": "株式会社Mercury",
+      "project": "48グループ",
+      "label": "EMI Records / Universal Music Japan",
+      "live_scale": "福岡を基盤に劇場・ホール・全国公演を継続。",
+      "members": [
+        {
+          "name": "生野莉奈",
+          "status": "current"
+        },
+        {
+          "name": "石橋颯",
+          "status": "current"
+        },
+        {
+          "name": "石松結菜",
+          "status": "current"
+        },
+        {
+          "name": "市村愛里",
+          "status": "current"
+        },
+        {
+          "name": "北川陽彩",
+          "status": "current"
+        },
+        {
+          "name": "栗原紗英",
+          "status": "current"
+        },
+        {
+          "name": "渋井美奈",
+          "status": "current"
+        },
+        {
+          "name": "豊永阿紀",
+          "status": "current"
+        },
+        {
+          "name": "中野南実",
+          "status": "current"
+        },
+        {
+          "name": "藤野心葉",
+          "status": "current"
+        },
+        {
+          "name": "渕上舞",
+          "status": "current"
+        },
+        {
+          "name": "松永悠良",
+          "status": "current"
+        },
+        {
+          "name": "梁瀬鈴雅",
+          "status": "current"
+        },
+        {
+          "name": "山内祐奈",
+          "status": "current"
+        },
+        {
+          "name": "龍頭綺音",
+          "status": "current"
+        },
+        {
+          "name": "秋吉優花",
+          "status": "current"
+        },
+        {
+          "name": "井澤美優",
+          "status": "current"
+        },
+        {
+          "name": "石井彩音",
+          "status": "current"
+        },
+        {
+          "name": "猪原絆愛",
+          "status": "current"
+        },
+        {
+          "name": "今村麻莉愛",
+          "status": "current"
+        },
+        {
+          "name": "江浦優香",
+          "status": "current"
+        },
+        {
+          "name": "江口心々華",
+          "status": "current"
+        },
+        {
+          "name": "大庭凜咲",
+          "status": "current"
+        },
+        {
+          "name": "栗山梨奈",
+          "status": "current"
+        },
+        {
+          "name": "竹本くるみ",
+          "status": "current"
+        },
+        {
+          "name": "立花心良",
+          "status": "current"
+        },
+        {
+          "name": "田中伊桜莉",
+          "status": "current"
+        },
+        {
+          "name": "福井可憐",
+          "status": "current"
+        },
+        {
+          "name": "森﨑冴彩",
+          "status": "current"
+        },
+        {
+          "name": "安井妃奈",
+          "status": "current"
+        },
+        {
+          "name": "青木日菜子",
+          "status": "current"
+        },
+        {
+          "name": "石川歩実優",
+          "status": "current"
+        },
+        {
+          "name": "猪島莉玲亜",
+          "status": "current"
+        },
+        {
+          "name": "呉優菜",
+          "status": "current"
+        },
+        {
+          "name": "靏川那智",
+          "status": "current"
+        },
+        {
+          "name": "長野らら",
+          "status": "current"
+        },
+        {
+          "name": "松本苺花",
+          "status": "current"
+        },
+        {
+          "name": "山川万里愛",
+          "status": "current"
+        },
+        {
+          "name": "吉田めい",
+          "status": "current"
+        }
+      ],
+      "power": 86,
+      "growth": 74,
+      "tier": "S",
+      "tier_reason": "九州圏でのブランド、劇場・ライブ基盤、世代更新を評価。",
+      "verification_status": "verified",
+      "verification_note": "",
+      "sources": [
+        "https://www.hkt48.jp/profile",
+        "https://www.hkt48.jp/"
+      ],
+      "last_verified": "2026-08-26",
+      "priority_enriched": true,
+      "score_status": "editorial_v1"
+    },
+    {
+      "id": "hq054",
+      "name": "NGT48",
+      "faction": "48グループ",
+      "debut_date": "2015-08-21",
+      "official_hp": "https://ngt48.jp/",
+      "x": "https://x.com/official_NGT48",
+      "instagram": "https://www.instagram.com/official_ngt48/",
+      "tiktok": "https://www.tiktok.com/@ngt48_official",
+      "youtube": "https://www.youtube.com/@official_NGT48",
+      "agency": "株式会社Flora",
+      "project": "48グループ",
+      "label": "EMI Records / Universal Music Japan",
+      "live_scale": "新潟を基盤に劇場・ホール公演、地域イベントを展開。",
+      "members": [
+        {
+          "name": "清司麗菜",
+          "status": "current"
+        },
+        {
+          "name": "西潟茉莉奈",
+          "status": "current"
+        },
+        {
+          "name": "佐藤海里",
+          "status": "current"
+        },
+        {
+          "name": "大塚七海",
+          "status": "current"
+        },
+        {
+          "name": "三村妃乃",
+          "status": "current"
+        },
+        {
+          "name": "磯部瑠紅",
+          "status": "current"
+        },
+        {
+          "name": "喜多花恵",
+          "status": "current"
+        },
+        {
+          "name": "北村優羽",
+          "status": "current"
+        },
+        {
+          "name": "水津菜月",
+          "status": "current"
+        },
+        {
+          "name": "杉本萌",
+          "status": "current"
+        },
+        {
+          "name": "磯崎菜々",
+          "status": "current"
+        },
+        {
+          "name": "木本杏菜",
+          "status": "current"
+        },
+        {
+          "name": "佐藤広花",
+          "status": "current"
+        },
+        {
+          "name": "新沢葵唯",
+          "status": "current"
+        },
+        {
+          "name": "高島柚愛",
+          "status": "current"
+        },
+        {
+          "name": "西川晴菜",
+          "status": "current"
+        },
+        {
+          "name": "安座間結",
+          "status": "current"
+        },
+        {
+          "name": "阿達夢",
+          "status": "current"
+        },
+        {
+          "name": "大町佑香",
+          "status": "current"
+        },
+        {
+          "name": "甲斐瑞季",
+          "status": "current"
+        },
+        {
+          "name": "北澤百音",
+          "status": "current"
+        },
+        {
+          "name": "佐藤柚花",
+          "status": "current"
+        },
+        {
+          "name": "須藤凜華",
+          "status": "current"
+        },
+        {
+          "name": "谷口陽香",
+          "status": "current"
+        },
+        {
+          "name": "中田麻実",
+          "status": "current"
+        },
+        {
+          "name": "皆川日和",
+          "status": "current"
+        },
+        {
+          "name": "相木茉采",
+          "status": "current"
+        },
+        {
+          "name": "猪股咲那",
+          "status": "current"
+        },
+        {
+          "name": "大橋彩乃",
+          "status": "current"
+        },
+        {
+          "name": "片山珠吏",
+          "status": "current"
+        },
+        {
+          "name": "久我水羚",
+          "status": "current"
+        },
+        {
+          "name": "佐藤歩夏",
+          "status": "current"
+        },
+        {
+          "name": "平井柚葉",
+          "status": "current"
+        },
+        {
+          "name": "細矢夏帆",
+          "status": "current"
+        }
+      ],
+      "power": 77,
+      "growth": 72,
+      "tier": "A",
+      "tier_reason": "地域密着と48ブランドを維持。現在の全国Powerは上位姉妹グループより限定的。",
+      "verification_status": "verified",
+      "verification_note": "",
+      "sources": [
+        "https://ngt48.jp/profile",
+        "https://ngt48.jp/"
+      ],
+      "last_verified": "2026-08-26",
+      "priority_enriched": true,
+      "score_status": "editorial_v1"
+    },
+    {
+      "id": "hq055",
+      "name": "STU48",
+      "faction": "48グループ",
+      "debut_date": "2017-03-31",
+      "official_hp": "https://sp.stu48.com/",
+      "x": "https://x.com/STU48_official_",
+      "instagram": "https://www.instagram.com/stu48.official/",
+      "tiktok": "https://www.tiktok.com/@stu48.official",
+      "youtube": "https://www.youtube.com/@STU48",
+      "agency": "株式会社STU",
+      "project": "48グループ",
+      "label": "KING RECORDS",
+      "live_scale": "瀬戸内7県を軸にホール・全国ツアー級を展開。",
+      "members": [
+        {
+          "name": "甲斐心愛",
+          "status": "current"
+        },
+        {
+          "name": "谷口茉妃菜",
+          "status": "current"
+        },
+        {
+          "name": "兵頭葵",
+          "status": "current"
+        },
+        {
+          "name": "福田朱里",
+          "status": "current"
+        },
+        {
+          "name": "信濃宙花",
+          "status": "current"
+        },
+        {
+          "name": "中村舞",
+          "status": "current"
+        },
+        {
+          "name": "池田裕楽",
+          "status": "current"
+        },
+        {
+          "name": "内海里音",
+          "status": "current"
+        },
+        {
+          "name": "尾崎世里花",
+          "status": "current"
+        },
+        {
+          "name": "川又優菜",
+          "status": "current"
+        },
+        {
+          "name": "工藤理子",
+          "status": "current"
+        },
+        {
+          "name": "迫姫華",
+          "status": "current"
+        },
+        {
+          "name": "高雄さやか",
+          "status": "current"
+        },
+        {
+          "name": "原田清花",
+          "status": "current"
+        },
+        {
+          "name": "宗雪里香",
+          "status": "current"
+        },
+        {
+          "name": "吉田彩良",
+          "status": "current"
+        },
+        {
+          "name": "渡辺菜月",
+          "status": "current"
+        },
+        {
+          "name": "岡田あずみ",
+          "status": "current"
+        },
+        {
+          "name": "岡村梨央",
+          "status": "current"
+        },
+        {
+          "name": "久留島優果",
+          "status": "current"
+        },
+        {
+          "name": "諸葛望愛",
+          "status": "current"
+        },
+        {
+          "name": "新井梨杏",
+          "status": "current"
+        },
+        {
+          "name": "石原侑奈",
+          "status": "current"
+        },
+        {
+          "name": "奥田唯菜",
+          "status": "current"
+        },
+        {
+          "name": "北澤苺",
+          "status": "current"
+        },
+        {
+          "name": "濵田響",
+          "status": "current"
+        },
+        {
+          "name": "森末妃奈",
+          "status": "current"
+        },
+        {
+          "name": "石松陽菜",
+          "status": "current"
+        },
+        {
+          "name": "井上久伶杏",
+          "status": "current"
+        },
+        {
+          "name": "蕪竹真奈",
+          "status": "current"
+        },
+        {
+          "name": "木原姫花世",
+          "status": "current"
+        },
+        {
+          "name": "小松奈侑",
+          "status": "current"
+        },
+        {
+          "name": "坂木叶愛",
+          "status": "current"
+        },
+        {
+          "name": "坂崎愛",
+          "status": "current"
+        },
+        {
+          "name": "島田紗香",
+          "status": "current"
+        },
+        {
+          "name": "曽我部あこ",
+          "status": "current"
+        },
+        {
+          "name": "髙村栞里",
+          "status": "current"
+        },
+        {
+          "name": "田中奈菜子",
+          "status": "current"
+        },
+        {
+          "name": "道保琉南",
+          "status": "current"
+        },
+        {
+          "name": "野中莉央",
+          "status": "current"
+        },
+        {
+          "name": "濵田美惟",
+          "status": "current"
+        },
+        {
+          "name": "藤田愛結",
+          "status": "current"
+        },
+        {
+          "name": "三好真綺",
+          "status": "current"
+        },
+        {
+          "name": "屋木優菜",
+          "status": "current"
+        },
+        {
+          "name": "横井結菜",
+          "status": "current"
+        }
+      ],
+      "power": 83,
+      "growth": 79,
+      "tier": "A+",
+      "tier_reason": "瀬戸内地域IP、メディア・ライブ基盤、若手世代の伸びを評価。",
+      "verification_status": "verified",
+      "verification_note": "",
+      "sources": [
+        "https://sp.stu48.com/feature/profile",
+        "https://sp.stu48.com/"
+      ],
+      "last_verified": "2026-08-26",
+      "priority_enriched": true,
+      "score_status": "editorial_v1"
+    },
+    {
+      "id": "hq056",
+      "name": "モーニング娘。'26",
+      "faction": "Hello! Project",
+      "debut_date": "1997-09-14",
+      "official_hp": "https://www.helloproject.com/morningmusume/",
+      "x": "https://x.com/MorningMusumeMg",
+      "instagram": "https://www.instagram.com/morningmusume_official/",
+      "tiktok": "https://www.tiktok.com/@morningmusume_uf",
+      "youtube": "https://www.youtube.com/@morningmusume",
+      "agency": "アップフロントプロモーション",
+      "project": "Hello! Project",
+      "label": "UP-FRONT WORKS / zetima",
+      "live_scale": "長期にわたり日本武道館・全国ホールツアー級を維持。",
+      "members": [
+        {
+          "name": "野中美希",
+          "status": "current"
+        },
+        {
+          "name": "小田さくら",
+          "status": "current"
+        },
+        {
+          "name": "岡村ほまれ",
+          "status": "current"
+        },
+        {
+          "name": "山﨑愛生",
+          "status": "current"
+        },
+        {
+          "name": "櫻井梨央",
+          "status": "current"
+        },
+        {
+          "name": "井上春華",
+          "status": "current"
+        },
+        {
+          "name": "弓桁朱琴",
+          "status": "current"
+        },
+        {
+          "name": "杉原明紗",
+          "status": "current"
+        },
+        {
+          "name": "安田美結",
+          "status": "current"
+        },
+        {
+          "name": "鈴木もあ",
+          "status": "current"
+        },
+        {
+          "name": "石川華望",
+          "status": "current"
+        }
+      ],
+      "power": 93,
+      "growth": 68,
+      "tier": "SS",
+      "tier_reason": "国民的ブランドの歴史、武道館級の継続力、ハロプロ中核IPを高評価。",
+      "verification_status": "verified",
+      "verification_note": "",
+      "sources": [
+        "https://www.helloproject.com/morningmusume/profile/"
+      ],
+      "last_verified": "2026-08-26",
+      "priority_enriched": true,
+      "score_status": "editorial_v1"
+    },
+    {
+      "id": "hq057",
+      "name": "アンジュルム",
+      "faction": "Hello! Project",
+      "debut_date": "2009-04-04",
+      "official_hp": "https://www.helloproject.com/angerme/",
+      "x": "https://x.com/angerme_upfront",
+      "instagram": "https://www.instagram.com/angerme_official/",
+      "tiktok": null,
+      "youtube": "https://www.youtube.com/@angerme",
+      "agency": "アップフロントプロモーション",
+      "project": "Hello! Project",
+      "label": "UP-FRONT WORKS / hachama",
+      "live_scale": "日本武道館・全国ホールツアー級を継続。",
+      "members": [
+        {
+          "name": "伊勢鈴蘭",
+          "status": "current"
+        },
+        {
+          "name": "為永幸音",
+          "status": "current"
+        },
+        {
+          "name": "橋迫鈴",
+          "status": "current"
+        },
+        {
+          "name": "川名凜",
+          "status": "current"
+        },
+        {
+          "name": "松本わかな",
+          "status": "current"
+        },
+        {
+          "name": "平山遊季",
+          "status": "current"
+        },
+        {
+          "name": "下井谷幸穂",
+          "status": "current"
+        },
+        {
+          "name": "後藤花",
+          "status": "current"
+        },
+        {
+          "name": "長野桃羽",
+          "status": "current"
+        }
+      ],
+      "power": 88,
+      "growth": 77,
+      "tier": "S",
+      "tier_reason": "武道館級のライブ基盤とハロプロ内の安定した人気を評価。",
+      "verification_status": "verified_partial_socials",
+      "verification_note": "",
+      "sources": [
+        "https://www.helloproject.com/angerme/profile/"
+      ],
+      "last_verified": "2026-08-26",
+      "priority_enriched": true,
+      "score_status": "editorial_v1"
+    },
+    {
+      "id": "hq058",
+      "name": "Juice=Juice",
+      "faction": "Hello! Project",
+      "debut_date": "2013-02-03",
+      "official_hp": "https://www.helloproject.com/juicejuice/",
+      "x": "https://x.com/JuiceJuice_uf",
+      "instagram": "https://www.instagram.com/juice_juice_official/",
+      "tiktok": null,
+      "youtube": "https://www.youtube.com/@juicejuice",
+      "agency": "アップフロントプロモーション",
+      "project": "Hello! Project",
+      "label": "UP-FRONT WORKS / hachama",
+      "live_scale": "日本武道館・全国ホールツアー級。歌唱力ブランドが強い。",
+      "members": [
+        {
+          "name": "段原瑠々",
+          "status": "current"
+        },
+        {
+          "name": "井上玲音",
+          "status": "current"
+        },
+        {
+          "name": "工藤由愛",
+          "status": "current"
+        },
+        {
+          "name": "松永里愛",
+          "status": "current"
+        },
+        {
+          "name": "有澤一華",
+          "status": "current"
+        },
+        {
+          "name": "入江里咲",
+          "status": "current"
+        },
+        {
+          "name": "江端妃咲",
+          "status": "current"
+        },
+        {
+          "name": "石山咲良",
+          "status": "current"
+        },
+        {
+          "name": "遠藤彩加里",
+          "status": "current"
+        },
+        {
+          "name": "川嶋美楓",
+          "status": "current"
+        },
+        {
+          "name": "林仁愛",
+          "status": "current"
+        }
+      ],
+      "power": 88,
+      "growth": 82,
+      "tier": "S",
+      "tier_reason": "ライブ・歌唱評価、武道館級の継続、若手加入後の伸びを評価。",
+      "verification_status": "verified_partial_socials",
+      "verification_note": "",
+      "sources": [
+        "https://www.helloproject.com/juicejuice/profile/"
+      ],
+      "last_verified": "2026-08-26",
+      "priority_enriched": true,
+      "score_status": "editorial_v1"
+    },
+    {
+      "id": "hq059",
+      "name": "つばきファクトリー",
+      "faction": "Hello! Project",
+      "debut_date": "2015-04-29",
+      "official_hp": "https://www.helloproject.com/tsubakifactory/",
+      "x": "https://x.com/tsubakifac_uf",
+      "instagram": "https://www.instagram.com/tsubakifactory_official/",
+      "tiktok": null,
+      "youtube": "https://www.youtube.com/@tsubakifactory",
+      "agency": "アップフロントプロモーション",
+      "project": "Hello! Project",
+      "label": "UP-FRONT WORKS / zetima",
+      "live_scale": "全国ホール・ライブハウスツアー、武道館級実績。",
+      "members": [
+        {
+          "name": "谷本安美",
+          "status": "current"
+        },
+        {
+          "name": "小野瑞歩",
+          "status": "current"
+        },
+        {
+          "name": "小野田紗栞",
+          "status": "current"
+        },
+        {
+          "name": "秋山眞緒",
+          "status": "current"
+        },
+        {
+          "name": "河西結心",
+          "status": "current"
+        },
+        {
+          "name": "福田真琳",
+          "status": "current"
+        },
+        {
+          "name": "豫風瑠乃",
+          "status": "current"
+        },
+        {
+          "name": "石井泉羽",
+          "status": "current"
+        },
+        {
+          "name": "村田結生",
+          "status": "current"
+        },
+        {
+          "name": "土居楓奏",
+          "status": "current"
+        },
+        {
+          "name": "西村乙輝",
+          "status": "current"
+        }
+      ],
+      "power": 83,
+      "growth": 74,
+      "tier": "A+",
+      "tier_reason": "安定したハロプロ中堅Powerと継続的な全国公演を評価。",
+      "verification_status": "verified_partial_socials",
+      "verification_note": "",
+      "sources": [
+        "https://www.helloproject.com/tsubakifactory/profile/"
+      ],
+      "last_verified": "2026-08-26",
+      "priority_enriched": true,
+      "score_status": "editorial_v1"
+    },
+    {
+      "id": "hq060",
+      "name": "BEYOOOOONDS",
+      "faction": "Hello! Project",
+      "debut_date": "2018-10-19",
+      "official_hp": "https://www.helloproject.com/beyooooonds/",
+      "x": "https://x.com/BEYOOOOONDS_",
+      "instagram": "https://www.instagram.com/beyooooonds_official/",
+      "tiktok": null,
+      "youtube": "https://www.youtube.com/@beyooooonds",
+      "agency": "アップフロントプロモーション",
+      "project": "Hello! Project",
+      "label": "UP-FRONT WORKS / zetima",
+      "live_scale": "日本武道館・全国ホール級実績。舞台・企画性も強い。",
+      "members": [
+        {
+          "name": "西田汐里",
+          "status": "current"
+        },
+        {
+          "name": "江口紗耶",
+          "status": "current"
+        },
+        {
+          "name": "大坪茉乃",
+          "status": "current"
+        },
+        {
+          "name": "杉山結菜",
+          "status": "current"
+        },
+        {
+          "name": "前田こころ",
+          "status": "current"
+        },
+        {
+          "name": "岡村美波",
+          "status": "current"
+        },
+        {
+          "name": "清野桃々姫",
+          "status": "current"
+        },
+        {
+          "name": "小島はな",
+          "status": "current"
+        },
+        {
+          "name": "平井美葉",
+          "status": "current"
+        },
+        {
+          "name": "小林萌花",
+          "status": "current"
+        },
+        {
+          "name": "里吉うたの",
+          "status": "current"
+        }
+      ],
+      "power": 84,
+      "growth": 80,
+      "tier": "A+",
+      "tier_reason": "ライブ・舞台・企画性、再編後の新体制成長を評価。",
+      "verification_status": "verified_partial_socials",
+      "verification_note": "",
+      "sources": [
+        "https://www.helloproject.com/beyooooonds/profile/"
+      ],
+      "last_verified": "2026-08-26",
+      "priority_enriched": true,
+      "score_status": "editorial_v1"
+    },
+    {
+      "id": "hq061",
+      "name": "OCHA NORMA",
+      "faction": "Hello! Project",
+      "debut_date": "2021-12-12",
+      "official_hp": "https://www.helloproject.com/ochanorma/",
+      "x": "https://x.com/ocha_norma",
+      "instagram": "https://www.instagram.com/ocha_norma_official/",
+      "tiktok": null,
+      "youtube": "https://www.youtube.com/@OCHANORMA",
+      "agency": "アップフロントプロモーション",
+      "project": "Hello! Project",
+      "label": "UP-FRONT WORKS",
+      "live_scale": "全国ライブ・ホール公演を展開。",
+      "members": [
+        {
+          "name": "斉藤円香",
+          "status": "current"
+        },
+        {
+          "name": "広本瑠璃",
+          "status": "current"
+        },
+        {
+          "name": "米村姫良々",
+          "status": "current"
+        },
+        {
+          "name": "窪田七海",
+          "status": "current"
+        },
+        {
+          "name": "中山夏月姫",
+          "status": "current"
+        },
+        {
+          "name": "西﨑美空",
+          "status": "current"
+        },
+        {
+          "name": "北原もも",
+          "status": "current"
+        },
+        {
+          "name": "筒井澪心",
+          "status": "current"
+        }
+      ],
+      "power": 80,
+      "growth": 84,
+      "tier": "A+",
+      "tier_reason": "若手ハロプロとして全国展開とメディア露出が伸長。",
+      "verification_status": "verified_partial_socials",
+      "verification_note": "",
+      "sources": [
+        "https://www.helloproject.com/ochanorma/profile/"
+      ],
+      "last_verified": "2026-08-26",
+      "priority_enriched": true,
+      "score_status": "editorial_v1"
+    },
+    {
+      "id": "hq062",
+      "name": "ロージークロニクル",
+      "faction": "Hello! Project",
+      "debut_date": "2024-06-16",
+      "official_hp": "https://www.helloproject.com/rosychronicle/",
+      "x": "https://x.com/rosy_chronicle",
+      "instagram": null,
+      "tiktok": null,
+      "youtube": "https://www.youtube.com/@rosychronicle",
+      "agency": "アップフロントプロモーション",
+      "project": "Hello! Project",
+      "label": "UP-FRONT WORKS",
+      "live_scale": "ハロプロ新世代。ホール・全国イベント規模へ拡大中。",
+      "members": [
+        {
+          "name": "橋田歩果",
+          "status": "current"
+        },
+        {
+          "name": "吉田姫杷",
+          "status": "current"
+        },
+        {
+          "name": "小野田華凜",
+          "status": "current"
+        },
+        {
+          "name": "村越彩菜",
+          "status": "current"
+        },
+        {
+          "name": "植村葉純",
+          "status": "current"
+        },
+        {
+          "name": "松原ユリヤ",
+          "status": "current"
+        },
+        {
+          "name": "島川波菜",
+          "status": "current"
+        },
+        {
+          "name": "上村麗菜",
+          "status": "current"
+        },
+        {
+          "name": "相馬優芽",
+          "status": "current"
+        }
+      ],
+      "power": 72,
+      "growth": 90,
+      "tier": "A",
+      "tier_reason": "新規IPとしての初動とハロプロ基盤を評価。",
+      "verification_status": "verified_partial_socials",
+      "verification_note": "",
+      "sources": [
+        "https://www.helloproject.com/rosychronicle/profile/"
+      ],
+      "last_verified": "2026-08-26",
+      "priority_enriched": true,
+      "score_status": "editorial_v1"
+    },
+    {
+      "id": "hq063",
+      "name": "GANG PARADE",
+      "faction": "WACK",
+      "debut_date": "2014-07-08",
+      "official_hp": "https://www.gangparade.com/",
+      "x": "https://x.com/GANG_PARADE",
+      "instagram": "https://www.instagram.com/gangparade_official/",
+      "tiktok": "https://www.tiktok.com/@gangparade_official",
+      "youtube": "https://www.youtube.com/@GANGPARADE",
+      "agency": "WACK",
+      "project": "WACK",
+      "label": "Warner Music Japan",
+      "live_scale": "Zepp・ホール・野外大型公演級。2026年末で解散予定。",
+      "members": [
+        {
+          "name": "ヤママチミキ",
+          "status": "current"
+        },
+        {
+          "name": "ユメノユア",
+          "status": "current"
+        },
+        {
+          "name": "キャン・GP・マイカ",
+          "status": "current"
+        },
+        {
+          "name": "ココ・パーティン・ココ",
+          "status": "current"
+        },
+        {
+          "name": "ユイ・ガ・ドクソン",
+          "status": "current"
+        },
+        {
+          "name": "月ノウサギ",
+          "status": "current"
+        },
+        {
+          "name": "キラ・メイ",
+          "status": "current"
+        },
+        {
+          "name": "キャ・ノン",
+          "status": "current"
+        },
+        {
+          "name": "チャンベイビー",
+          "status": "current"
+        },
+        {
+          "name": "ナルハワールド",
+          "status": "current"
+        },
+        {
+          "name": "アイナスター",
+          "status": "current"
+        }
+      ],
+      "power": 86,
+      "growth": 55,
+      "tier": "S",
+      "tier_reason": "WACK中核として長期のライブ動員とブランド力。解散予定のためGrowthは抑制。",
+      "verification_status": "verified_active_until_end_2026",
+      "verification_note": "",
+      "sources": [
+        "https://www.gangparade.com/",
+        "https://www.wack.jp/"
+      ],
+      "last_verified": "2026-08-26",
+      "priority_enriched": true,
+      "score_status": "editorial_v1"
+    },
+    {
+      "id": "hq064",
+      "name": "ExWHYZ",
+      "faction": "WACK",
+      "debut_date": "2022-08-18",
+      "official_hp": "https://www.exwhyz.jp/",
+      "x": "https://x.com/ExWHYZ_official",
+      "instagram": "https://www.instagram.com/exwhyz_official/",
+      "tiktok": "https://www.tiktok.com/@exwhyz_official",
+      "youtube": "https://www.youtube.com/@ExWHYZ",
+      "agency": "WACK",
+      "project": "WACK",
+      "label": "EMI Records / Universal Music Japan",
+      "live_scale": "日本武道館・Zepp級実績。2026-08-31最終公演予定。",
+      "members": [
+        {
+          "name": "yu-ki",
+          "status": "current"
+        },
+        {
+          "name": "mayu",
+          "status": "current"
+        },
+        {
+          "name": "maho",
+          "status": "current"
+        },
+        {
+          "name": "mikina",
+          "status": "current"
+        }
+      ],
+      "power": 80,
+      "growth": 30,
+      "tier": "A+",
+      "tier_reason": "武道館実績と音楽性は強いが、2026-08-31で活動終了予定のためGrowthを低く設定。",
+      "verification_status": "verified_active_until_2026-08-31",
+      "verification_note": "",
+      "sources": [
+        "https://www.exwhyz.jp/",
+        "https://www.wack.jp/"
+      ],
+      "last_verified": "2026-08-26",
+      "priority_enriched": true,
+      "score_status": "editorial_v1"
+    },
+    {
+      "id": "hq065",
+      "name": "KiSS KiSS",
+      "faction": "WACK",
+      "debut_date": "2023-03-25",
+      "official_hp": "https://www.kisskiss.tokyo/",
+      "x": "https://x.com/KiSSKiSS_idol",
+      "instagram": null,
+      "tiktok": null,
+      "youtube": null,
+      "agency": "WACK",
+      "project": "WACK",
+      "label": "WACK Records",
+      "live_scale": "ライブハウス・Zepp周辺規模。2026年末で解散予定。",
+      "members": [
+        {
+          "name": "キラ・メイ",
+          "status": "current"
+        },
+        {
+          "name": "キャ・ノン",
+          "status": "current"
+        },
+        {
+          "name": "チャンベイビー",
+          "status": "current"
+        },
+        {
+          "name": "ナルハワールド",
+          "status": "current"
+        },
+        {
+          "name": "アイナスター",
+          "status": "current"
+        }
+      ],
+      "power": 72,
+      "growth": 40,
+      "tier": "A",
+      "tier_reason": "GANG PARADEメンバーによる派生IP。解散予定をGrowthへ反映。",
+      "verification_status": "verified_active_until_end_2026",
+      "verification_note": "",
+      "sources": [
+        "https://www.kisskiss.tokyo/",
+        "https://www.wack.jp/"
+      ],
+      "last_verified": "2026-08-26",
+      "priority_enriched": true,
+      "score_status": "editorial_v1"
+    },
+    {
+      "id": "hq066",
+      "name": "豆柴の大群",
+      "faction": "WACK",
+      "debut_date": "2019-12-18",
+      "official_hp": "https://mameshiba-no-taigun.jp/",
+      "x": "https://x.com/MAMESHiBATAiGUN",
+      "instagram": "https://www.instagram.com/mameshiba_no_taigun/",
+      "tiktok": "https://www.tiktok.com/@mameshibanotaigun",
+      "youtube": "https://www.youtube.com/@MAMESHiBATAiGUN",
+      "agency": "WACK",
+      "project": "MONSTER IDOL / クロちゃんプロデュース",
+      "label": "avex trax",
+      "live_scale": "2026年東名阪・沖縄公演、TIF等。東京ドーム出演・レコード大賞新人賞の実績。",
+      "members": [
+        {
+          "name": "アイカ・ザ・スパイ",
+          "status": "current"
+        },
+        {
+          "name": "ナオ・オブ・ナオ",
+          "status": "current"
+        },
+        {
+          "name": "レオナエンパイア",
+          "status": "current"
+        },
+        {
+          "name": "モモチ・ンゲール",
+          "status": "current"
+        },
+        {
+          "name": "ハナエモンスター",
+          "status": "current"
+        }
+      ],
+      "power": 78,
+      "growth": 65,
+      "tier": "A",
+      "tier_reason": "テレビ発IPの知名度とWACK基盤。2025年に豆柴の大群名義へ復帰し継続活動。",
+      "verification_status": "verified",
+      "verification_note": "",
+      "sources": [
+        "https://mameshiba-no-taigun.jp/profile/",
+        "https://mameshiba-no-taigun.jp/live/"
+      ],
+      "last_verified": "2026-08-26",
+      "priority_enriched": true,
+      "score_status": "editorial_v1"
+    },
+    {
+      "id": "hq067",
+      "name": "高嶺のなでしこ",
+      "faction": "TWIN PLANET / HoneyWorks",
+      "debut_date": "2022-08-07",
+      "official_hp": "https://takanenonadeshiko.jp/",
+      "x": "https://x.com/takanenofficial",
+      "instagram": "https://www.instagram.com/takanenofficial/",
+      "tiktok": "https://www.tiktok.com/@takanenofficial",
+      "youtube": "https://www.youtube.com/@takanenofficial",
+      "agency": "TWIN PLANET",
+      "project": "HoneyWorksサウンドプロデュース",
+      "label": "Victor Entertainment",
+      "live_scale": "日本武道館級へ到達。全国ツアー・大型フェス・SNSで急拡大。",
+      "members": [
+        {
+          "name": "城月菜央",
+          "status": "current"
+        },
+        {
+          "name": "涼海すう",
+          "status": "current"
+        },
+        {
+          "name": "橋本桃呼",
+          "status": "current"
+        },
+        {
+          "name": "葉月紗蘭",
+          "status": "current"
+        },
+        {
+          "name": "東山恵里沙",
+          "status": "current"
+        },
+        {
+          "name": "日向端ひな",
+          "status": "current"
+        },
+        {
+          "name": "星谷美来",
+          "status": "current"
+        },
+        {
+          "name": "松本ももな",
+          "status": "current"
+        },
+        {
+          "name": "籾山ひめり",
+          "status": "current"
+        }
+      ],
+      "power": 91,
+      "growth": 95,
+      "tier": "SS",
+      "tier_reason": "武道館級、HoneyWorks楽曲の強さ、SNS・若年層浸透を高評価。",
+      "verification_status": "verified",
+      "verification_note": "",
+      "sources": [
+        "https://takanenonadeshiko.jp/",
+        "https://www.youtube.com/@takanenofficial"
+      ],
+      "last_verified": "2026-08-26",
+      "priority_enriched": true,
+      "score_status": "editorial_v1"
+    },
+    {
+      "id": "hq068",
+      "name": "可憐なアイボリー",
+      "faction": "HoneyWorks",
+      "debut_date": "2021-10-03",
+      "official_hp": "https://karennaivory.jp/",
+      "x": "https://x.com/Karennaivory",
+      "instagram": "https://www.instagram.com/karennaivory_official/",
+      "tiktok": "https://www.tiktok.com/@karennaivory",
+      "youtube": "https://www.youtube.com/@karennaivory",
+      "agency": "TWIN PLANET",
+      "project": "HoneyWorksプロデュース",
+      "label": "日本クラウン",
+      "live_scale": "全国ワンマン・ホール級へ拡大中。",
+      "members": [
+        {
+          "name": "一ノ瀬直緒",
+          "status": "current"
+        },
+        {
+          "name": "小田桐ななさ",
+          "status": "current"
+        },
+        {
+          "name": "河合ここゆ",
+          "status": "current"
+        },
+        {
+          "name": "高澤百合愛",
+          "status": "current"
+        },
+        {
+          "name": "橘美空",
+          "status": "current"
+        },
+        {
+          "name": "土屋玲実",
+          "status": "current"
+        },
+        {
+          "name": "寺本理絵",
+          "status": "current"
+        },
+        {
+          "name": "永尾梨央",
+          "status": "current"
+        },
+        {
+          "name": "西原悠桜",
+          "status": "current"
+        },
+        {
+          "name": "波左間美晴",
+          "status": "current"
+        },
+        {
+          "name": "福田ひなた",
+          "status": "current"
+        }
+      ],
+      "power": 82,
+      "growth": 92,
+      "tier": "A+",
+      "tier_reason": "HoneyWorks楽曲資産と若年層への浸透、メジャー展開を評価。",
+      "verification_status": "verified",
+      "verification_note": "",
+      "sources": [
+        "https://karennaivory.jp/profile/",
+        "https://karennaivory.jp/"
+      ],
+      "last_verified": "2026-08-26",
+      "priority_enriched": true,
+      "score_status": "editorial_v1"
+    },
+    {
+      "id": "hq069",
+      "name": "JamsCollection",
+      "faction": "RIZE PRODUCTION",
+      "debut_date": "2021-03-03",
+      "official_hp": "https://jamscollection.jp/",
+      "x": "https://x.com/JamsCollection",
+      "instagram": "https://www.instagram.com/jamscollection.official/",
+      "tiktok": "https://www.tiktok.com/@jamscollection",
+      "youtube": "https://www.youtube.com/@JamsCollection",
+      "agency": "RIZE PRODUCTION",
+      "project": "JamsCollection",
+      "label": "徳間ジャパンコミュニケーションズ",
+      "live_scale": "日本武道館・アリーナ級を視野に全国公演。",
+      "members": [
+        {
+          "name": "津代美月",
+          "status": "current"
+        },
+        {
+          "name": "神楽胡音",
+          "status": "current"
+        },
+        {
+          "name": "一宮彩夏",
+          "status": "current"
+        },
+        {
+          "name": "星名林",
+          "status": "current"
+        },
+        {
+          "name": "水瀬さらら",
+          "status": "current"
+        },
+        {
+          "name": "村望しおん",
+          "status": "current"
+        },
+        {
+          "name": "小此木流花",
+          "status": "current"
+        },
+        {
+          "name": "大場結女",
+          "status": "current"
+        }
+      ],
+      "power": 89,
+      "growth": 91,
+      "tier": "S",
+      "tier_reason": "大型ワンマンの継続、ライブアイドル上位の動員と新体制の伸びを評価。",
+      "verification_status": "verified",
+      "verification_note": "",
+      "sources": [
+        "https://jamscollection.jp/"
+      ],
+      "last_verified": "2026-08-26",
+      "priority_enriched": true,
+      "score_status": "editorial_v1"
+    },
+    {
+      "id": "hq070",
+      "name": "MyDearDarlin'",
+      "faction": "LIVE PLANET",
+      "debut_date": "2020-01-26",
+      "official_hp": "https://mydear.info/",
+      "x": "https://x.com/MyDear_official",
+      "instagram": "https://www.instagram.com/mydear_official/",
+      "tiktok": "https://www.tiktok.com/@mydeardarlin",
+      "youtube": "https://www.youtube.com/@MyDearDarlin",
+      "agency": "LIVE PLANET",
+      "project": "MyDearDarlin'",
+      "label": null,
+      "live_scale": "TOKYO DOME CITY HALL単独実績。全国ワンマン展開。",
+      "members": [
+        {
+          "name": "東條ゆりあ",
+          "status": "current"
+        },
+        {
+          "name": "咲真ゆか",
+          "status": "current"
+        },
+        {
+          "name": "是枝優美",
+          "status": "current"
+        },
+        {
+          "name": "夢実あすか",
+          "status": "current"
+        },
+        {
+          "name": "濱田菜々",
+          "status": "current"
+        },
+        {
+          "name": "広山楓",
+          "status": "current"
+        }
+      ],
+      "power": 82,
+      "growth": 75,
+      "tier": "A+",
+      "tier_reason": "TDCホール級の単独実績とライブシーンでの安定した集客を評価。",
+      "verification_status": "verified_partial_label",
+      "verification_note": "",
+      "sources": [
+        "https://mydear.info/"
+      ],
+      "last_verified": "2026-08-26",
+      "priority_enriched": true,
+      "score_status": "editorial_v1"
+    },
+    {
+      "id": "hq071",
+      "name": "Appare!",
+      "faction": "Appare!",
+      "debut_date": "2016-07-02",
+      "official_hp": "https://appare-official.jp/",
+      "x": "https://x.com/official_appare",
+      "instagram": "https://www.instagram.com/appare_official/",
+      "tiktok": "https://www.tiktok.com/@appare_official",
+      "youtube": "https://www.youtube.com/@AppareOfficial",
+      "agency": "株式会社PLAYYTE",
+      "project": "Appare!",
+      "label": "日本コロムビア",
+      "live_scale": "日本武道館実績。2027年横浜アリーナ単独を発表。",
+      "members": [
+        {
+          "name": "朝比奈れい",
+          "status": "current"
+        },
+        {
+          "name": "永堀ゆめ",
+          "status": "current"
+        },
+        {
+          "name": "藤宮めい",
+          "status": "current"
+        },
+        {
+          "name": "七瀬れあ",
+          "status": "current"
+        },
+        {
+          "name": "藍井すず",
+          "status": "current"
+        },
+        {
+          "name": "橋本あみ",
+          "status": "current"
+        },
+        {
+          "name": "北野あむ",
+          "status": "current"
+        },
+        {
+          "name": "森川なつ",
+          "status": "current"
+        },
+        {
+          "name": "坂本りさ",
+          "status": "current"
+        }
+      ],
+      "power": 88,
+      "growth": 90,
+      "tier": "S",
+      "tier_reason": "武道館から横浜アリーナ計画へ会場規模が拡大。フェス動員も強い。",
+      "verification_status": "verified",
+      "verification_note": "",
+      "sources": [
+        "https://appare-official.jp/"
+      ],
+      "last_verified": "2026-08-26",
+      "priority_enriched": true,
+      "score_status": "editorial_v1"
+    },
+    {
+      "id": "hq072",
+      "name": "FES☆TIVE",
+      "faction": "RIZE PRODUCTION",
+      "debut_date": "2013-03-27",
+      "official_hp": "https://festive.rizepro.net/",
+      "x": "https://x.com/FESTIVEofficial",
+      "instagram": "https://www.instagram.com/festive_official/",
+      "tiktok": "https://www.tiktok.com/@festive_official",
+      "youtube": "https://www.youtube.com/@FESTIVEofficial",
+      "agency": "RIZE PRODUCTION",
+      "project": "FES☆TIVE",
+      "label": "徳間ジャパンコミュニケーションズ",
+      "live_scale": "Kanadevia Hall級、海外イベント・大型フェス出演を継続。",
+      "members": [
+        {
+          "name": "与田理央那",
+          "status": "current"
+        },
+        {
+          "name": "仁科茉彩",
+          "status": "current"
+        },
+        {
+          "name": "星乃ななみ",
+          "status": "current"
+        },
+        {
+          "name": "小柴あいり",
+          "status": "current"
+        },
+        {
+          "name": "七瀬あい",
+          "status": "current"
+        },
+        {
+          "name": "カワイレナ",
+          "status": "current"
+        },
+        {
+          "name": "白宮瑠夏",
+          "status": "current"
+        }
+      ],
+      "power": 84,
+      "growth": 70,
+      "tier": "A+",
+      "tier_reason": "長期継続、国内外フェス、高稼働ライブ力を評価。公式Aboutの6人表記とFC個人プラン7名に不整合があるためFC現行表示を採用。",
+      "verification_status": "verified_with_note",
+      "verification_note": "",
+      "sources": [
+        "https://festive.rizepro.net/",
+        "https://fes-tive-fc.com/"
+      ],
+      "last_verified": "2026-08-26",
+      "priority_enriched": true,
+      "score_status": "editorial_v1"
+    },
+    {
+      "id": "hq073",
+      "name": "Devil ANTHEM.",
+      "faction": "エイジアプロモーション系",
+      "debut_date": "2014-12-28",
+      "official_hp": "https://devilanthem.net/",
+      "x": "https://x.com/devilanthem",
+      "instagram": "https://www.instagram.com/devilanthem/",
+      "tiktok": "https://www.tiktok.com/@devilanthem",
+      "youtube": "https://www.youtube.com/@devilanthem",
+      "agency": "エイジアプロモーション",
+      "project": "Devil ANTHEM.",
+      "label": "Victor Entertainment",
+      "live_scale": "2026年Kanadevia Hall単独。Zepp・全国ツアー級。",
+      "members": [
+        {
+          "name": "竹越くるみ",
+          "status": "current"
+        },
+        {
+          "name": "水野瞳",
+          "status": "current"
+        },
+        {
+          "name": "橋本侑芽",
+          "status": "current"
+        },
+        {
+          "name": "安藤楓",
+          "status": "current"
+        },
+        {
+          "name": "塩崎めいさ",
+          "status": "current"
+        },
+        {
+          "name": "矢吹寧々",
+          "status": "current"
+        }
+      ],
+      "power": 86,
+      "growth": 85,
+      "tier": "S",
+      "tier_reason": "Kanadevia Hall級と長期のライブ基盤、新体制の伸びを評価。",
+      "verification_status": "verified",
+      "verification_note": "",
+      "sources": [
+        "https://devilanthem.net/"
+      ],
+      "last_verified": "2026-08-26",
+      "priority_enriched": true,
+      "score_status": "editorial_v1"
+    },
+    {
+      "id": "hq074",
+      "name": "Task have Fun",
+      "faction": "Velvet management",
+      "debut_date": "2016-05-28",
+      "official_hp": "https://taskhavefun.net/",
+      "x": "https://x.com/TaskhaveFun",
+      "instagram": "https://www.instagram.com/taskhavefun/",
+      "tiktok": "https://www.tiktok.com/@taskhavefun",
+      "youtube": "https://www.youtube.com/@TaskhaveFun",
+      "agency": "Velvet management",
+      "project": "Task have Fun",
+      "label": null,
+      "live_scale": "Zepp・ホール級。2026年9月Kanadevia Hall公演予定。",
+      "members": [
+        {
+          "name": "熊澤風花",
+          "status": "current"
+        },
+        {
+          "name": "里仲菜月",
+          "status": "current"
+        },
+        {
+          "name": "白岡今日花",
+          "status": "current"
+        }
+      ],
+      "power": 82,
+      "growth": 67,
+      "tier": "A+",
+      "tier_reason": "3人体制の長期継続力、ライブ実績、Kanadevia Hall挑戦を評価。",
+      "verification_status": "verified_partial_label",
+      "verification_note": "",
+      "sources": [
+        "https://taskhavefun.net/profile/",
+        "https://taskhavefun.net/"
+      ],
+      "last_verified": "2026-08-26",
+      "priority_enriched": true,
+      "score_status": "editorial_v1"
+    },
+    {
+      "id": "hq075",
+      "name": "#Mooove!",
+      "faction": "ゼロイチファミリア",
+      "debut_date": "2023-05-05",
+      "official_hp": "https://mooove.jp/",
+      "x": "https://x.com/Moooveworld",
+      "instagram": "https://www.instagram.com/mooove_official/",
+      "tiktok": "https://www.tiktok.com/@mooove_official",
+      "youtube": null,
+      "agency": "ゼロイチファミリア",
+      "project": "#Mooove!",
+      "label": null,
+      "live_scale": "Zepp Shinjuku 3周年公演、3都市ツアー級。",
+      "members": [
+        {
+          "name": "姫野ひなの",
+          "status": "current"
+        },
+        {
+          "name": "赤間四季",
+          "status": "current"
+        },
+        {
+          "name": "久喜なほ",
+          "status": "current"
+        },
+        {
+          "name": "織莉叶",
+          "status": "current"
+        },
+        {
+          "name": "星乃紗良",
+          "status": "current"
+        },
+        {
+          "name": "姫野ゆめの",
+          "status": "current"
+        },
+        {
+          "name": "七海りお",
+          "status": "current"
+        },
+        {
+          "name": "天沢なな",
+          "status": "current"
+        }
+      ],
+      "power": 80,
+      "growth": 92,
+      "tier": "A+",
+      "tier_reason": "短期間でZepp級へ到達。ゼロイチのグラビア・SNS導線も強い。",
+      "verification_status": "verified_partial_socials",
+      "verification_note": "",
+      "sources": [
+        "https://mooove.jp/"
+      ],
+      "last_verified": "2026-08-26",
+      "priority_enriched": true,
+      "score_status": "editorial_v1"
+    },
+    {
+      "id": "hq076",
+      "name": "Peel the Apple",
+      "faction": "プラチナムピクセル",
+      "debut_date": "2020-07-16",
+      "official_hp": "https://peel-the-apple.com/",
+      "x": "https://x.com/PtA_staff",
+      "instagram": "https://www.instagram.com/peeltheapple_official/",
+      "tiktok": "https://www.tiktok.com/@peeltheapple_official",
+      "youtube": "https://www.youtube.com/channel/UCPHz8Z64Jvyskmjvd13_quw",
+      "agency": "プラチナムピクセル",
+      "project": "Peel the Apple",
+      "label": null,
+      "live_scale": "Zepp・ホール級ワンマンを継続。2026年新体制へ移行。",
+      "members": [
+        {
+          "name": "浅原凜",
+          "status": "current"
+        },
+        {
+          "name": "佐野心音",
+          "status": "current"
+        },
+        {
+          "name": "山崎玲奈",
+          "status": "current"
+        },
+        {
+          "name": "天宮けい",
+          "status": "current"
+        },
+        {
+          "name": "岸上いお",
+          "status": "current"
+        },
+        {
+          "name": "岩下美友",
+          "status": "current"
+        },
+        {
+          "name": "髙月りな",
+          "status": "current"
+        }
+      ],
+      "power": 78,
+      "growth": 78,
+      "tier": "A",
+      "tier_reason": "2026年に旧メンバー卒業と新加入を経た7人体制。ライブ基盤を維持。",
+      "verification_status": "verified_with_secondary_member_check",
+      "verification_note": "",
+      "sources": [
+        "https://peel-the-apple.com/",
+        "https://peel-the-apple.com/news/public/_/584njzsh7gnnpu22.html"
+      ],
+      "last_verified": "2026-08-26",
+      "priority_enriched": true,
+      "score_status": "editorial_v1"
+    },
+    {
+      "id": "hq077",
+      "name": "虹のコンキスタドール",
+      "faction": "ディアステージ",
+      "debut_date": "2014-07-14",
+      "official_hp": "https://2zicon.tokyo/",
+      "x": "https://x.com/2zicon",
+      "instagram": "https://www.instagram.com/2zicon/",
+      "tiktok": "https://www.tiktok.com/@2zicon",
+      "youtube": "https://www.youtube.com/@2zicon",
+      "agency": "ディアステージ",
+      "project": "虹のコンキスタドール",
+      "label": "KING RECORDS",
+      "live_scale": "Zepp・ホール級、長期大型フェス常連。",
+      "members": [
+        {
+          "name": "隈本茉莉奈",
+          "status": "current"
+        },
+        {
+          "name": "的場華鈴",
+          "status": "current"
+        },
+        {
+          "name": "石浜芽衣",
+          "status": "current"
+        },
+        {
+          "name": "尾林結花",
+          "status": "current"
+        },
+        {
+          "name": "栗原舞優",
+          "status": "current"
+        },
+        {
+          "name": "川端優",
+          "status": "current"
+        },
+        {
+          "name": "一宮ゆい",
+          "status": "current"
+        },
+        {
+          "name": "青山詩",
+          "status": "current"
+        },
+        {
+          "name": "伊藤舞依",
+          "status": "current"
+        },
+        {
+          "name": "八木遥叶",
+          "status": "current"
+        },
+        {
+          "name": "前嶋杏乃",
+          "status": "current"
+        },
+        {
+          "name": "都月しより",
+          "status": "current"
+        }
+      ],
+      "power": 84,
+      "growth": 65,
+      "tier": "A+",
+      "tier_reason": "10年以上のブランド、楽曲・フェス・ライブ基盤を評価。",
+      "verification_status": "verified",
+      "verification_note": "",
+      "sources": [
+        "https://2zicon.tokyo/"
+      ],
+      "last_verified": "2026-08-26",
+      "priority_enriched": true,
+      "score_status": "editorial_v1"
+    },
+    {
+      "id": "hq078",
+      "name": "CYNHN",
+      "faction": "ディアステージ",
+      "debut_date": "2017-06-25",
+      "official_hp": "https://cynhn.com/",
+      "x": "https://x.com/CYNHN_DS",
+      "instagram": "https://www.instagram.com/cynhn_ds/",
+      "tiktok": "https://www.tiktok.com/@cynhn_ds",
+      "youtube": "https://www.youtube.com/@CYNHN",
+      "agency": "ディアステージ",
+      "project": "CYNHN",
+      "label": "I BLUE / Teichiku Entertainment",
+      "live_scale": "LIQUIDROOM級ワンマン。音楽性重視のライブ展開。",
+      "members": [
+        {
+          "name": "広瀬みのり",
+          "status": "current"
+        },
+        {
+          "name": "綾瀬志希",
+          "status": "current"
+        },
+        {
+          "name": "月雲ねる",
+          "status": "current"
+        },
+        {
+          "name": "青柳透",
+          "status": "current"
+        }
+      ],
+      "power": 77,
+      "growth": 76,
+      "tier": "A",
+      "tier_reason": "楽曲評価とコアファン基盤、9周年LIQUIDROOM級を評価。",
+      "verification_status": "verified",
+      "verification_note": "",
+      "sources": [
+        "https://cynhn.com/"
+      ],
+      "last_verified": "2026-08-26",
+      "priority_enriched": true,
+      "score_status": "editorial_v1"
+    },
+    {
+      "id": "hq079",
+      "name": "yosugala",
+      "faction": "WEXS",
+      "debut_date": "2022-06-22",
+      "official_hp": "https://yosugala.net/",
+      "x": "https://x.com/yosugala_info",
+      "instagram": "https://www.instagram.com/yosugala_official/",
+      "tiktok": "https://www.tiktok.com/@yosugala_official",
+      "youtube": "https://www.youtube.com/@yosugala",
+      "agency": "株式会社WEXS",
+      "project": "yosugala",
+      "label": "TOY'S FACTORY",
+      "live_scale": "2026年NHKホール4周年公演。Zepp・大型フェス上位。",
+      "members": [
+        {
+          "name": "黒坂未来",
+          "status": "current"
+        },
+        {
+          "name": "君島凪",
+          "status": "current"
+        },
+        {
+          "name": "汐見まとい",
+          "status": "current"
+        },
+        {
+          "name": "未白ちあ",
+          "status": "current"
+        }
+      ],
+      "power": 91,
+      "growth": 96,
+      "tier": "SS",
+      "tier_reason": "NHKホール級へ急拡大し、ライブ評価・フェス人気・メジャー展開が同時進行。",
+      "verification_status": "verified",
+      "verification_note": "",
+      "sources": [
+        "https://yosugala.net/",
+        "https://www.toysfactory.co.jp/artist/yosugala"
+      ],
+      "last_verified": "2026-08-26",
+      "priority_enriched": true,
+      "score_status": "editorial_v1"
+    },
+    {
+      "id": "hq080",
+      "name": "fishbowl",
+      "faction": "静岡発",
+      "debut_date": "2021-01-16",
+      "official_hp": "https://fishbowl.jp/",
+      "x": "https://x.com/fishbowl2021",
+      "instagram": "https://www.instagram.com/fishbowl_idol/",
+      "tiktok": "https://www.tiktok.com/@fishbowl2021",
+      "youtube": "https://www.youtube.com/@fishbowl",
+      "agency": "株式会社かなめいく",
+      "project": "静岡ローカルIP",
+      "label": "payayaam records",
+      "live_scale": "ホール・全国ツアー級。静岡発の地域IPとして大型フェス常連。",
+      "members": [
+        {
+          "name": "大白桃子",
+          "status": "current"
+        },
+        {
+          "name": "吉田柚佳",
+          "status": "current"
+        },
+        {
+          "name": "野田萌花",
+          "status": "current"
+        },
+        {
+          "name": "佐佐木一心",
+          "status": "current"
+        },
+        {
+          "name": "齋藤ザーラチャヒヨニ",
+          "status": "current"
+        },
+        {
+          "name": "木村日音",
+          "status": "current"
+        }
+      ],
+      "power": 82,
+      "growth": 85,
+      "tier": "A+",
+      "tier_reason": "地域IP・音楽評価・全国ライブシーンへの浸透を評価。",
+      "verification_status": "verified",
+      "verification_note": "",
+      "sources": [
+        "https://fishbowl.jp/"
+      ],
+      "last_verified": "2026-08-26",
+      "priority_enriched": true,
+      "score_status": "editorial_v1"
+    },
+    {
+      "id": "hq081",
+      "name": "Ringwanderung",
+      "faction": "Lonesome Record",
+      "debut_date": "2019-12-08",
+      "official_hp": "https://ringwanderung-official.com/",
+      "x": "https://x.com/RingwanderungJ",
+      "instagram": null,
+      "tiktok": null,
+      "youtube": null,
+      "agency": "Lonesome Record",
+      "project": "Ringwanderung",
+      "label": "Lonesome Record",
+      "live_scale": "Spotify O-EAST級、全国ライブ・大型対バン常連。",
+      "members": [
+        {
+          "name": "辺見花琳",
+          "status": "current"
+        },
+        {
+          "name": "増田陽凪",
+          "status": "current"
+        },
+        {
+          "name": "寺尾音々",
+          "status": "current"
+        },
+        {
+          "name": "佐藤倫子",
+          "status": "current"
+        },
+        {
+          "name": "篠田百音",
+          "status": "current"
+        }
+      ],
+      "power": 80,
+      "growth": 84,
+      "tier": "A+",
+      "tier_reason": "ライブアイドル中上位の動員、音楽性・対バンシーンでの存在感を評価。",
+      "verification_status": "verified_partial_socials",
+      "verification_note": "",
+      "sources": [
+        "https://ringwanderung-official.com/"
+      ],
+      "last_verified": "2026-08-26",
+      "priority_enriched": true,
+      "score_status": "editorial_v1"
+    },
+    {
+      "id": "hq082",
+      "name": "Kolokol",
+      "faction": "we-B studios",
+      "debut_date": "2018-05-13",
+      "official_hp": "https://kolokol-official.com/",
+      "x": "https://x.com/klkl_official",
+      "instagram": null,
+      "tiktok": null,
+      "youtube": null,
+      "agency": "we-B studios",
+      "project": "Kolokol",
+      "label": "we-B studios / WEBSK",
+      "live_scale": "ホールワンマン、全国対バン・大型フェス常連。",
+      "members": [
+        {
+          "name": "高橋あきほ",
+          "status": "current"
+        },
+        {
+          "name": "藤本さき",
+          "status": "current"
+        },
+        {
+          "name": "佳凪きの",
+          "status": "current"
+        },
+        {
+          "name": "真嶋このみ",
+          "status": "current"
+        }
+      ],
+      "power": 79,
+      "growth": 75,
+      "tier": "A",
+      "tier_reason": "関西発の長期ライブ基盤、音楽性、ホールワンマン実績を評価。",
+      "verification_status": "verified_partial_socials",
+      "verification_note": "",
+      "sources": [
+        "https://kolokol-official.com/profile/",
+        "https://kolokol-official.com/schedule/"
+      ],
+      "last_verified": "2026-08-26",
+      "priority_enriched": true,
+      "score_status": "editorial_v1"
+    },
+    {
+      "id": "hq083",
+      "name": "INUWASI",
+      "faction": "MAPLE INC.",
+      "debut_date": "2020-02-09",
+      "official_hp": "https://inuwasi.jp/",
+      "x": "https://x.com/INUWASI_O",
+      "instagram": "https://www.instagram.com/inuwasi_official/",
+      "tiktok": "https://www.tiktok.com/@inuwasi_official",
+      "youtube": "https://www.youtube.com/@INUWASI",
+      "agency": "MAPLE INC.",
+      "project": "INUWASI",
+      "label": "Lonesome Record / MAPLE INC.",
+      "live_scale": "Zepp・ホール級。メジャーEPと全国ライブで拡大。",
+      "members": [
+        {
+          "name": "ライカ",
+          "status": "current"
+        },
+        {
+          "name": "がるむ",
+          "status": "current"
+        },
+        {
+          "name": "はのんまゆ",
+          "status": "current"
+        },
+        {
+          "name": "カリヲリ",
+          "status": "current"
+        },
+        {
+          "name": "すずめ",
+          "status": "current"
+        },
+        {
+          "name": "六椛",
+          "status": "current"
+        }
+      ],
+      "power": 84,
+      "growth": 91,
+      "tier": "A+",
+      "tier_reason": "ライブアイドル上位の動員、作品評価と会場成長を高評価。",
+      "verification_status": "verified",
+      "verification_note": "",
+      "sources": [
+        "https://inuwasi.jp/"
+      ],
+      "last_verified": "2026-08-26",
+      "priority_enriched": true,
+      "score_status": "editorial_v1"
+    },
+    {
+      "id": "hq084",
+      "name": "situasion",
+      "faction": "Lonesome Record",
+      "debut_date": "2020-12-19",
+      "official_hp": "https://situasion.tokyo/",
+      "x": "https://x.com/situasion_info",
+      "instagram": null,
+      "tiktok": null,
+      "youtube": null,
+      "agency": "Lonesome Record",
+      "project": "situasion",
+      "label": "Lonesome Record",
+      "live_scale": "大型対バン・ライブハウス上位帯。作品評価が高い。",
+      "members": [
+        {
+          "name": "杏優",
+          "status": "current"
+        },
+        {
+          "name": "大月華琳",
+          "status": "current"
+        },
+        {
+          "name": "羽柴愛実",
+          "status": "current"
+        },
+        {
+          "name": "蒼井輝菜",
+          "status": "current"
+        },
+        {
+          "name": "風間花音",
+          "status": "current"
+        }
+      ],
+      "power": 76,
+      "growth": 82,
+      "tier": "A",
+      "tier_reason": "音楽性とコアシーンでの支持、現体制の成長を評価。",
+      "verification_status": "verified_with_note",
+      "verification_note": "",
+      "sources": [
+        "https://situasion.tokyo/"
+      ],
+      "last_verified": "2026-08-26",
+      "priority_enriched": true,
+      "score_status": "editorial_v1"
+    },
+    {
+      "id": "hq085",
+      "name": "衛星とカラテア",
+      "faction": "スターレイプロダクション系",
+      "debut_date": "2021-07-23",
+      "official_hp": "https://eiseito-kalatea.com/",
+      "x": "https://x.com/EiseiTo_Kalatea",
+      "instagram": "https://www.instagram.com/eiseitokalatea/",
+      "tiktok": "https://www.tiktok.com/@eiseitokalatea",
+      "youtube": null,
+      "agency": "スターレイプロダクション系",
+      "project": "衛星とカラテア",
+      "label": null,
+      "live_scale": "大型対バン・ツアー規模を拡大。2026年新メンバー加入で7人体制。",
+      "members": [
+        {
+          "name": "春瀬もも",
+          "status": "current"
+        },
+        {
+          "name": "白咲くるみ",
+          "status": "current"
+        },
+        {
+          "name": "日南ことり",
+          "status": "current"
+        },
+        {
+          "name": "波澄しずく",
+          "status": "current"
+        },
+        {
+          "name": "小泉かのん",
+          "status": "current"
+        },
+        {
+          "name": "月音りせ",
+          "status": "current"
+        },
+        {
+          "name": "まるやそら",
+          "status": "current"
+        }
+      ],
+      "power": 77,
+      "growth": 90,
+      "tier": "A",
+      "tier_reason": "2026年新体制とライブ規模拡大をGrowthへ反映。",
+      "verification_status": "verified_partial_label",
+      "verification_note": "",
+      "sources": [
+        "https://eiseito-kalatea.com/"
+      ],
+      "last_verified": "2026-08-26",
+      "priority_enriched": true,
+      "score_status": "editorial_v1"
+    },
+    {
+      "id": "hq086",
+      "name": "タイトル未定",
+      "faction": "北海道発",
+      "debut_date": "2020-05-16",
+      "official_hp": "https://title-mitei.com/",
+      "x": "https://x.com/MiteiTitle",
+      "instagram": "https://www.instagram.com/title_mitei/",
+      "tiktok": null,
+      "youtube": null,
+      "agency": "TSUIMA Inc.",
+      "project": "北海道発アイドルIP",
+      "label": null,
+      "live_scale": "北海道から全国ホール・大型フェスへ展開。",
+      "members": [
+        {
+          "name": "阿部葉菜",
+          "status": "current"
+        },
+        {
+          "name": "冨樫優花",
+          "status": "current"
+        },
+        {
+          "name": "谷乃愛",
+          "status": "current"
+        },
+        {
+          "name": "多田萌加",
+          "status": "current"
+        },
+        {
+          "name": "山下彩耶",
+          "status": "current"
+        }
+      ],
+      "power": 81,
+      "growth": 82,
+      "tier": "A+",
+      "tier_reason": "地域発IPとしてのブランド、楽曲評価、全国展開を評価。",
+      "verification_status": "verified_partial_socials",
+      "verification_note": "",
+      "sources": [
+        "https://title-mitei.com/"
+      ],
+      "last_verified": "2026-08-26",
+      "priority_enriched": true,
+      "score_status": "editorial_v1"
+    },
+    {
+      "id": "hq087",
+      "name": "クマリデパート",
+      "faction": "ekoms",
+      "debut_date": "2016-04-01",
+      "official_hp": "https://qumalidepart.com/",
+      "x": "https://x.com/qumalidepart",
+      "instagram": "https://www.instagram.com/qumalidepart/",
+      "tiktok": "https://www.tiktok.com/@qumalidepart",
+      "youtube": "https://www.youtube.com/@qumalidepart",
+      "agency": "ekoms",
+      "project": "クマリデパート",
+      "label": "MUSIC@NOTE / ekoms",
+      "live_scale": "Zepp・ホール級。大型フェス常連。",
+      "members": [
+        {
+          "name": "早桜ニコ",
+          "status": "current"
+        },
+        {
+          "name": "優雨ナコ",
+          "status": "current"
+        },
+        {
+          "name": "小田アヤネ",
+          "status": "current"
+        },
+        {
+          "name": "楓フウカ",
+          "status": "current"
+        },
+        {
+          "name": "七瀬マナ",
+          "status": "current"
+        },
+        {
+          "name": "南カンナ",
+          "status": "current"
+        }
+      ],
+      "power": 80,
+      "growth": 68,
+      "tier": "A+",
+      "tier_reason": "長期のライブ基盤と楽曲・フェス評価。卒業予定メンバーは現時点では在籍扱い。",
+      "verification_status": "verified_with_note",
+      "verification_note": "",
+      "sources": [
+        "https://qumalidepart.com/"
+      ],
+      "last_verified": "2026-08-26",
+      "priority_enriched": true,
+      "score_status": "editorial_v1"
+    },
+    {
+      "id": "hq088",
+      "name": "わーすた",
+      "faction": "avex",
+      "debut_date": "2015-03-29",
+      "official_hp": "https://wa-suta.world/",
+      "x": "https://x.com/tws_staff",
+      "instagram": "https://www.instagram.com/wasuta.world/",
+      "tiktok": "https://www.tiktok.com/@wasuta.world",
+      "youtube": "https://www.youtube.com/@wa-suta",
+      "agency": "エイベックス・マネジメント",
+      "project": "iDOL Street",
+      "label": "iDOL Street / avex trax",
+      "live_scale": "Zepp・ホール・海外イベント級。10年以上の継続。",
+      "members": [
+        {
+          "name": "廣川奈々聖",
+          "status": "current"
+        },
+        {
+          "name": "松田美里",
+          "status": "current"
+        },
+        {
+          "name": "小玉梨々華",
+          "status": "current"
+        },
+        {
+          "name": "三品瑠香",
+          "status": "current"
+        }
+      ],
+      "power": 86,
+      "growth": 68,
+      "tier": "S",
+      "tier_reason": "国内外の知名度、楽曲資産、長期ブランドを評価。",
+      "verification_status": "verified",
+      "verification_note": "",
+      "sources": [
+        "https://wa-suta.world/profile/"
+      ],
+      "last_verified": "2026-08-26",
+      "priority_enriched": true,
+      "score_status": "editorial_v1"
+    },
+    {
+      "id": "hq089",
+      "name": "SUPER☆GiRLS",
+      "faction": "avex",
+      "debut_date": "2010-06-12",
+      "official_hp": "https://supergirls.jp/",
+      "x": "https://x.com/SUPERGiRLS_AMG",
+      "instagram": "https://www.instagram.com/supergirls_official/",
+      "tiktok": "https://www.tiktok.com/@supergirls_official",
+      "youtube": "https://www.youtube.com/@SUPERGiRLS",
+      "agency": "エイベックス・マネジメント",
+      "project": "iDOL Street",
+      "label": "iDOL Street / avex trax",
+      "live_scale": "日本武道館等の大型実績。現体制はホール・ライブハウス中心。",
+      "members": [
+        {
+          "name": "門林有羽",
+          "status": "current"
+        },
+        {
+          "name": "竹内ななみ",
+          "status": "current"
+        },
+        {
+          "name": "鎌田彩樺",
+          "status": "current"
+        },
+        {
+          "name": "柏綾菜",
+          "status": "current"
+        },
+        {
+          "name": "河村果歩",
+          "status": "current"
+        },
+        {
+          "name": "櫻井陽夏",
+          "status": "current"
+        }
+      ],
+      "power": 88,
+      "growth": 55,
+      "tier": "S",
+      "tier_reason": "歴史・知名度・メジャーIPをPowerに反映。現状の成長率は成熟ブランドとして低め。",
+      "verification_status": "verified",
+      "verification_note": "",
+      "sources": [
+        "https://supergirls.jp/profile/"
+      ],
+      "last_verified": "2026-08-26",
+      "priority_enriched": true,
+      "score_status": "editorial_v1"
+    },
+    {
+      "id": "hq090",
+      "name": "僕が見たかった青空",
+      "faction": "avex / 秋元康",
+      "debut_date": "2023-06-15",
+      "official_hp": "https://bokuao.com/",
+      "x": "https://x.com/BOKUAOofficial",
+      "instagram": "https://www.instagram.com/bokuao_official/",
+      "tiktok": "https://www.tiktok.com/@bokuao_official",
+      "youtube": "https://www.youtube.com/@BOKUAO_official",
+      "agency": "Ligareaz Management",
+      "project": "秋元康プロデュース",
+      "label": "avex trax",
+      "live_scale": "ホール・アリーナ周辺の大型公演、全国メディア展開。",
+      "members": [
+        {
+          "name": "青木宙帆",
+          "status": "current"
+        },
+        {
+          "name": "秋田莉杏",
+          "status": "current"
+        },
+        {
+          "name": "安納蒼衣",
+          "status": "current"
+        },
+        {
+          "name": "伊藤ゆず",
+          "status": "current"
+        },
+        {
+          "name": "今井優希",
+          "status": "current"
+        },
+        {
+          "name": "岩本理瑚",
+          "status": "current"
+        },
+        {
+          "name": "金澤亜美",
+          "status": "current"
+        },
+        {
+          "name": "木下藍",
+          "status": "current"
+        },
+        {
+          "name": "工藤唯愛",
+          "status": "current"
+        },
+        {
+          "name": "塩釜菜那",
+          "status": "current"
+        },
+        {
+          "name": "杉浦英恋",
+          "status": "current"
+        },
+        {
+          "name": "須永心海",
+          "status": "current"
+        },
+        {
+          "name": "西森杏弥",
+          "status": "current"
+        },
+        {
+          "name": "萩原心花",
+          "status": "current"
+        },
+        {
+          "name": "長谷川稀未",
+          "status": "current"
+        },
+        {
+          "name": "早﨑すずき",
+          "status": "current"
+        },
+        {
+          "name": "宮腰友里亜",
+          "status": "current"
+        },
+        {
+          "name": "八重樫美伊咲",
+          "status": "current"
+        },
+        {
+          "name": "八木仁愛",
+          "status": "current"
+        },
+        {
+          "name": "柳堀花怜",
+          "status": "current"
+        },
+        {
+          "name": "吉本此那",
+          "status": "current"
+        }
+      ],
+      "power": 86,
+      "growth": 87,
+      "tier": "S",
+      "tier_reason": "大型広告・メディア基盤と全国活動。楽曲・ライブの定着が進行中。",
+      "verification_status": "verified",
+      "verification_note": "",
+      "sources": [
+        "https://bokuao.com/feature/profile"
+      ],
+      "last_verified": "2026-08-26",
+      "priority_enriched": true,
+      "score_status": "editorial_v1"
+    },
+    {
+      "id": "hq091",
+      "name": "WHITE SCORPION",
+      "faction": "秋元康プロデュース",
+      "debut_date": "2023-12-07",
+      "official_hp": "https://whitescorpion.jp/",
+      "x": "https://x.com/whsp_official",
+      "instagram": "https://www.instagram.com/whsp_official/",
+      "tiktok": "https://www.tiktok.com/@whsp_official",
+      "youtube": "https://www.youtube.com/@whitescorpion",
+      "agency": "株式会社オーバース",
+      "project": "秋元康プロデュース",
+      "label": "KING RECORDS",
+      "live_scale": "ワンマン・大型イベント・メディア展開を拡大。",
+      "members": [
+        {
+          "name": "ACE",
+          "status": "current"
+        },
+        {
+          "name": "ACO",
+          "status": "current"
+        },
+        {
+          "name": "ALLY",
+          "status": "current"
+        },
+        {
+          "name": "AOI",
+          "status": "current"
+        },
+        {
+          "name": "CHOCO",
+          "status": "current"
+        },
+        {
+          "name": "COCO",
+          "status": "current"
+        },
+        {
+          "name": "HANNA",
+          "status": "current"
+        },
+        {
+          "name": "MOMO",
+          "status": "current"
+        },
+        {
+          "name": "NATSU",
+          "status": "current"
+        },
+        {
+          "name": "NAVI",
+          "status": "current"
+        },
+        {
+          "name": "NICO",
+          "status": "current"
+        }
+      ],
+      "power": 77,
+      "growth": 89,
+      "tier": "A",
+      "tier_reason": "秋元康IP、デジタル施策、キングレコード展開による成長余地を評価。",
+      "verification_status": "verified",
+      "verification_note": "",
+      "sources": [
+        "https://whitescorpion.jp/member/",
+        "https://whitescorpion.jp/"
+      ],
+      "last_verified": "2026-08-26",
+      "priority_enriched": true,
+      "score_status": "editorial_v1"
+    },
+    {
+      "id": "hq092",
+      "name": "Rain Tree",
+      "faction": "秋元康プロデュース",
+      "debut_date": "2025-01-29",
+      "official_hp": "https://rt-official.jp/",
+      "x": "https://x.com/RainTree_RT",
+      "instagram": "https://www.instagram.com/raintree_rt/",
+      "tiktok": "https://www.tiktok.com/@raintree_rt",
+      "youtube": "https://www.youtube.com/@RainTree_RT",
+      "agency": "株式会社オーバース",
+      "project": "秋元康プロデュース",
+      "label": "KING RECORDS",
+      "live_scale": "デビュー2年目。大型合同イベント・メディア・リリース活動を拡大。",
+      "members": [
+        {
+          "name": "朝宮日向",
+          "status": "current"
+        },
+        {
+          "name": "綾瀬ことり",
+          "status": "current"
+        },
+        {
+          "name": "市原紬希",
+          "status": "current"
+        },
+        {
+          "name": "遠藤莉乃",
+          "status": "current"
+        },
+        {
+          "name": "片瀬真花",
+          "status": "current"
+        },
+        {
+          "name": "加藤柊",
+          "status": "current"
+        },
+        {
+          "name": "佐藤莉華",
+          "status": "current"
+        },
+        {
+          "name": "鈴野みお",
+          "status": "current"
+        },
+        {
+          "name": "永瀬真梨",
+          "status": "current"
+        },
+        {
+          "name": "仲俣美希",
+          "status": "current"
+        },
+        {
+          "name": "新野楓果",
+          "status": "current"
+        },
+        {
+          "name": "橋本真希",
+          "status": "current"
+        },
+        {
+          "name": "葉山莉瑚",
+          "status": "current"
+        },
+        {
+          "name": "水野乃愛",
+          "status": "current"
+        },
+        {
+          "name": "百瀬紗菜",
+          "status": "current"
+        },
+        {
+          "name": "吉川海未",
+          "status": "current"
+        }
+      ],
+      "power": 74,
+      "growth": 92,
+      "tier": "A",
+      "tier_reason": "新興秋元康IPとして初動とメディア展開を評価。Powerはまだ成長段階。",
+      "verification_status": "verified",
+      "verification_note": "",
+      "sources": [
+        "https://rt-official.jp/profile/",
+        "https://rt-official.jp/"
+      ],
+      "last_verified": "2026-08-26",
+      "priority_enriched": true,
+      "score_status": "editorial_v1"
+    },
+    {
+      "id": "hq093",
+      "name": "22/7",
+      "faction": "Sony Music / ANIPLEX",
+      "debut_date": "2016-12-24",
+      "official_hp": "https://nanabunnonijyuuni.com/",
+      "x": "https://x.com/227_staff",
+      "instagram": "https://www.instagram.com/227_staff/",
+      "tiktok": "https://www.tiktok.com/@227_staff",
+      "youtube": "https://www.youtube.com/@227_official",
+      "agency": "バズウェーブ合同会社",
+      "project": "デジタル声優アイドルプロジェクト",
+      "label": "Sony Music Labels",
+      "live_scale": "ホール・Zepp・声優/アニメ連動イベント級。",
+      "members": [
+        {
+          "name": "天城サリー",
+          "status": "current"
+        },
+        {
+          "name": "河瀬詩",
+          "status": "current"
+        },
+        {
+          "name": "相川奈央",
+          "status": "current"
+        },
+        {
+          "name": "麻丘真央",
+          "status": "current"
+        },
+        {
+          "name": "椎名桜月",
+          "status": "current"
+        },
+        {
+          "name": "月城咲舞",
+          "status": "current"
+        },
+        {
+          "name": "望月りの",
+          "status": "current"
+        }
+      ],
+      "power": 86,
+      "growth": 73,
+      "tier": "S",
+      "tier_reason": "Sony/ANIPLEXの複合IP、アニメ・声優・音楽の横断力を評価。",
+      "verification_status": "verified",
+      "verification_note": "",
+      "sources": [
+        "https://nanabunnonijyuuni.com/"
+      ],
+      "last_verified": "2026-08-26",
+      "priority_enriched": true,
+      "score_status": "editorial_v1"
+    },
+    {
+      "id": "hq094",
+      "name": "AVAM",
+      "faction": "新興・SNS型",
+      "debut_date": "2021-04-10",
+      "official_hp": "https://avam-official.com/",
+      "x": "https://x.com/AVAM_official",
+      "instagram": "https://www.instagram.com/avam_official/",
+      "tiktok": "https://www.tiktok.com/@avam_official",
+      "youtube": "https://www.youtube.com/@AVAM_official",
+      "agency": "株式会社LIVE PLANET系",
+      "project": "AVAM",
+      "label": null,
+      "live_scale": "SNS・ライブ双方で急伸。大型対バン・ワンマン規模を拡大。",
+      "members": [
+        {
+          "name": "大原乙葉",
+          "status": "current"
+        },
+        {
+          "name": "桔梗花香",
+          "status": "current"
+        },
+        {
+          "name": "佐伯七海",
+          "status": "current"
+        },
+        {
+          "name": "東雲青空",
+          "status": "current"
+        },
+        {
+          "name": "小鳥遊あみ",
+          "status": "current"
+        },
+        {
+          "name": "月深乃絢",
+          "status": "current"
+        },
+        {
+          "name": "姫宮ゆか",
+          "status": "current"
+        }
+      ],
+      "power": 77,
+      "growth": 93,
+      "tier": "A",
+      "tier_reason": "SNS拡散力と若年層人気、会場拡大をGrowthへ強く反映。",
+      "verification_status": "verified_partial_label",
+      "verification_note": "",
+      "sources": [
+        "https://avam-official.com/"
+      ],
+      "last_verified": "2026-08-26",
+      "priority_enriched": true,
+      "score_status": "editorial_v1"
+    },
+    {
+      "id": "hq095",
+      "name": "fav me",
+      "faction": "PEAK SPOT",
+      "debut_date": "2025-02-22",
+      "official_hp": "https://peakspot.jp/",
+      "x": "https://x.com/favme_official",
+      "instagram": "https://www.instagram.com/favme_official/",
+      "tiktok": "https://www.tiktok.com/@favme_official",
+      "youtube": null,
+      "agency": "ASOBISYSTEM",
+      "project": "PEAK SPOT",
+      "label": null,
+      "live_scale": "デビュー約1年半で大型フェス・ワンマン規模を急拡大。",
+      "members": [
+        {
+          "name": "小野寺梓",
+          "status": "current"
+        },
+        {
+          "name": "阿部かれん",
+          "status": "current"
+        },
+        {
+          "name": "川岸瑠那",
+          "status": "current"
+        },
+        {
+          "name": "瀬乃まりん",
+          "status": "current"
+        },
+        {
+          "name": "丸山蘭奈",
+          "status": "current"
+        },
+        {
+          "name": "澪川舞香",
+          "status": "current"
+        },
+        {
+          "name": "中本こまり",
+          "status": "current"
+        }
+      ],
+      "power": 81,
+      "growth": 98,
+      "tier": "A+",
+      "tier_reason": "ASOBISYSTEM新レーベルの中核。SNS・フェス・集客の初速が非常に強い。",
+      "verification_status": "verified_partial_label",
+      "verification_note": "",
+      "sources": [
+        "https://peakspot.jp/"
+      ],
+      "last_verified": "2026-08-26",
+      "priority_enriched": true,
+      "score_status": "editorial_v1"
+    },
+    {
+      "id": "hq096",
+      "name": "AsIs",
+      "faction": "新興・ライブアイドル",
+      "debut_date": "2024-03-29",
+      "official_hp": "https://asis-official.com/",
+      "x": "https://x.com/AsIs_OFC",
+      "instagram": null,
+      "tiktok": null,
+      "youtube": null,
+      "agency": "AsIs運営",
+      "project": "AsIs",
+      "label": null,
+      "live_scale": "2周年前後でZepp・大型対バン上位帯へ成長。",
+      "members": [
+        {
+          "name": "雨野せい",
+          "status": "current"
+        },
+        {
+          "name": "北川姫子",
+          "status": "current"
+        },
+        {
+          "name": "瀬乃ひより",
+          "status": "current"
+        },
+        {
+          "name": "星野夢空",
+          "status": "current"
+        },
+        {
+          "name": "南世菜",
+          "status": "current"
+        },
+        {
+          "name": "桃井美月",
+          "status": "current"
+        },
+        {
+          "name": "山城虹奏",
+          "status": "current"
+        }
+      ],
+      "power": 75,
+      "growth": 95,
+      "tier": "A",
+      "tier_reason": "短期間でライブアイドル上位帯に接近する成長速度を評価。",
+      "verification_status": "verified_partial_socials",
+      "verification_note": "",
+      "sources": [
+        "https://asis-official.com/"
+      ],
+      "last_verified": "2026-08-26",
+      "priority_enriched": true,
+      "score_status": "editorial_v1"
+    },
+    {
+      "id": "hq097",
+      "name": "Palette Parade",
+      "faction": "PLAYYTE",
+      "debut_date": "2021-07-25",
+      "official_hp": "https://paletteparade-idol.com/",
+      "x": "https://x.com/O_PaletteParade",
+      "instagram": "https://www.instagram.com/paletteparade_official/",
+      "tiktok": "https://www.tiktok.com/@paletteparade_official",
+      "youtube": null,
+      "agency": "株式会社PLAYYTE",
+      "project": "Palette Parade",
+      "label": null,
+      "live_scale": "5周年公演・全国ツアー、大型対バン上位帯。",
+      "members": [
+        {
+          "name": "葵うた",
+          "status": "current"
+        },
+        {
+          "name": "比嘉ゆめの",
+          "status": "current"
+        },
+        {
+          "name": "中野小陽",
+          "status": "current"
+        },
+        {
+          "name": "白川千尋",
+          "status": "current"
+        },
+        {
+          "name": "山﨑悠楓",
+          "status": "current"
+        },
+        {
+          "name": "夏目志穂",
+          "status": "current"
+        },
+        {
+          "name": "髙橋來都葉",
+          "status": "current"
+        }
+      ],
+      "power": 78,
+      "growth": 90,
+      "tier": "A",
+      "tier_reason": "5周年での会場拡大と新体制、ライブシーンでの伸びを評価。",
+      "verification_status": "verified_partial_label",
+      "verification_note": "",
+      "sources": [
+        "https://paletteparade-idol.com/"
+      ],
+      "last_verified": "2026-08-26",
+      "priority_enriched": true,
+      "score_status": "editorial_v1"
+    },
+    {
+      "id": "hq098",
+      "name": "きゅるりんってしてみて",
+      "faction": "ディアステージ系",
+      "debut_date": "2021-01-23",
+      "official_hp": "https://kyurushite.com/",
+      "x": "https://x.com/KYURUSHITE",
+      "instagram": "https://www.instagram.com/kyurushite/",
+      "tiktok": "https://www.tiktok.com/@kyurushite",
+      "youtube": "https://www.youtube.com/@kyurushite",
+      "agency": "ディアステージ系",
+      "project": "きゅるりんってしてみて",
+      "label": null,
+      "live_scale": "2026年幕張メッセイベントホール級、Kアリーナ横浜公演を発表。",
+      "members": [
+        {
+          "name": "島村嬉唄",
+          "status": "current"
+        },
+        {
+          "name": "環やね",
+          "status": "current"
+        },
+        {
+          "name": "チバゆな",
+          "status": "current"
+        },
+        {
+          "name": "逃げ水あむ",
+          "status": "current"
+        }
+      ],
+      "power": 90,
+      "growth": 97,
+      "tier": "SS",
+      "tier_reason": "SNS・女性ファン層の強さと、幕張からKアリーナへ進む急成長を高評価。",
+      "verification_status": "verified_partial_label",
+      "verification_note": "",
+      "sources": [
+        "https://kyurushite.com/"
+      ],
+      "last_verified": "2026-08-26",
+      "priority_enriched": true,
+      "score_status": "editorial_v1"
+    },
+    {
+      "id": "hq099",
+      "name": "Merry BAD TUNE.",
+      "faction": "新興・ライブアイドル",
+      "debut_date": "2022-07-06",
+      "official_hp": "https://merrybadtune.com/",
+      "x": "https://x.com/merrybadtune",
+      "instagram": null,
+      "tiktok": null,
+      "youtube": null,
+      "agency": "ESOLA MADE",
+      "project": "Merry BAD TUNE.",
+      "label": null,
+      "live_scale": "Zepp DiverCity SOLD OUT級。2026年秋ツアーへ拡大。",
+      "members": [
+        {
+          "name": "久留あずさ",
+          "status": "current"
+        },
+        {
+          "name": "星島ゆい",
+          "status": "current"
+        },
+        {
+          "name": "柊木あいな",
+          "status": "current"
+        },
+        {
+          "name": "三倉みく",
+          "status": "current"
+        },
+        {
+          "name": "森乃ゆめは",
+          "status": "current"
+        }
+      ],
+      "power": 82,
+      "growth": 92,
+      "tier": "A+",
+      "tier_reason": "Zepp完売とツアー拡大を評価。TuneCoreの6名表記と直近ライブ5名表記に差があるため、直近出演体制を採用。",
+      "verification_status": "verified_with_note",
+      "verification_note": "",
+      "sources": [
+        "https://merrybadtune.com/"
+      ],
+      "last_verified": "2026-08-26",
+      "priority_enriched": true,
+      "score_status": "editorial_v1"
+    },
+    {
+      "id": "hq100",
+      "name": "NANIMONO",
+      "faction": "OTONA CHILD.",
+      "debut_date": "2022-06-14",
+      "official_hp": "https://nanimono-official.com/",
+      "x": "https://x.com/NANIMONO_idol",
+      "instagram": "https://www.instagram.com/nanimono_official/",
+      "tiktok": "https://www.tiktok.com/@nanimono_idol",
+      "youtube": "https://www.youtube.com/@NANIMONO_official",
+      "agency": "OTONA CHILD.",
+      "project": "NANIMONO",
+      "label": "Imperial Records / Teichiku Entertainment",
+      "live_scale": "Kanadevia Hall級、海外公演・全国ツアーへ拡大。",
+      "members": [
+        {
+          "name": "ひなたゆま",
+          "status": "current"
+        },
+        {
+          "name": "眠岸ぷりん",
+          "status": "current"
+        },
+        {
+          "name": "柊真ミフユ",
+          "status": "current"
+        },
+        {
+          "name": "紫苑りんか",
+          "status": "current"
+        },
+        {
+          "name": "輪廻ねる",
+          "status": "current"
+        },
+        {
+          "name": "和田あずさ",
+          "status": "current"
+        },
+        {
+          "name": "朝比奈ろん",
+          "status": "current"
+        }
+      ],
+      "power": 84,
+      "growth": 93,
+      "tier": "A+",
+      "tier_reason": "独自コンセプト、メジャー展開、Kanadevia Hall・海外への会場成長を高評価。",
+      "verification_status": "verified",
+      "verification_note": "",
+      "sources": [
+        "https://nanimono-official.com/",
+        "https://www.teichiku.co.jp/artist/nanimono/"
+      ],
+      "last_verified": "2026-08-26",
+      "priority_enriched": true,
+      "score_status": "editorial_v1"
+    }
+  ]
+}
