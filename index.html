@@ -6,7 +6,10 @@
 <meta name="theme-color" content="#eefbff">
 <meta name="description" content="日本女性アイドル300組をPower・Growth・Tier・勢力で可視化するIDOLMAP">
 <title>IDOL MAP 2026</title>
-<link rel="stylesheet" href="./styles.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Yuji+Syuku&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="./styles.css?v=20260826-43">
 </head>
 <body>
 <header><div class="wrap topbar">
@@ -19,15 +22,24 @@
 <div class="stats"><div class="stat"><b id="statGroups">-</b><small>GROUPS</small></div><div class="stat"><b id="statScored">-</b><small>SCORED</small></div><div class="stat"><b id="statFactions">-</b><small>ECOSYSTEMS</small></div><div class="stat hqStat"><b id="statHQ">100</b><small>HQ CORE</small></div></div></div>
 <div class="heroSide card"><div class="mode"><span></span> DATABASE MODE</div><h2>「知りたい」が<br>1タップでつながる。</h2><p>一覧 → 詳細 → 公式サイト。Power / Growth / Tierだけでなく、所属、レーベル、現役メンバー、公式SNSまで同じIDに集約。</p><div class="asof"><small>DATA AS OF</small><b id="asOf">2026-08-26</b></div></div>
 </section>
-<section id="quickSearchSection" class="quickSearch card">
-  <div class="quickSearchHead">
-    <div><small>IDOL SEARCH</small><h2>アイドル検索</h2><p>グループ名・事務所・プロジェクトからすぐ探せます。</p></div>
+<section id="quickSearchSection" class="topSearchSection">
+  <div class="sectionHead topSearchHead">
+    <div><small>IDOL SEARCH</small><h2>アイドル検索</h2><p>DATABASEと同じ条件で、トップからすぐ探せます。</p></div>
     <button id="openDatabaseBtn" class="dbJump">全300組を見る →</button>
   </div>
-  <div class="quickSearchBar">
-    <input id="quickSearch" type="search" placeholder="アイドル名 / 事務所 / プロジェクトを検索">
+  <div class="toolbar card topToolbar">
+    <input id="quickSearch" type="search" placeholder="アイドル名 / 事務所 / プロジェクト / レーベルを検索">
+    <select id="quickSort">
+      <option value="power">POWER順</option>
+      <option value="growth">GROWTH順</option>
+      <option value="tier">TIER順</option>
+      <option value="name">名前順</option>
+    </select>
+    <button id="quickReset" class="quickReset">リセット</button>
+    <div id="quickTierChips" class="chips"></div>
+    <div id="quickFactionChips" class="chips chipsScroll"></div>
   </div>
-  <div id="quickResults" class="quickResults"></div>
+  <div id="quickResults" class="groupGrid quickGroupGrid"></div>
 </section>
 <section id="discoverView" class="view">
 <div class="sectionHead"><div><small>IDOLMAP PICKS</small><h2>おすすめMV 10選</h2><p>今の女性アイドルシーンを知るために、まず観てほしい10本。</p></div></div>
@@ -57,5 +69,5 @@
 </main>
 <div id="drawer" class="drawer"><div id="shade" class="shade"></div><aside class="drawerPanel"><button id="drawerClose" class="drawerClose">×</button><div id="drawerContent"></div></aside></div>
 <footer><div class="wrap">IDOL MAP 2026 · 300 GROUPS / HQ100 · Editorial database</div></footer>
-<script src="./app.js"></script>
+<script src="./app.js?v=20260826-43"></script>
 </body></html>

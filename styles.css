@@ -14,3 +14,48 @@ button,input,select,textarea{font:inherit}.wrap{max-width:1180px;margin:auto;pad
 footer{padding:40px 0 65px;color:#8297a0;font-size:9px}
 @media(max-width:900px){.hero{grid-template-columns:1fr}.mvGrid{grid-template-columns:1fr}.scoreExplain{grid-template-columns:1fr}.rankColumns{grid-template-columns:1fr}.groupGrid{grid-template-columns:repeat(2,1fr)}.mapPlot{height:500px}}
 @media(max-width:600px){.wrap{padding:0 12px}.topbar{min-height:61px}.brand small{display:none}.navBtn{padding:8px 9px;font-size:9px}.hero{padding-top:22px}.heroMain,.heroSide{padding:22px}.stats{grid-template-columns:1fr 1fr}.mvCard{grid-template-columns:135px 1fr;min-height:115px}.mvBody{padding:12px}.mvBody h3{font-size:14px}.mapFilterRow{grid-template-columns:1fr}.mapShell{padding:16px 8px 11px}.mapPlot{height:460px;margin-left:24px}.mapLabel{font-size:7px}.rankColumns{gap:28px}.trendItem{grid-template-columns:32px 72px 1fr}.trendThumb{width:72px;height:42px}.trendDate,.ytBtn{display:none}.toolbar{grid-template-columns:1fr}.toolbar .chips{grid-column:1}.groupGrid{grid-template-columns:1fr}.detailGrid,.memberGrid{grid-template-columns:1fr}.drawerPanel{padding:19px}.drawer h2{font-size:29px}.voiceForm{grid-template-columns:1fr 1fr}.voiceForm textarea,.voiceForm button{grid-column:1/-1}}
+
+/* ===== Ver 4.3 cache-fix / unified top search ===== */
+.sengokuTitle{
+  font-family:"Yuji Syuku","Hiragino Mincho ProN","Yu Mincho",serif !important;
+  font-weight:400 !important;
+  letter-spacing:-.025em !important;
+}
+.topSearchSection{padding:4px 0 22px}
+.topSearchHead{margin-top:4px}
+.dbJump{
+  border:1px solid #cee7f2;
+  background:#fff;
+  border-radius:999px;
+  padding:9px 12px;
+  color:#587887;
+  font-size:9px;
+  font-weight:900;
+  cursor:pointer
+}
+.topToolbar{
+  grid-template-columns:1fr 170px 130px;
+}
+.topToolbar .chips{grid-column:1/-1}
+.quickReset{
+  border:1px solid #cee7f2;
+  background:#fff;
+  border-radius:14px;
+  padding:11px 12px;
+  color:#587887;
+  font-weight:900;
+  cursor:pointer;
+}
+.quickGroupGrid{margin-top:12px}
+.quickGroupGrid:empty{display:none}
+
+/* neutralize the older custom quick-search rules if cached CSS text is merged */
+.quickSearch,.quickSearchHead,.quickSearchBar{all:unset}
+.quickResults{all:unset}
+
+@media(max-width:600px){
+  .topToolbar{grid-template-columns:1fr 1fr}
+  .topToolbar>input{grid-column:1/-1}
+  .topToolbar .chips{grid-column:1/-1}
+  .topSearchHead{align-items:flex-start}
+}
